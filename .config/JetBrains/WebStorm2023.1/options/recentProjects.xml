@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/echo-v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="echo-v3" opened="true" projectWorkspaceId="2QQvCCL1QDJjGY7N0aEeVtSnYhN">
+              <option name="activationTimestamp" value="1685652259742" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-231.9011.35" />
+              <option name="buildTimestamp" value="1684224206514" />
+              <frame x="12" y="67" width="1896" height="1001" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1685651972089" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/echo-v3" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
+  </component>
+</application>

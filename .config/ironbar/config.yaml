@@ -1,0 +1,54 @@
+anchor_to_edges: true
+
+position: top
+height: 40
+margin:
+  left: 8
+  top: 8
+  right: 8
+
+start:
+  - type: label
+    label: ""
+  - type: workspaces
+    all_monitors: true
+  - type: sys_info
+    format:
+      - ' {disk_used:/} / {disk_total:/} GB ({disk_percent:/}%)'
+
+center:
+  - type: music
+    format: "Playing: {title} / {artist}"
+    show_status_icon: false
+
+end:
+  - type: tray
+  - type: clock
+    format: "%H: %M | %m/%d/%Y"
+  - type: custom
+    bar:
+    - on_click: popup:toggle
+      label: 
+      name: power-btn
+      type: button
+    class: power-menu
+    popup:
+    - orientation: vertical
+      type: box
+      widgets:
+      - label: Power menu
+        name: header
+        type: label
+      - type: box
+        widgets:
+        - class: power-btn
+          on_click: '!shutdown now'
+          label: <span font-size='40pt'></span>
+          type: button
+        - class: power-btn
+          on_click: '!reboot'
+          label: <span font-size='40pt'></span>
+          type: button
+      - label: 'Uptime: {{30000:uptime -p | cut -d '' '' -f2-}}'
+        name: uptime
+        type: label

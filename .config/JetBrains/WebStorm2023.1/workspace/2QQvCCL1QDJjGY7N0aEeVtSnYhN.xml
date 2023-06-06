@@ -1,0 +1,544 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="echo-v3" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="4" lastUsed="1685298574694" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1685307135933" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="4" lastUsed="1685399869589" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="7" lastUsed="1685361392906" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="1" lastUsed="1685298540674" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1685312815510" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="36" lastUsed="1685401448427" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="42" lastUsed="1685450769158" />
+    </fileType>
+    <fileType name="Svelte">
+      <summary usageCount="142" lastUsed="1685622977047" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="47" lastUsed="1685367176774" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="2" lastUsed="1685622400831" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="1" lastUsed="1685298541420" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4px</find>
+      <find>Poppins</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>var(--gap-size)</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/lib</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/src/lib/Counter.svelte" />
+      <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/public/SoundCues.svg" />
+      <option value="$PROJECT_DIR$/public/Scripts.svg" />
+      <option value="$PROJECT_DIR$/public/Scenes.svg" />
+      <option value="$PROJECT_DIR$/public/PlayMode.svg" />
+      <option value="$PROJECT_DIR$/public/Settings.svg" />
+      <option value="$PROJECT_DIR$/public/Back.svg" />
+      <option value="$PROJECT_DIR$/src/lib/Navbar.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/SoundCuesTab.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/TitleBar.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ts/api.ts" />
+      <option value="$PROJECT_DIR$/src/lib/ProjectsList.svelte" />
+      <option value="$PROJECT_DIR$/src/App.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ProjectCard.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ts/models.ts" />
+      <option value="$PROJECT_DIR$/src/lib/ts/stores.ts" />
+      <option value="$PROJECT_DIR$/src/lib/comps/Navbar.svelte" />
+      <option value="$PROJECT_DIR$/src/app.scss" />
+      <option value="$PROJECT_DIR$/src/lib/comps/TitleBar.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueEditor.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ProjectDetails.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCuesTab.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueProp.svelte" />
+      <option value="$PROJECT_DIR$/public/ icon _chevron bottom_.svg" />
+      <option value="$PROJECT_DIR$/public/Dropdown.svg" />
+      <option value="$PROJECT_DIR$/src/lib/comps/GenericDropdown.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/comps/SelectDropdown.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/comps/FilePicker.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="4" lastUsage="1685298574694" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1685307135933" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="4" lastUsage="1685399869589" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1685361392906" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="1" lastUsage="1685298540674" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1685312815510" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="36" lastUsage="1685401448427" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="42" lastUsage="1685450769158" />
+    </language>
+    <language id="SvelteHTML">
+      <summary usageCount="142" lastUsage="1685622977047" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="47" lastUsage="1685367176774" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/comps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/soundcues}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.npm dev" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26857000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21281645" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32817185" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32817185" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.32817185" left="0.21281645" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21281645" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32817185" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.32817185" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.32817185" left="0.21281645" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1685364006619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="726" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685364006619" />
+    <state x="172" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1685298806562">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="172" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685298806562" />
+    <state x="123" y="236" key="EditFileWatcherDialog" timestamp="1685298611241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="123" y="236" key="EditFileWatcherDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685298611241" />
+    <state width="1794" height="275" key="GridCell.Tab.0.bottom" timestamp="1685652259823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685652259823" />
+    <state width="1794" height="275" key="GridCell.Tab.0.center" timestamp="1685652259823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="275" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685652259823" />
+    <state width="1794" height="275" key="GridCell.Tab.0.left" timestamp="1685652259823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="275" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685652259823" />
+    <state width="1794" height="275" key="GridCell.Tab.0.right" timestamp="1685652259823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="275" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685652259823" />
+    <state x="351" y="115" key="SettingsEditor" timestamp="1685398817154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="351" y="115" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685398817154" />
+    <state x="531" y="216" width="939" height="760" key="find.popup" timestamp="1685365174365">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="216" width="939" height="760" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685365174365" />
+    <state x="539" y="0" width="840" height="707" key="search.everywhere.popup" timestamp="1685622936800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="0" width="840" height="707" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1685622936800" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/svelte.config.js" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.node.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vite.config.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Counter.svelte" preview="true" />
+    <entry file="file://$PROJECT_DIR$/src/assets/svelte.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/SoundCues.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/Scripts.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/Scenes.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/PlayMode.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/Settings.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/Back.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/vite.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vite-env.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/svelte-konva/dist/index.d.ts" preview="true" />
+    <entry file="file://$PROJECT_DIR$/README.md" preview="true">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="-536" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/shapes/Text.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/Stage.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/index-types.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="76" column="54" lean-forward="true" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/Layer.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/Container.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/konva/lib/Node.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="119" column="26" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#23#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/projects/ProjectsList.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#13#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/api.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/models.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/stores.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.scss" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ProjectDetails.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCuesTab.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+          <folding>
+            <element signature="e#23#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/Navbar.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="e#23#54#0" expanded="true" />
+            <element signature="n#div#0;n#nav#0;n#!!top" />
+            <element signature="n#div#1;n#nav#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueProp.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/🦆 icon _chevron bottom_.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/TitleBar.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Dropdown.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/GenericDropdown.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/SelectDropdown.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/CircularProgress.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/comps/FilePicker.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+          <folding>
+            <element signature="e#23#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

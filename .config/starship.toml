@@ -1,0 +1,47 @@
+palette = "everforest"
+format = """
+[   ](green)\
+$git_branch\
+$directory\
+$nodejs\
+$rust\
+$golang\
+$php\
+\n  [└──>](green) """
+
+[directory]
+style = "green"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = " "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+
+[git_branch]
+symbol = ""
+format = '[[ $symbol $branch ](fg)]($style)'
+
+[nodejs]
+symbol = ""
+format = '[[ $symbol ($version) ](fg)]($style)'
+
+[rust]
+symbol = ""
+format = '[[ $symbol ($version) ](fg)]($style)'
+
+[palettes.everforest]
+bg = "#272e33"
+red = "#e67e80"
+orange = "#e69875"
+yellow = "#dbbc7f"
+green = "#a7c080"
+blue = "#7fbbb3"
+aqua = "#83c092"
+purple = "#d699b6"
+fg = "#d3c6aa"
+
+

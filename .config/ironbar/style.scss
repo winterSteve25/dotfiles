@@ -1,0 +1,151 @@
+@mixin hover {
+	&:hover {
+		background-color: rgba(88, 88, 88, 0.4);
+	}
+}
+
+@mixin no-background {
+	border: none;
+	box-shadow: none;
+	background: none;
+}
+
+$green: #a7c080;
+
+.background {
+	background-color: rgba(6, 6, 6, 0.8);
+	border-radius: 8px;
+}
+
+.clock {
+	color: white;
+	margin-right: 8px;
+	border-radius: 0;
+	
+	@include no-background();
+	@include hover();
+}
+
+.popup-clock {
+	color: white;
+	padding: 8px;
+
+	.calendar {
+		background-color: rgba(6, 6, 6, 0.2);
+		color: white;
+		border: none;
+	}
+
+	.calendar-clock {
+		color: white;
+	}
+}
+
+.label {
+	color: $green;
+	margin-left: 16px;
+	margin-right: 16px;
+	font-size: 32px;
+}
+
+.workspaces {
+	margin-right: 16px;
+
+	.item {
+		color: white;
+		
+		margin-left: -8px;
+		margin-right: -8px;
+
+		border-radius: 0;
+		@include hover();
+		@include no-background();
+	}
+
+	.item.focused {
+		color: $green;
+	}
+}
+
+.music {
+	color: white;
+	border-radius: 0;
+
+	.icon {
+		color: $green;
+	}
+
+	@include no-background();
+	@include hover();
+}
+
+.popup-music {
+	padding: 16px;
+
+	.label {
+		color: white;
+	}
+
+	.btn-prev {
+		@include no-background();
+		color: white;
+	}
+
+	.btn-play {
+		@include no-background();
+		color: white;
+	}
+
+	.btn-pause {
+		@include no-background();
+		color: white;
+	}
+
+	.btn-next {
+		@include no-background();
+		color: white;
+	}
+
+	.slider {
+		color: white;
+	}
+	
+	.album {
+		border-radius: 8px;
+	}
+}
+
+.sysinfo .item {
+	color: white;
+}
+
+.power-menu {
+	#power-btn {
+		color: white;
+		margin-right: 1em;
+
+		@include no-background();
+		@include hover();
+	}
+}
+
+.popup-power-menu {
+    padding: 1em;
+
+	#header {
+		color: white;
+		font-size: 1.4em;
+	}
+
+	.power-btn {
+		padding: 0.6em 1em;
+		color: white;
+
+		@include no-background();
+		@include hover();
+	}
+
+	#uptime {
+		color: white;
+	}
+}

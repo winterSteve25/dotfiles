@@ -1,0 +1,144 @@
+.background {
+  background-color: rgba(6, 6, 6, 0.8);
+  border-radius: 8px;
+}
+
+.clock {
+  color: white;
+  margin-right: 8px;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.clock:hover {
+  background-color: rgba(88, 88, 88, 0.4);
+}
+
+.popup-clock {
+  color: white;
+  padding: 8px;
+}
+.popup-clock .calendar {
+  background-color: rgba(6, 6, 6, 0.2);
+  color: white;
+  border: none;
+}
+.popup-clock .calendar-clock {
+  color: white;
+}
+
+.label {
+  color: #a7c080;
+  margin-left: 16px;
+  margin-right: 16px;
+  font-size: 32px;
+}
+
+.workspaces {
+  margin-right: 16px;
+}
+.workspaces .item {
+  color: white;
+  margin-left: -8px;
+  margin-right: -8px;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.workspaces .item:hover {
+  background-color: rgba(88, 88, 88, 0.4);
+}
+.workspaces .item.focused {
+  color: #a7c080;
+}
+
+.music {
+  color: white;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.music .icon {
+  color: #a7c080;
+}
+.music:hover {
+  background-color: rgba(88, 88, 88, 0.4);
+}
+
+.popup-music {
+  padding: 16px;
+}
+.popup-music .label {
+  color: white;
+}
+.popup-music .btn-prev {
+  border: none;
+  box-shadow: none;
+  background: none;
+  color: white;
+}
+.popup-music .btn-play {
+  border: none;
+  box-shadow: none;
+  background: none;
+  color: white;
+}
+.popup-music .btn-pause {
+  border: none;
+  box-shadow: none;
+  background: none;
+  color: white;
+}
+.popup-music .btn-next {
+  border: none;
+  box-shadow: none;
+  background: none;
+  color: white;
+}
+.popup-music .slider {
+  color: white;
+}
+.popup-music .album {
+  border-radius: 8px;
+}
+
+.sysinfo .item {
+  color: white;
+}
+
+.power-menu #power-btn {
+  color: white;
+  margin-right: 1em;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.power-menu #power-btn:hover {
+  background-color: rgba(88, 88, 88, 0.4);
+}
+
+.popup-power-menu {
+  padding: 1em;
+}
+.popup-power-menu #header {
+  color: white;
+  font-size: 1.4em;
+}
+.popup-power-menu .power-btn {
+  padding: 0.6em 1em;
+  color: white;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.popup-power-menu .power-btn:hover {
+  background-color: rgba(88, 88, 88, 0.4);
+}
+.popup-power-menu #uptime {
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

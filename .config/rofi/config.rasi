@@ -1,0 +1,11 @@
+configuration {
+	display-drun: "Applications: ";
+	display-window: "Windows: ";
+	show-icons: true;
+	drun-display-format: "{icon} {name}";
+	modes: [ window, drun ];
+	icon-theme: "Papirus";
+	font: "agave Nerd Font Mono 16";
+}
+
+@theme "/home/cadenz/.config/rofi/theme.rasi"

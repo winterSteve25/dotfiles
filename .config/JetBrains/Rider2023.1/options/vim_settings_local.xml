@@ -1,0 +1,274 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Y2F2ZQ==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">MA==</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="192" column="58" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/DimensionType.java" />
+    <jump line="37" column="8" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
+    <jump line="41" column="10" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
+    <jump line="43" column="20" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
+    <jump line="100" column="24" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NormalNoise.java" />
+    <jump line="106" column="67" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NormalNoise.java" />
+    <jump line="17" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" />
+    <jump line="12" column="79" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunction.java" />
+    <jump line="12" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDimensions.java" />
+    <jump line="13" column="145" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" />
+    <jump line="35" column="7" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="34" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="32" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="3" column="28" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="33" column="24" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="16" column="15" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension_type/asteroid.json" />
+    <jump line="19" column="24" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIBiomes.java" />
+    <jump line="14" column="32" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="17" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="26" column="7" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="27" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="28" column="18" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="10" column="23" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="79" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="23" column="28" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="4" column="21" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="1" column="29" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="9" column="31" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="57" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="72" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="12" column="29" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="20" column="15" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
+    <jump line="10" column="71" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="0" column="12" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="1" column="17" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="25" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="104" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="103" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="121" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="119" column="88" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="116" column="58" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="114" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="105" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="124" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="102" column="15" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="101" column="3" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="122" column="61" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="2" column="46" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" />
+    <jump line="15" column="0" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" />
+    <jump line="127" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/RPGUtils/gradle.properties" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/RPGUtils/gradle.properties" />
+    <jump line="108" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="89" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
+    <jump line="87" column="15" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
+    <jump line="82" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
+    <jump line="109" column="69" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="112" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="81" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
+    <jump line="98" column="14" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
+    <jump line="107" column="84" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="117" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="110" column="68" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/pack.mcmeta" />
+    <jump line="115" column="52" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="98" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="100" column="16" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="94" column="47" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="111" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="95" column="3" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="99" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="96" column="40" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="93" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="144" column="10" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="146" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="145" column="8" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
+    <jump line="20" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="13" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="14" column="25" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="10" column="47" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="9" column="18" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/.gitignore" />
+    <jump line="4" column="3" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="2" column="13" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="9" column="31" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="9722" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f696fd293a9c4c84baa5c03e2502259239000/9f/6588db36/ImGui.cs" />
+    <jump line="11" column="23" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="3" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="4" column="18" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="5" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="8" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="7" column="25" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="11" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="10" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="5" column="22" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
+    <jump line="12" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" timestamp="1684183814623">
+        <mark key="&quot;" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/common/data/capabilities/base/CapabilityProvider.java" timestamp="1684184941610">
+        <mark key="&quot;" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/gradle.properties" timestamp="1684183832965">
+        <mark key="&quot;" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" timestamp="1684159137373">
+        <mark key="&quot;" line="13" column="145" />
+        <mark key="'" line="49" column="67" />
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="100" />
+        <mark key="^" line="14" column="100" />
+        <mark key="." line="14" column="99" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" timestamp="1684183326024">
+        <mark key="&quot;" line="11" column="2" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/client/animation/IAnimatedEntity.java" timestamp="1684183397107">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/common/entities/NPCEntity.java" timestamp="1684184965605">
+        <mark key="&quot;" line="47" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/build.gradle" timestamp="1684184000602">
+        <mark key="&quot;" line="99" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" timestamp="1684446419657">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" timestamp="1684446203520">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/build.gradle" timestamp="1684184927803">
+        <mark key="&quot;" line="145" column="8" />
+        <mark key="[" line="94" column="40" />
+        <mark key="]" line="94" column="48" />
+        <mark key="^" line="94" column="48" />
+        <mark key="." line="94" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDimensions.java" timestamp="1684159155545">
+        <mark key="&quot;" line="12" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f696fd293a9c4c84baa5c03e2502259239000/9f/6588db36/ImGui.cs" timestamp="1684446159029">
+        <mark key="&quot;" line="9722" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension_type/asteroid.json" timestamp="1684182448508">
+        <mark key="&quot;" line="4" column="6" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIBiomes.java" timestamp="1684182579266">
+        <mark key="&quot;" line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dev/PartyBuilder/.gitignore" timestamp="1684444370770">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunctions.java" timestamp="1684159095179">
+        <mark key="&quot;" line="32" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dev/RPGUtils/src/main/resources/pack.mcmeta" timestamp="1684184049065">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/PartyBuilder/Program.cs" timestamp="1684444365046">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1684183334500">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">bWluZWNyYWZ0</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">UmF5bGliCnVzaW5nIFJheWxpYl9jczsuZHJhd3ZlckRhd3JyYXdyYXc=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">Y2F2ZQ==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZnLmRlb2JmKCdzb2Z0d2FyZS5iZXJuaWUuZ2Vja29saWI6Z2Vja29saWItZm9yZ2UtMS4xODozLjAuNTcnKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNpbmcgSW1HdWlORVQ7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgaW8gPSBJbUd1aS5HZXRJTygpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBSYXlsaWIuRHJhdwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBJbUd1aS5TcGFjaW5nKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">Y2F2ZQ==</last-search>
+      <last-pattern encoding="base64">Y2F2ZQ==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

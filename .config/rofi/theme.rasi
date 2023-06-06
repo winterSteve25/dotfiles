@@ -1,0 +1,34 @@
+* {
+	bg: #08080880;
+	spacing: 1;
+	background-color: @bg;
+}
+
+window {
+	border-radius: 8;
+	width: 40%;
+}
+
+prompt, entry, element-text {
+	text-color: white;
+}
+
+inputbar {
+	padding: 16;
+}
+
+listview {
+	padding: 16;
+}
+
+element-icon {
+	size: 3.2ch;
+}
+
+element selected {
+	background-color: #88888880;
+}
+
+element-text {
+	vertical-align: 0.6;
+}

@@ -1,0 +1,62 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/Tau/Forge-1.16">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Forge-1.16 – Tooltip.java [Forge-1.16.main]" projectWorkspaceId="2PTRiRFioujIAmuUv3Pali6KQ2e">
+              <option name="activationTimestamp" value="1684084833553" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.8770.65" />
+              <option name="buildTimestamp" value="1682609127137" />
+              <frame x="12" y="60" width="1896" height="1008" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1684084833823" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Tau/Forge-1.18">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Forge-1.18 – Layout.java [Forge-1.18.main]" projectWorkspaceId="2PkffghlW6Eq3j37Q3CIyXP3EcX">
+              <option name="activationTimestamp" value="1684671510243" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213251143" />
+              <frame x="12" y="67" width="1896" height="1001" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1684671486771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Tau/Forge-1.19">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Forge-1.19" projectWorkspaceId="2PkfsJ0X7fQHkqY7B7Cz9BiuS59">
+              <option name="activationTimestamp" value="1684674069982" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213251143" />
+              <frame x="967" y="67" width="941" height="1001" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1684673555544" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/Echo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Echo – main.rs" opened="true" projectWorkspaceId="2QQLCLHD74tHhP0bsx2f0p5COL6">
+              <option name="activationTimestamp" value="1685287255265" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213236670" />
+              <frame x="12" y="60" width="410" height="1008" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1685286643506" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/Echo" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
+  </component>
+</application>

@@ -1,0 +1,275 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Y2F2ZQ==</entry>
+        <entry encoding="base64">bGlicm9ja3NkYg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">MA==</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="70" column="35" filename="$USER_HOME$/Dev/Meebo/src/main/java/com/blackgear/meebo/Meebo.java" />
+    <jump line="82" column="12" filename="$USER_HOME$/Dev/Meebo/src/main/java/com/blackgear/meebo/Meebo.java" />
+    <jump line="25" column="68" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="8" column="4" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="10" column="10" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="48" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="478" column="7" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_codegen-0.5.0-rc.3/src/lib.rs" />
+    <jump line="31" column="25" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="0" column="14" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="4" column="29" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="4" column="11" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="0" column="4" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="67" column="29" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="88" column="40" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="23" column="22" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="39" column="3" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/cors.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/models/user.rs" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/models/user.rs" />
+    <jump line="16" column="35" filename="$USER_HOME$/Dev/Echo/echo_api/src/models/user.rs" />
+    <jump line="5" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="22" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="28" column="5" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="25" column="18" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/App.toml" />
+    <jump line="45" column="34" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="20" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="17" column="23" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="97" column="17" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/kvs/ds.rs" />
+    <jump line="81" column="8" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="18" column="5" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="46" column="28" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="90" column="20" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="92" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="17" column="19" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="12" column="18" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="13" column="21" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="2" column="16" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="14" column="23" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="7" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="86" column="33" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="77" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="74" column="109" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="78" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="91" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="3" column="37" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="9" column="8" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="1" column="13" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="11" column="25" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="15" column="19" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="80" column="15" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="16" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="11" column="21" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="9" column="13" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="8" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="15" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="0" column="0" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocksdb-0.20.1/src/lib.rs" />
+    <jump line="94" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="87" column="63" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="36" column="11" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="39" column="23" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="3" column="26" filename="$USER_HOME$/Dev/Echo/echo_api/App.toml" />
+    <jump line="28" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="89" column="22" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="83" column="29" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="82" column="18" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="40" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="85" column="21" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="84" column="20" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="38" column="34" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="32" column="26" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="29" column="20" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="13" column="34" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Rocket.toml" />
+    <jump line="1" column="15" filename="$USER_HOME$/Dev/Echo/echo_api/Rocket.toml" />
+    <jump line="21" column="9" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="23" column="8" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="8" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="11" column="13" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="14" column="9" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="14" column="20" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="5" column="95" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="7" column="13" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="37" column="87" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="68" column="21" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="16" column="5" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="18" column="61" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="24" column="8" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="17" column="46" filename="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" />
+    <jump line="259" column="17" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/kvs/ds.rs" />
+    <jump line="6" column="16" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/dbs/variables.rs" />
+    <jump line="13" column="34" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.lock" />
+    <jump line="12" column="91" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
+    <jump line="314" column="23" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/Cargo.toml" />
+    <jump line="194" column="18" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/Cargo.toml" />
+    <jump line="10" column="59" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/Dummy.txt" timestamp="1685286889299">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" timestamp="1685286976980">
+        <mark key="&quot;" line="68" column="21" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/Cargo.lock" timestamp="1685287091964">
+        <mark key="&quot;" line="486" column="8" />
+      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/result.rs" timestamp="1685281405618">
+        <mark key="&quot;" line="502" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/data.db" timestamp="1685282067357">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/models/user.rs" timestamp="1685281498154">
+        <mark key="&quot;" line="15" column="33" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/models.rs" timestamp="1685281563865">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/cors.rs" timestamp="1685281563650">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_codegen-0.5.0-rc.3/src/attribute/entry/mod.rs" timestamp="1685281043664">
+        <mark key="&quot;" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/kvs/ds.rs" timestamp="1685286916048">
+        <mark key="&quot;" line="259" column="17" />
+        <mark key="'" line="259" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/session_db.rs" timestamp="1685286951509">
+        <mark key="&quot;" line="16" column="0" />
+        <mark key="'" line="18" column="46" />
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="18" column="77" />
+        <mark key="^" line="18" column="77" />
+        <mark key="." line="18" column="76" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/Rocket.toml" timestamp="1685286369297">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/Cargo.toml" timestamp="1685287105144">
+        <mark key="&quot;" line="314" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" timestamp="1685287108034">
+        <mark key="&quot;" line="12" column="20" />
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="62" />
+        <mark key="^" line="10" column="63" />
+      </file>
+      <file name="/" timestamp="1685282174161">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/params.rs" timestamp="1685281564009">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/src/models/time.rs" timestamp="1685281475851">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/Echo/echo_api/App.toml" timestamp="1685285690618">
+        <mark key="&quot;" line="3" column="26" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/dbs/variables.rs" timestamp="1685287076426">
+        <mark key="&quot;" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocksdb-0.20.1/src/lib.rs" timestamp="1685285007631">
+        <mark key="&quot;" line="15" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Tm9uZQ==</text>
+      </register>
+      <register name="*" type="4">
+        <text encoding="base64">Tm9uZQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Tm9uZQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">cm9ja3NkYg==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">bGlicm9ja3NkYg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">cm9ja3NkYi90YWJsZS9ibG9ja19iYXNlZC9kYXRhX2Jsb2NrX2hhc2hfaW5kZXguaDo2NTo3OiBlcnJvcjog4oCYdWludDhfdOKAmSBkb2VzIG5vdCBuYW1lIGEgdHlwZQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIHNlcmRlOjpEZXNlcmlhbGl6ZTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6ZW52OjpWYXJzOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxldCBmaWdtZW50ID0gRmlnbWVudDo6ZnJvbShDb25maWc6OmRlZmF1bHQoKSkKICAgICAgICAubWVyZ2UoVG9tbDo6ZmlsZSgiUm9ja2V0LnRvbWwiKS5uZXN0ZWQoKSkKICAgICAgICAubWVyZ2UoVG9tbDo6ZmlsZSgiQXBwLnRvbWwiKS5uZXN0ZWQoKSk7Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZGJfY29uZmlnOiBEYkNvbmZpZyA9IGZpZ21lbnQuc2VsZWN0KCJkYXRhYmFzZSIpLmV4dHJhY3QoKS51bndyYXAoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZmlnbWVudCA9IHJvY2tldC5maWdtZW50KCkuY2xvbmUoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiNbZGVyaXZlKERlc2VyaWFsaXplKV0KcHViIHN0cnVjdCBEYkNvbmZpZyB7CiAgICBuYW1lc3BhY2U6IFN0cmluZywKICAgIGRhdGFiYXNlOiBTdHJpbmcsCiAgICBkYXRhc3RvcmU6IFN0cmluZywKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGlicm9ja3NkYi1zeXMgPSAiMC4xMS4wKzguMS4xIgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">I1ttYWNyb191c2VdIGV4dGVybiBjcmF0ZSByb2NrZXQ7Cgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d3E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">bGlicm9ja3NkYg==</last-search>
+      <last-pattern encoding="base64">bGlicm9ja3NkYg==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

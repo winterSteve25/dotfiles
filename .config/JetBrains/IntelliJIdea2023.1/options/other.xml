@@ -1,0 +1,111 @@
+<application>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 17.0.7" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-17.0.7" />
+        <option name="sha256" value="8d23e0f1249f2852caa76b7ae8770847e005e4310a70a46b7c1a816c34ff9195" />
+        <option name="url" value="https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-linux-x64.tar.gz" />
+        <option name="versionText" value="17.0.7" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.15933752",
+    "CRATES_IO_INDEX_LAST_UPDATE": "1685284593750",
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "rust\nrus\nru\nr",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-231.8770.65",
+    "MarketplacePluginsSearchHistory": "rust",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "TextEditorWithPreview.SplitterProportionKey": "0.744382",
+    "appcds.runOnSecondStart": "IU-231.9011.34-40d32ea1f7a8aaa3ba2da8f6363945457577a818f1d6805392e9f565ad96e385",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-231.9011.34",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.231": "24",
+    "experimental.ui.first.promotion.localdate": "2023-05-07",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "23",
+    "fileTypeChangedCounter": "8",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.rust.linter.on-the-fly.got.it": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "gotit.previous.run": "IU-231.9011.34",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1685280951882",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/home/cadenz/Dev/Echo/echo_api",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.rust.external.linter.slow.run.do.not.show": "true",
+    "org.rust.lang.LAST_UPDATE": "1685280949256",
+    "org.rust.lang.LAST_VERSION": "0.4.194.5382-231",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IU-231.9011.34",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/cadenz/Dev/Echo/echo_api",
+      "/home/cadenz/Dev/Echo/echo_api/Cargo.toml",
+      "/home/cadenz/Dev/Echo",
+      "/home/cadenz/Dev/Meebo/build.gradle",
+      "/home/cadenz/Dev/RPGUtils/build.gradle",
+      "/home/cadenz/Dev/Tau/Forge-1.16/build.gradle",
+      "/home/cadenz/Dev/Tau/Forge-1.19",
+      "/home/cadenz/Dev/ONI-Utils/build.gradle",
+      "/home/cadenz/Dev/ONIUtils/build.gradle",
+      "/home/cadenz/Dev/Tau/Forge-1.19/build.gradle",
+      "/home/cadenz/Dev/Tau/Forge-1.18/build.gradle",
+      "/home/cadenz/Dev/Tau-1.19",
+      "/home/cadenz/Dev/Tau/build.gradle",
+      "/home/cadenz/Dev/ONI-Utils"
+    ],
+    "fileTypeDetectors": [
+      "ru.meanmail.fileTypes.RequirementsFileTypeDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.demonwav.mcdev.nbt.filetype.NbtFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1685280888028,
+    &quot;QuickJavaDoc&quot;: 1684676166529,
+    &quot;SearchEverywhere&quot;: 1684000093513,
+    &quot;RecentFiles&quot;: 1684153963491,
+    &quot;VCS_general&quot;: 1684065370648,
+    &quot;ShowUsages&quot;: 1683890539220
+  }
+}</component>
+</application>

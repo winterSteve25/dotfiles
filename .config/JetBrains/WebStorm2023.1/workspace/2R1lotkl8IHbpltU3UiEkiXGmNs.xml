@@ -1,0 +1,204 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="NBE3U-Portfolio" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="1" lastUsed="1686429222660" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1686431196638" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="13" lastUsed="1686429226079" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1686426832432" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="2" lastUsed="1686428051632" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="2" lastUsed="1686431046569" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1686425747361" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1686426545255" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/siena_east.html" />
+      <option value="$PROJECT_DIR$/food_sovereignty.html" />
+      <option value="$PROJECT_DIR$/resources/styles/style.scss" />
+      <option value="$PROJECT_DIR$/index.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1686429222660" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1686431196638" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="13" lastUsage="1686429226079" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="2" lastUsage="1686428051632" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="2" lastUsage="1686431046569" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1686426545255" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NBE3U-Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4477000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17048554" />
+      <window_info id="Commit" order="1" weight="0.17048554" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.33035713" left="0.17048554" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="758" y="83" key="#Web_Browsers_and_Preview" timestamp="1686425819725">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="758" y="83" key="#Web_Browsers_and_Preview/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686425819725" />
+    <state x="642" y="121" width="729" height="959" key="EditFileWatcherDialog" timestamp="1686426879070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="642" y="121" width="729" height="959" key="EditFileWatcherDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686426879070" />
+    <state x="1232" y="0" key="FileChooserDialogImpl" timestamp="1686425815621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1232" y="0" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686425815621" />
+    <state x="387" y="102" key="SettingsEditor" timestamp="1686425696927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="387" y="102" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686425696927" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/bg2.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Food Sovereignty.png" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siena_east.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1644">
+          <caret line="91" column="51" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/style.css" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food_sovereignty.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/style.scss" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="247" column="24" selection-start-line="247" selection-start-column="24" selection-end-line="247" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/bg.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

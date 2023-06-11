@@ -1,0 +1,14 @@
+.config/awesome
+.config/BetterDiscord
+.config/betterlockscreen
+.config/fish
+.config/JetBrains
+.config/kitty
+.config/nvim
+.config/rofi
+.config/picom.conf
+.config/starship.toml
+
+.ideavimrc
+.gitconfig
+.git-credentials

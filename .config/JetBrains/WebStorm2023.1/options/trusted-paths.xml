@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Dev/Echo" value="true" />
+        <entry key="$USER_HOME$/Dev/Echo/echo-v3" value="true" />
+        <entry key="$USER_HOME$/Dev/NBE3U-Portfolio" value="true" />
+        <entry key="$USER_HOME$/Dev/echo-v3" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Dev/Echo" />
+        <option value="$USER_HOME$/Dev" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,124 @@
+Git4Idea|Version Controls
+
+JavaScript|JavaScript Frameworks and Tools
+
+Remote Development Server|null
+
+Rider UI Theme Pack|null
+
+W3Validators|Style Sheets
+
+com.dmarcotte.handlebars|Template Languages
+
+com.intellij.CloudConfig|IDE Settings
+
+com.intellij.cidr.debugger|null
+
+com.intellij.completion.ml.ranking|Other Tools
+
+com.intellij.css|Style Sheets
+
+com.intellij.dev|null
+
+com.intellij.diagram|Other Tools
+
+com.intellij.platform.images|null
+
+com.intellij.plugins.resharperkeymap|Keymap
+
+com.intellij.plugins.visualassistkeymap|Keymap
+
+com.intellij.plugins.visualstudio2022keymap|Keymap
+
+com.intellij.plugins.vscodekeymap|Keymap
+
+com.intellij.plugins.watcher|null
+
+com.intellij.properties|Languages
+
+com.intellij.resharper.unity|null
+
+com.intellij.searcheverywhere.ml|null
+
+com.intellij.tasks.timeTracking|Other Tools
+
+com.intellij.tasks|Other Tools
+
+com.intellij|null
+
+com.jetbrains.changeReminder|Version Controls
+
+com.jetbrains.codeWithMe|null
+
+com.jetbrains.dotCommon|null
+
+com.jetbrains.dotCover|null
+
+com.jetbrains.dotTrace.dotMemory|null
+
+com.jetbrains.dpa|null
+
+com.jetbrains.performancePlugin.async|Other Tools
+
+com.jetbrains.performancePlugin.yourkit|Other Tools
+
+com.jetbrains.performancePlugin|Other Tools
+
+com.jetbrains.plugins.ini4idea|Languages
+
+com.jetbrains.plugins.jade|Template Languages
+
+com.jetbrains.projector.libs|null
+
+com.jetbrains.restClient|Microservices
+
+com.jetbrains.rider-cpp-injection|Other Tools
+
+com.jetbrains.rider-cpp|null
+
+com.jetbrains.rider.diagram|null
+
+com.jetbrains.rider.fsharp|Languages
+
+com.jetbrains.rider.razor|null
+
+com.jetbrains.sh|Languages
+
+com.jetbrains.space|null
+
+com.jetbrains.xaml.previewer|null
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+intellij.rider.cpp.debugger|null
+
+org.editorconfig.editorconfigjetbrains|Other Tools
+
+org.intellij.intelliLang|Other Tools
+
+org.intellij.plugins.markdown|Languages
+
+org.intellij.qodana|null
+
+org.jetbrains.fortea|null
+
+org.jetbrains.plugins.github|Version Controls
+
+org.jetbrains.plugins.sass|Style Sheets
+
+org.jetbrains.plugins.terminal|Other Tools
+
+org.jetbrains.plugins.textmate|Other Tools
+
+org.jetbrains.plugins.vagrant|Deployment
+
+org.jetbrains.plugins.yaml|Languages
+
+org.jetbrains.settingsRepository|IDE Settings
+
+rider.intellij.plugin.appender|null
+
+unreal-link|null
+

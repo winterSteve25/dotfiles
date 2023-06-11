@@ -127,9 +127,11 @@ theme.layout_cornerse = themes_path.."default/layouts/cornersew.png"
 
 -- Define the icon theme for application icons. If not set then the icons
 -- from /usr/share/icons and /usr/share/icons/hicolor will be used.
+
 theme.icon_theme = nil
 theme.awesome_icon = gears.color.recolor_image(curr_theme_dir .. "icons/sakura.png", theme.fg_urgent)
 theme.powerbtn_icon = gears.color.recolor_image(curr_theme_dir .. "icons/power.png", theme.fg_urgent)
+theme.volume_icon = gears.color.recolor_image(curr_theme_dir .. "icons/volume.png", theme.fg_focus)
 
 theme.rofi_cmd = "bash ~/.config/rofi/launchers/type-6/launcher.sh"
 theme.powermenu_cmd = "bash ~/.config/rofi/powermenu/type-3/powermenu.sh"

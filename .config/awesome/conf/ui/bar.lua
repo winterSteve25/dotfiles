@@ -2,6 +2,7 @@ local wibox = require("wibox")
 local gears = require("gears")
 local awful = require("awful")
 local beautiful = require("beautiful")
+local uiutils = require("utils.ui")
 
 local dpi = require("beautiful.xresources").apply_dpi
 
@@ -77,11 +78,21 @@ local function create_tasklist(screen)
 	}
 end
 
-local function create_clock()
+local function create_clock(screen)
 	local layout = wibox.layout.fixed.vertical()
 	layout:add(wibox.container.place(wibox.widget.textclock("%H:%M"), 'center', 'center'))
 	layout:add(wibox.container.place(wibox.widget.textclock("%b %d"), 'center', 'center'))
-	return wibox.container.background(layout, beautiful.bg_normal)
+	local bg = wibox.container.background(layout, beautiful.bg_normal)
+	uiutils.hover_bg(bg)
+
+	local calendar_popup = awful.widget.calendar_popup.month({
+		screen = screen,
+		margin = dpi(8)
+	})
+
+	calendar_popup:attach(bg, 'bl')
+
+	return bg
 end
 
 local function create_powerbtn()
@@ -100,8 +111,7 @@ local function create_powerbtn()
 
 		awful.spawn.with_shell(beautiful.get().powermenu_cmd)
 	end)
-
-	require("utils.ui").hover_bg(bg)
+	uiutils.hover_bg(bg)
 
 	return bg
 end
@@ -120,7 +130,7 @@ local function end_bar(screen)
 	local layout = wibox.layout.fixed.vertical()
 	layout.spacing = dpi(8)
 
-	layout:add(create_clock())
+	layout:add(create_clock(screen))
 	layout:add(create_powerbtn())
 
 	return layout

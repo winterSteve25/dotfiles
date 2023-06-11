@@ -5,10 +5,18 @@ local servers = {
     pyright = {},
     rust_analyzer = {},
     lua_ls = {
-      Lua = {
-        workspace = { checkThirdParty = false },
-        telemetry = { enable = false },
-      },
+    	Lua = {
+			runtime = {
+				version = "LuaJIT",
+			},
+			workspace = {
+				checkThirdParty = false,
+				library = {
+					"/usr/share/awesome/lib"
+				},
+			},
+			telemetry = { enable = false },
+      	},
     },
 }
 

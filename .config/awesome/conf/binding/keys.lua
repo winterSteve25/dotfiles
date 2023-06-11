@@ -1,6 +1,5 @@
 local gears = require("gears")
 local awful = require("awful")
-local naughty = require("naughty")
 local beautiful = require("beautiful")
 
 local constants = require("conf.constants")
@@ -34,6 +33,7 @@ local globalkeys = gears.table.join(
 
 	-- Volume for notifications
 	awful.key({}, "XF86AudioLowerVolume", function ()
+
 	end),
 
 	awful.key({}, "XF86AudioRaiseVolume", function ()

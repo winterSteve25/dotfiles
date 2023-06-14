@@ -64,9 +64,12 @@ return {
 		},
 	},
 
-    -- Make pop-ups floating windows
+    -- Make floating windows
 	{
         rule_any = {
+			class = {
+				"com-atlauncher-App"
+			},
             role = {
                 "pop-up", -- e.g. Google Chrome's (detached) Developer Tools.
             }

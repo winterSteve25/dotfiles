@@ -21,21 +21,19 @@ local awesome_menu = {
 	},
 }
 
-local utilities_menu = {
-	{
-		"Launcher",
-		"rofi -show drun",
-	},
-	{
-		"Terminal",
-		constants.terminal
-	},
-}
-
 local ctx_menu = awful.menu({
     items = {
+		{
+			"Launcher",
+			"rofi -show drun",
+			beautiful.get().launcher_icon
+		},
+		{
+			"Terminal",
+			constants.terminal,
+			beautiful.get().terminal_icon
+		},
         { "Awesome", awesome_menu, beautiful.awesome_icon },
-        { "Utilities", utilities_menu }
     }
 })
 

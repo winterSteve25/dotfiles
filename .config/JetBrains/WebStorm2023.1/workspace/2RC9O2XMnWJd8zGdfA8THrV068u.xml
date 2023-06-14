@@ -1,0 +1,230 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="echo-v3" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1686744378221" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1686743162775" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1686743390144" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="4" lastUsed="1686743759897" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="3" lastUsed="1686744771921" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/app.scss" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1686744378221" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1686743162776" />
+    </language>
+    <language id="SCSS">
+      <summary usageCount="4" lastUsage="1686743759897" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1686743390144" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="3" lastUsage="1686744771921" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/soundcues}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.dev" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2381000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212221" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33035713" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="4" show_stripe_button="false" />
+      <unified_weights bottom="0.33035713" left="0.17212221" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212221" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="4" show_stripe_button="false" />
+      <unified_weights bottom="0.33035713" left="0.17212221" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="110" width="1040" height="889" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686743197484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="475" y="110" width="1040" height="889" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686743197484" />
+    <state x="761" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1686744618809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686744618809" />
+    <state width="1731" height="298" key="GridCell.Tab.0.bottom" timestamp="1686745543087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686745543087" />
+    <state width="1731" height="298" key="GridCell.Tab.0.center" timestamp="1686745543087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686745543087" />
+    <state width="1731" height="298" key="GridCell.Tab.0.left" timestamp="1686745543087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686745543087" />
+    <state width="1731" height="298" key="GridCell.Tab.0.right" timestamp="1686745543087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686745543087" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.scss" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/wavesurfer.js/dist/plugins/minimap.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/models.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

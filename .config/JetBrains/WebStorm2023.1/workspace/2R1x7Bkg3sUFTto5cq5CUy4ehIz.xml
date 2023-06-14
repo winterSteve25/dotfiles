@@ -7,9 +7,22 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/resources/styles/style.scss" preview="true">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="258" column="16" selection-start-line="258" selection-start-column="16" selection-end-line="258" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="1" lastUsed="1686743036812" />
+    </fileType>
     <fileType name="GitIgnore file">
       <summary usageCount="1" lastUsed="1686431289826" />
     </fileType>
@@ -17,7 +30,10 @@
       <summary usageCount="3" lastUsed="1686431288773" />
     </fileType>
     <fileType name="SCSS">
-      <summary usageCount="2" lastUsed="1686431442686" />
+      <summary usageCount="3" lastUsed="1686743036984" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1686743022141" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -34,6 +50,9 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1686743036812" />
+    </language>
     <language id="GitIgnore">
       <summary usageCount="1" lastUsage="1686431289826" />
     </language>
@@ -41,7 +60,7 @@
       <summary usageCount="3" lastUsage="1686431288773" />
     </language>
     <language id="SCSS">
-      <summary usageCount="2" lastUsage="1686431442686" />
+      <summary usageCount="3" lastUsage="1686743036984" />
     </language>
   </component>
   <component name="ProjectView">
@@ -58,19 +77,6 @@
               <item name="NBE3U-Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio/resources}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NBE3U-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio/resources}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio/resources/styles}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NBE3U-Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio/resources}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/cadenz/Dev/NBE3U-Portfolio/resources/styles}" type="462c0819:PsiDirectoryNode" />
-              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -90,7 +96,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296000" />
+    <option name="totallyTimeSpent" value="324000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -100,20 +106,20 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33035713" />
       <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33035713" />
-      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="Database" order="1" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
-      <window_info anchor="right" id="CodeTogether" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
       <unified_weights bottom="0.33035713" left="0.16939443" />
     </layoutV2>
     <recentWindows>
-      <value>Terminal</value>
       <value>Project</value>
+      <value>Terminal</value>
       <value>Run</value>
     </recentWindows>
   </component>
@@ -133,17 +139,20 @@
     <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/styles/style.scss" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="265" column="24" selection-start-line="265" selection-start-column="24" selection-end-line="265" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/style.css" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/styles/style.scss" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="258" column="16" selection-start-line="258" selection-start-column="16" selection-end-line="258" selection-end-column="16" />
         </state>
       </provider>
     </entry>

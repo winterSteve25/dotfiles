@@ -4,20 +4,33 @@
       <map>
         <entry key="$USER_HOME$/Dev/NBE3U-Portfolio">
           <value>
-            <RecentProjectMetaInfo frameTitle="NBE3U-Portfolio" opened="true" projectWorkspaceId="2R1x7Bkg3sUFTto5cq5CUy4ehIz">
-              <option name="activationTimestamp" value="1686431516185" />
+            <RecentProjectMetaInfo frameTitle="NBE3U-Portfolio – style.scss" opened="true" projectWorkspaceId="2R1x7Bkg3sUFTto5cq5CUy4ehIz">
+              <option name="activationTimestamp" value="1686743044589" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-231.9011.35" />
-              <option name="buildTimestamp" value="1684224234890" />
+              <option name="buildTimestamp" value="1684224198808" />
               <frame x="79" y="8" width="1833" height="1064" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1686431219635" />
+              <option name="projectOpenTimestamp" value="1686743016209" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/echo-v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="echo-v3" opened="true" projectWorkspaceId="2RC9O2XMnWJd8zGdfA8THrV068u">
+              <option name="activationTimestamp" value="1686745543053" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-231.9011.35" />
+              <option name="buildTimestamp" value="1684224185843" />
+              <frame x="79" y="8" width="1833" height="1064" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1686743161435" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/NBE3U-Portfolio" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/echo-v3" />
     <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
   </component>
 </application>

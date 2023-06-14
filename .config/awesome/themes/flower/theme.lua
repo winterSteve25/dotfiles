@@ -132,6 +132,8 @@ theme.icon_theme = nil
 theme.awesome_icon = gears.color.recolor_image(curr_theme_dir .. "icons/sakura.png", theme.fg_urgent)
 theme.powerbtn_icon = gears.color.recolor_image(curr_theme_dir .. "icons/power.png", theme.fg_urgent)
 theme.volume_icon = gears.color.recolor_image(curr_theme_dir .. "icons/volume.png", theme.fg_focus)
+theme.terminal_icon = gears.color.recolor_image(curr_theme_dir .. "icons/terminal.png", theme.fg_urgent)
+theme.launcher_icon = gears.color.recolor_image(curr_theme_dir .. "icons/launcher.png", theme.fg_urgent)
 
 theme.rofi_cmd = "bash ~/.config/rofi/launchers/type-6/launcher.sh"
 theme.powermenu_cmd = "bash ~/.config/rofi/powermenu/type-3/powermenu.sh"

@@ -25,7 +25,7 @@ local ctx_menu = awful.menu({
     items = {
 		{
 			"Launcher",
-			"rofi -show drun",
+			beautiful.get().rofi_cmd,
 			beautiful.get().launcher_icon
 		},
 		{

@@ -18,6 +18,7 @@ local menubar = require("menubar") -- Application Launcher
 ------------SIGNALS-------------
 --------------------------------
 require("conf.signals.manage_window")
+require("conf.signals.hide_wibar")
 require("conf.signals.update_wallpaper")
 require("conf.signals.titlebar")
 require("conf.signals.focus_mouse")

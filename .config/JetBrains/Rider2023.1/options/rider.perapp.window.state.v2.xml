@@ -49,6 +49,8 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.19994545
         },
         {
@@ -102,13 +104,13 @@
           "id": "Build",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.38768798
+          "weight": 0.39332706
         },
         {
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.38768798
+          "weight": 0.39332706
         },
         {
           "id": "Meet New UI",
@@ -158,7 +160,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.19994545,
-        "bottom": 0.38768798,
+        "bottom": 0.39332706,
         "right": 0.32963765
       }
     }

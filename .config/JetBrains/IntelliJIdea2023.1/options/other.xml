@@ -32,7 +32,7 @@
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.744382",
-    "appcds.runOnSecondStart": "IU-231.9011.34-40d32ea1f7a8aaa3ba2da8f6363945457577a818f1d6805392e9f565ad96e385",
+    "appcds.runOnSecondStart": "IU-231.9011.34-9687af924783dacffd8175dbef41780fe85abe6aea306900d6967a6608688153",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -54,11 +54,11 @@
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "gotit.previous.run": "IU-231.9011.34",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1685280951882",
+    "ideavim.statistics.timestamp": "1686834546487",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/home/cadenz/Dev/Echo/echo_api",
+    "last_opened_file_path": "/home/cadenz/Dev/ONI-Utils",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
     "org.rust.external.linter.slow.run.do.not.show": "true",
@@ -72,6 +72,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/cadenz/Dev/ONI-Utils",
       "/home/cadenz/Dev/Echo/echo_api",
       "/home/cadenz/Dev/Echo/echo_api/Cargo.toml",
       "/home/cadenz/Dev/Echo",
@@ -84,8 +85,7 @@
       "/home/cadenz/Dev/Tau/Forge-1.19/build.gradle",
       "/home/cadenz/Dev/Tau/Forge-1.18/build.gradle",
       "/home/cadenz/Dev/Tau-1.19",
-      "/home/cadenz/Dev/Tau/build.gradle",
-      "/home/cadenz/Dev/ONI-Utils"
+      "/home/cadenz/Dev/Tau/build.gradle"
     ],
     "fileTypeDetectors": [
       "ru.meanmail.fileTypes.RequirementsFileTypeDetector",
@@ -97,14 +97,14 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips">{
-  &quot;shownTips&quot;: {
-    &quot;CtrlW&quot;: 1685280888028,
-    &quot;QuickJavaDoc&quot;: 1684676166529,
-    &quot;SearchEverywhere&quot;: 1684000093513,
-    &quot;RecentFiles&quot;: 1684153963491,
-    &quot;VCS_general&quot;: 1684065370648,
-    &quot;ShowUsages&quot;: 1683890539220
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1685280888028,
+    "QuickJavaDoc": 1684676166529,
+    "SearchEverywhere": 1684000093513,
+    "RecentFiles": 1684153963491,
+    "VCS_general": 1684065370648,
+    "ShowUsages": 1686834548149
   }
-}</component>
+}]]></component>
 </application>

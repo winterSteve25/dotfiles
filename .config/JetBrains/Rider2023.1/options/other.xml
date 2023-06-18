@@ -1,75 +1,44 @@
 <application>
-  <component name="FileEditorProviderManager">{
-  &quot;selectedProviders&quot;: {
-    &quot;text-editor,csv-data-editor&quot;: &quot;text-editor&quot;
-  }
-}</component>
-  <component name="JdkInstallerHistory">
-    <option name="installedItems">
-      <installed-jdk>
-        <option name="fullText" value="Amazon Corretto 17.0.7" />
-        <option name="installDir" value="$USER_HOME$/.jdks/corretto-17.0.7" />
-        <option name="sha256" value="8d23e0f1249f2852caa76b7ae8770847e005e4310a70a46b7c1a816c34ff9195" />
-        <option name="url" value="https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-linux-x64.tar.gz" />
-        <option name="versionText" value="17.0.7" />
-      </installed-jdk>
-    </option>
-  </component>
   <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+    <option name="ideScale" value="1.1" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "BuildView.Splitter.Proportion": "0.229012",
     "CWM_LOGGING_VERSION": "1",
     "Debug.Allow.Typing": "true",
-    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-231.8770.65",
-    "MarketplacePluginsSearchHistory": "rainbow\nmaterial\natom\nicon",
-    "MemberChooser.copyJavadoc": "false",
-    "MemberChooser.showClasses": "true",
-    "NonModalCommitCustomization.IsApplied": "true",
-    "PluginConfigurable.selectionTab": "1",
+    "KEYMAP": "parameter\nclose tab\nclose window\nclose",
+    "MarketplacePluginsSearchHistory": "materia\nmaterail\nmaet\nmaterial",
     "RD.Init.Cfg.2": "true",
     "RD.Init.DialogShown.Ide": "true",
     "Rider.Last.Started.IDE.Build": "RD-231.9011.39",
     "RunOnceActivity.se.text.search": "true",
-    "SettingsSearchHistory": "Change font size",
-    "TextEditorWithPreview.SplitterProportionKey": "0.744382",
     "Tutorials.In.Recent.Projects.Disabled": "true",
-    "appcds.runOnSecondStart": "RD-231.9011.39-e3edbf8f1500ac43d82b1040cd9a2233a36777a52d26162ec2662537c9f3d549",
-    "ask.about.ctrl.y.shortcut.v2": "true",
-    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "appcds.runOnSecondStart": "RD-231.9011.39-5d1fa57c725c9e0eed051952f5cc0cba6b5198a56ce78a4ec3a6d73e148dcb44",
     "bundled.plugins.list.saved.version": "RD-231.9011.39",
-    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
-    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
-    "decompiler.legal.notice.accepted": "true",
-    "defaultJdkConfigured": "true",
-    "evlsprt3.231": "24",
-    "experimental.ui.first.promotion.localdate": "2023-05-07",
+    "debugger.immediate.window.in.watches.proportion.key": "0.7808219",
+    "debugger.smart.chooser.counter": "2",
+    "evlsprt3.231": "25",
+    "experimental.ui.first.promotion.localdate": "2023-06-16",
     "experimental.ui.used.once": "true",
     "experimentalFeature.editor.reader.mode": "false",
-    "file.gist.reindex.count": "14",
-    "fileTypeChangedCounter": "10",
-    "fontSizeToResetConsole": "15.0",
-    "fontSizeToResetEditor": "15.0",
-    "got.it.tooltip.reader.mode.got.it": "1",
-    "got.it.tooltip.terminal.smart_command_execution": "1",
-    "gotit.previous.run": "IU-231.8770.65",
-    "ide.memory.adjusted": "true",
-    "ide.updates.old.dirs.scan.scheduled": "1685048899142",
-    "ideavim.statistics.timestamp": "1684444180670",
+    "file.gist.reindex.count": "29",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "ide.updates.old.dirs.scan.scheduled": "1687522976437",
+    "ide.widget.toolbar.first.inclusion": "2",
+    "ideavim.statistics.timestamp": "1687006346042",
     "ignoreUltimateEdition": "true",
+    "immediate.window.eval.count.until.watch.got.it.hidden": "7",
     "input.method.disabler.muted": "true",
-    "installed.kotlin.plugin.version": "231-1.8.21-IJ8770.65",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_open_solution_path": "/home/cadenz/Dev/PartyBuilder",
-    "last_opened_file_path": "/home/cadenz/Dev/PartyBuilder/PartyBuilder.csproj",
-    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "last_open_solution_path": "/home/cadenz/Dev/party-builder",
+    "last_opened_file_path": "/home/cadenz/Dev/party-builder",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
-    "project.wizard.group": "NPW.simple-project",
     "registry.to.advanced.settings.migration.build": "RD-231.9011.39",
     "rider.tool.window.stripe.manager.enable": "true",
     "rider.whats.new.should.shown": "1",
@@ -79,32 +48,22 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
-      "/home/cadenz/Dev/PartyBuilder/PartyBuilder.csproj",
-      "/home/cadenz/Dev/RPGUtils/build.gradle",
-      "/home/cadenz/Dev/Tau/Forge-1.16/build.gradle",
-      "/home/cadenz/Dev/Tau/Forge-1.19",
-      "/home/cadenz/Dev/ONI-Utils/build.gradle",
-      "/home/cadenz/Dev/ONIUtils/build.gradle",
-      "/home/cadenz/Dev/Tau/Forge-1.19/build.gradle",
-      "/home/cadenz/Dev/Tau/Forge-1.18/build.gradle",
-      "/home/cadenz/Dev/Tau-1.19",
-      "/home/cadenz/Dev/Tau/build.gradle",
-      "/home/cadenz/Dev/ONI-Utils"
+      "/home/cadenz/Dev/party-builder"
     ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.tang.intellij.lua.lang.LuaFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
 }]]></component>
-  <component name="ShownTips">{
-  &quot;shownTips&quot;: {
-    &quot;CtrlW&quot;: 1683474649666,
-    &quot;SearchEverywhere&quot;: 1684000093513,
-    &quot;RecentFiles&quot;: 1684153963491,
-    &quot;VCS_general&quot;: 1684065370648,
-    &quot;ShowUsages&quot;: 1683890539220
-  }
-}</component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
 </application>

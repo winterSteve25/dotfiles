@@ -2,22 +2,22 @@
   <component name="RiderRecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Dev/PartyBuilder/PartyBuilder.csproj">
+        <entry key="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj">
           <value>
-            <RecentProjectMetaInfo displayName="PartyBuilder" frameTitle="PartyBuilder – Game.cs" opened="true" projectWorkspaceId="2PyzBTsI7o5vCiCAkH3Oqlpqr0I">
-              <option name="activationTimestamp" value="1684446444416" />
+            <RecentProjectMetaInfo displayName="PartyBuilder" frameTitle="party-builder – Text.cs" opened="true" projectWorkspaceId="2RHnpqrmhychOqiKdtlZRXEbl1t">
+              <option name="activationTimestamp" value="1687091045487" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-231.9011.39" />
-              <option name="buildTimestamp" value="1684318863084" />
-              <frame x="12" y="60" width="1896" height="1008" />
-              <option name="metadata" value="PartyBuilder|/home/cadenz/Dev/PartyBuilder/PartyBuilder.csproj" />
+              <option name="buildTimestamp" value="1684318861493" />
+              <frame x="79" y="8" width="1833" height="1064" />
+              <option name="metadata" value="party-builder|/home/cadenz/Dev/party-builder/PartyBuilder.csproj" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1684444167056" />
+              <option name="projectOpenTimestamp" value="1687088836640" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/PartyBuilder/PartyBuilder.csproj" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj" />
   </component>
 </application>

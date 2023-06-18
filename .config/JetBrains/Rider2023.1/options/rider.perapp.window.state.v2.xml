@@ -2,14 +2,54 @@
   <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
   "layouts": {
     "Custom": {
+      "v1": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.16884887
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
       "v2": [
         {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.18222573
+          "weight": 0.19994545
         },
         {
           "id": "Commit",
@@ -19,7 +59,12 @@
         {
           "id": "Structure",
           "order": 2,
-          "weight": 0.25
+          "weight": 0.17250821
+        },
+        {
+          "id": "NuGet",
+          "anchor": "BOTTOM",
+          "weight": 0.35197368
         },
         {
           "id": "Version Control",
@@ -39,12 +84,38 @@
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.38768798
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.38768798
         },
         {
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.38768798
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.38768798
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32978722,
+          "isSplit": true
         },
         {
           "id": "Notifications",
@@ -76,13 +147,19 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Hierarchy",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.32963765
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.18222573,
-        "bottom": 0.33,
-        "right": 0.33
+        "left": 0.19994545,
+        "bottom": 0.38768798,
+        "right": 0.32963765
       }
     }
   }

@@ -92,8 +92,9 @@ local clientkeys = gears.table.join(
 	end, {description="Quit focused window"}),
 
 	-- Maximize window
-	awful.key({modkey}, "m", function (client)
+	awful.key({modkey}, "s", function (client)
 		client.maximized = not client.maximized
+		client.screen.wibar.visible = not client.maximized
 	end, {description="Toggle maximize focused window"}),
 
 	-- Float window

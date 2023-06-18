@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="C/C++">
-        <added pattern="std::basic_string::basic_string(__s,__a)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>

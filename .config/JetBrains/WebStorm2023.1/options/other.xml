@@ -2,65 +2,65 @@
   <component name="NotRoamableUiSettings">
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
-  <component name="PropertyService"><![CDATA[{
-  "keyToString": {
-    "CWM_LOGGING_VERSION": "1",
-    "ColorChooser.RecentColors": "54-92-72-255,,,98-156-125-255,,,62-139-54-255",
-    "GeneralSettings.initiallyConfigured": "true",
-    "InstalledPluginsSearchHistory": "rus\nrust\nr",
-    "MemberChooser.copyJavadoc": "false",
-    "MemberChooser.showClasses": "true",
-    "NewWatcherDialog.advanced.open": "true",
-    "NonModalCommitCustomization.IsApplied": "true",
-    "PluginConfigurable.selectionTab": "1",
-    "RunOnceActivity.se.text.search": "true",
-    "RunOnceActivity.svelte.init.key": "true",
-    "appcds.runOnSecondStart": "WS-231.9011.35-c6db7b406b33c20fc491b677504fe7fbea7f7b79260f36dee922162fe49653df",
-    "ask.about.ctrl.y.shortcut.v2": "true",
-    "bundled.plugins.list.saved.version": "WS-231.9011.35",
-    "evlsprt3.231": "23",
-    "experimental.ui.used.once": "true",
-    "file.gist.reindex.count": "2",
-    "fileTypeChangedCounter": "6",
-    "fontSizeToResetConsole": "15.0",
-    "fontSizeToResetEditor": "15.0",
-    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
-    "got.it.tooltip.reader.mode.got.it": "1",
-    "got.it.tooltip.terminal.smart_command_execution": "1",
-    "gotit.previous.run": "WS-231.9011.35",
-    "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1686743038778",
-    "input.method.disabler.muted": "true",
-    "js.rename.search.for.text.occurrences": "false",
-    "js.rename.search.in.comments": "false",
-    "last_opened_file_path": "/home/cadenz/Dev/echo-v3",
-    "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Dark",
-    "registry.to.advanced.settings.migration.build": "WS-231.9011.35",
-    "tasks.pass.word.conversion.enforced": "true",
-    "ts.lib.d.ts.version": "4.8.4"
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;ColorChooser.RecentColors&quot;: &quot;54-92-72-255,,,98-156-125-255,,,62-139-54-255&quot;,
+    &quot;GeneralSettings.initiallyConfigured&quot;: &quot;true&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;rus\nrust\nr&quot;,
+    &quot;MemberChooser.copyJavadoc&quot;: &quot;false&quot;,
+    &quot;MemberChooser.showClasses&quot;: &quot;true&quot;,
+    &quot;NewWatcherDialog.advanced.open&quot;: &quot;true&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.svelte.init.key&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;WS-231.9011.35-b2d8ef1d8f234afc4a72ff049337483c7fab80616ced161ae9968bac7a7ce68f&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;WS-231.9011.35&quot;,
+    &quot;evlsprt3.231&quot;: &quot;23&quot;,
+    &quot;experimental.ui.used.once&quot;: &quot;true&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;3&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;6&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;15.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;15.0&quot;,
+    &quot;got.it.tooltip.builtin.web.server.reload.on.save&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.terminal.smart_command_execution&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;WS-231.9011.35&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ideavim.statistics.timestamp&quot;: &quot;1687021652154&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;js.rename.search.for.text.occurrences&quot;: &quot;false&quot;,
+    &quot;js.rename.search.in.comments&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cadenz/Dev/echo-v3&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;WS-231.9011.35&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.8.4&quot;
   },
-  "keyToStringList": {
-    "file.chooser.recent.files": [
-      "/home/cadenz/Dev/echo-v3",
-      "/home/cadenz/Dev/NBE3U-Portfolio",
-      "/home/cadenz/Dev/Echo",
-      "/home/cadenz/Dev/Echo/echo-v3"
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/cadenz/Dev/echo-v3&quot;,
+      &quot;/home/cadenz/Dev/NBE3U-Portfolio&quot;,
+      &quot;/home/cadenz/Dev/Echo&quot;,
+      &quot;/home/cadenz/Dev/Echo/echo-v3&quot;
     ],
-    "fileTypeDetectors": [
-      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
-    "SpeedSearch": 1685293160533,
+    "SpeedSearch": 1686833989208,
     "CtrlW": 1686425651150,
     "Rename": 1685360300894,
     "SearchEverywhere": 1686743022153,
-    "ShowUsages": 1685622400841,
-    "FindInPath": 1685448413515
+    "ShowUsages": 1687088815782,
+    "FindInPath": 1687021622910
   }
 }]]></component>
 </application>

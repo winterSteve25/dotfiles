@@ -12,13 +12,13 @@
     <size key="find.popup.0.0.1920.1080@120dpi" width="771" height="685" />
   </component>
   <component name="WindowManager">
-    <frame x="12" y="60" width="410" height="1008" />
+    <frame x="79" y="8" width="1833" height="1064" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl" timestamp="1685280729105">
+    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl" timestamp="1686834540550">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1685280729105" />
+    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1686834540550" />
     <state x="1143" y="660" width="692" height="299" key="ProcessPopupWindow" timestamp="1684183536973">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -27,10 +27,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1586" height="179" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1685287101249" />
-    <state x="959" y="537" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1686746001301">
+    <state x="995" y="540" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1686917256338">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="959" y="537" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1686746001301" />
+    <state x="995" y="540" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1686917256338" />
     <state width="375" height="659" key="manage.recent.projects.popup" timestamp="1684183596917">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

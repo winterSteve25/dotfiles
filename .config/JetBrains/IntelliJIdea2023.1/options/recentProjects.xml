@@ -1,6 +1,23 @@
 <application>
   <component name="RecentProjectsManager">
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/Echo" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/ONI-Utils">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ONI-Utils – .gitignore [ONI-Utils]" opened="true" projectWorkspaceId="2RF8bjj2xwc3IBAUDif6vrgpOrd">
+              <option name="activationTimestamp" value="1686916314088" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213244548" />
+              <frame x="79" y="8" width="1833" height="1064" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1686916310417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/ONI-Utils" />
     <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
   </component>
 </application>

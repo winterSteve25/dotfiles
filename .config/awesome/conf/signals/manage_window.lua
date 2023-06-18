@@ -11,5 +11,4 @@ client.connect_signal("manage", function(client)
         -- Prevent clients from being unreachable after screen count changes.
         awful.placement.no_offscreen(client)
     end
-
 end)

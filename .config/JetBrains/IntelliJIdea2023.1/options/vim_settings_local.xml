@@ -18,8 +18,6 @@
     </history>
   </component>
   <component name="VimJumpsSettings">
-    <jump line="70" column="35" filename="$USER_HOME$/Dev/Meebo/src/main/java/com/blackgear/meebo/Meebo.java" />
-    <jump line="82" column="12" filename="$USER_HOME$/Dev/Meebo/src/main/java/com/blackgear/meebo/Meebo.java" />
     <jump line="25" column="68" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
     <jump line="8" column="4" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
     <jump line="10" column="10" filename="$USER_HOME$/Dev/Echo/echo_api/src/main.rs" />
@@ -118,6 +116,8 @@
     <jump line="314" column="23" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/Cargo.toml" />
     <jump line="194" column="18" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/Cargo.toml" />
     <jump line="10" column="59" filename="$USER_HOME$/Dev/Echo/echo_api/Cargo.toml" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/ONI-Utils/README.md" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/ONI-Utils/.gitignore" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -155,9 +155,6 @@
       <file name="$USER_HOME$/Dev/Echo/echo_api/src/cors.rs" timestamp="1685281563650">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_codegen-0.5.0-rc.3/src/attribute/entry/mod.rs" timestamp="1685281043664">
-        <mark key="&quot;" line="54" column="13" />
-      </file>
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/surrealdb-1.0.0-beta.9+20230402/src/kvs/ds.rs" timestamp="1685286916048">
         <mark key="&quot;" line="259" column="17" />
         <mark key="'" line="259" column="17" />
@@ -192,6 +189,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Echo/echo_api/src/params.rs" timestamp="1685281564009">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/ONI-Utils/README.md" timestamp="1686834557206">
         <mark key="&quot;" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/Echo/echo_api/src/models/time.rs" timestamp="1685281475851">

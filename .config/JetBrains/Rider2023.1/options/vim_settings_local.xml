@@ -1,15 +1,14 @@
 <application>
   <component name="VimHistorySettings">
     <history>
-      <history-search>
-        <entry encoding="base64">Y2F2ZQ==</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry encoding="base64">MA==</entry>
+        <entry encoding="base64">NTA=</entry>
         <entry encoding="base64">cQ==</entry>
-        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">V3E=</entry>
+        <entry encoding="base64" />
         <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">d3E=</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
@@ -17,246 +16,279 @@
     </history>
   </component>
   <component name="VimJumpsSettings">
-    <jump line="192" column="58" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/DimensionType.java" />
-    <jump line="37" column="8" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
-    <jump line="41" column="10" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
-    <jump line="43" column="20" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/dimension/LevelStem.java" />
-    <jump line="100" column="24" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NormalNoise.java" />
-    <jump line="106" column="67" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NormalNoise.java" />
-    <jump line="17" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" />
-    <jump line="12" column="79" filename="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunction.java" />
-    <jump line="12" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDimensions.java" />
-    <jump line="13" column="145" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" />
-    <jump line="35" column="7" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="34" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="32" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="3" column="28" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="33" column="24" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="16" column="15" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension_type/asteroid.json" />
-    <jump line="19" column="24" filename="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIBiomes.java" />
-    <jump line="14" column="32" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="17" column="8" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="26" column="7" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="27" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="28" column="18" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="10" column="23" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="79" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="23" column="28" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="4" column="21" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="1" column="29" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="9" column="31" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="57" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="72" column="6" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="12" column="29" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="20" column="15" filename="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" />
-    <jump line="10" column="71" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="0" column="12" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="1" column="17" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="25" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="104" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="103" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="121" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="119" column="88" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="116" column="58" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="114" column="9" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="105" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="124" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="102" column="15" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="101" column="3" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="122" column="61" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="2" column="46" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" />
-    <jump line="15" column="0" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" />
-    <jump line="127" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/RPGUtils/gradle.properties" />
-    <jump line="6" column="0" filename="$USER_HOME$/Dev/RPGUtils/gradle.properties" />
-    <jump line="108" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="89" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
-    <jump line="87" column="15" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
-    <jump line="82" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
-    <jump line="109" column="69" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="112" column="13" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="81" column="0" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
-    <jump line="98" column="14" filename="$USER_HOME$/Dev/ONI-Utils/build.gradle" />
-    <jump line="107" column="84" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="117" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="110" column="68" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/RPGUtils/src/main/resources/pack.mcmeta" />
-    <jump line="115" column="52" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="98" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="100" column="16" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="94" column="47" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="111" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="95" column="3" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="99" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="96" column="40" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="93" column="0" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="144" column="10" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="146" column="4" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="145" column="8" filename="$USER_HOME$/Dev/RPGUtils/build.gradle" />
-    <jump line="20" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="13" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="14" column="25" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="10" column="47" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="9" column="18" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/.gitignore" />
-    <jump line="4" column="3" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="2" column="13" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="9" column="31" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="9722" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f696fd293a9c4c84baa5c03e2502259239000/9f/6588db36/ImGui.cs" />
-    <jump line="11" column="23" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="6" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="3" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="4" column="18" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="5" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="8" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="7" column="25" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="11" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
-    <jump line="10" column="4" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="5" column="22" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" />
-    <jump line="12" column="0" filename="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" />
+    <jump line="92" column="32" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="116" column="15" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="123" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="18" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="34" column="74" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="32" column="50" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="47" column="13" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="46" column="13" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="37" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="13" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="50" column="47" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="30" column="82" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="11" column="40" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="1" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="10" column="39" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="2" column="25" filename="$USER_HOME$/Dev/party-builder/Src/Core/Interfaces/IRenderable.cs" />
+    <jump line="29" column="82" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="58" column="42" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="131" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="128" column="25" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="17" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="132" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="117" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="100" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="94" column="29" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="45" column="46" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="20" column="79" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="143" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="134" column="13" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="76" column="39" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="81" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="79" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="31" column="59" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="39" column="55" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="35" column="39" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="38" column="68" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="48" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="19" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="9" column="52" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="155" column="43" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="151" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="74" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="77" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="55" column="31" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="59" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="54" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="23" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="78" column="44" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="53" column="30" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="49" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="52" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="51" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="86" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="69" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="93" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="4" column="16" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="9" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="5" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" />
+    <jump line="108" column="15" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="99" column="42" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="8" column="16" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="10" column="22" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="83" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="70" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="40" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="50" column="45" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="25" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="41" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="55" column="12" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
+    <jump line="42" column="37" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
+    <jump line="45" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="10" column="40" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
+    <jump line="14" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
+    <jump line="6" column="13" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" />
+    <jump line="22" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" />
+    <jump line="7" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="16" column="27" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="40" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="32" column="7" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="22" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="5" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
+    <jump line="34" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="11" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="12" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="36" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="6" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
+    <jump line="36" column="32" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="38" column="17" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="37" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
+    <jump line="13" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="23" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="19" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="18" column="23" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="6" column="17" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="41" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="38" column="28" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="35" column="46" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
+    <jump line="29" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/Dev/RPGUtils/src/main/resources/rpgutils.mixins.json" timestamp="1684183814623">
-        <mark key="&quot;" line="10" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c962ef2c6bf14be39fe1c91b10c6800ca29600/d8/1e246af2/List`1.cs" timestamp="1687089514840">
+        <mark key="&quot;" line="208" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/common/data/capabilities/base/CapabilityProvider.java" timestamp="1684184941610">
-        <mark key="&quot;" line="11" column="13" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IUIComponent.cs" timestamp="1687019171214">
+        <mark key="&quot;" line="8" column="49" />
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/gradle.properties" timestamp="1684183832965">
-        <mark key="&quot;" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/AsteroidChunkGenerator.java" timestamp="1684159137373">
-        <mark key="&quot;" line="13" column="145" />
-        <mark key="'" line="49" column="67" />
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="100" />
-        <mark key="^" line="14" column="100" />
-        <mark key="." line="14" column="99" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension/asteroid.json" timestamp="1684183326024">
-        <mark key="&quot;" line="11" column="2" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/client/animation/IAnimatedEntity.java" timestamp="1684183397107">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/src/main/java/wintersteve25/rpgutils/common/entities/NPCEntity.java" timestamp="1684184965605">
-        <mark key="&quot;" line="47" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/build.gradle" timestamp="1684184000602">
-        <mark key="&quot;" line="99" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dev/PartyBuilder/Src/UIRenderer.cs" timestamp="1684446419657">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PartyBuilder/Src/Game.cs" timestamp="1684446203520">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/build.gradle" timestamp="1684184927803">
-        <mark key="&quot;" line="145" column="8" />
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="48" />
-        <mark key="^" line="94" column="48" />
-        <mark key="." line="94" column="47" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDimensions.java" timestamp="1684159155545">
-        <mark key="&quot;" line="12" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f696fd293a9c4c84baa5c03e2502259239000/9f/6588db36/ImGui.cs" timestamp="1684446159029">
-        <mark key="&quot;" line="9722" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/resources/data/oniutils/dimension_type/asteroid.json" timestamp="1684182448508">
-        <mark key="&quot;" line="4" column="6" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIBiomes.java" timestamp="1684182579266">
-        <mark key="&quot;" line="31" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dev/PartyBuilder/.gitignore" timestamp="1684444370770">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/ONI-Utils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunctions.java" timestamp="1684159095179">
-        <mark key="&quot;" line="32" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dev/RPGUtils/src/main/resources/pack.mcmeta" timestamp="1684184049065">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/PartyBuilder/Program.cs" timestamp="1684444365046">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1684183334500">
+      <file name="/Immediate Window" timestamp="1687090707808">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" timestamp="1687090668887">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="'" line="13" column="55" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="13" column="96" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/ITheme.cs" timestamp="1687089918542">
+        <mark key="&quot;" line="16" column="9" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" timestamp="1687090670202">
+        <mark key="&quot;" line="36" column="32" />
+        <mark key="'" line="36" column="59" />
+        <mark key="[" line="143" column="15" />
+        <mark key="]" line="143" column="16" />
+        <mark key="." line="143" column="15" />
+        <mark key="^" line="143" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Interfaces/IRenderable.cs" timestamp="1687089606353">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/Button.cs" timestamp="1687020443846">
+        <mark key="&quot;" line="16" column="1" />
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" timestamp="1687090515969">
+        <mark key="&quot;" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Mods/BuiltIn/init.lua" timestamp="1687090512408">
+        <mark key="&quot;" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" timestamp="1687090458188">
+        <mark key="&quot;" line="48" column="21" />
+        <mark key="[" line="91" column="31" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="36" />
+        <mark key="^" line="91" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" timestamp="1687090356959">
+        <mark key="&quot;" line="6" column="29" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" timestamp="1687090642204">
+        <mark key="&quot;" line="6" column="4" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" timestamp="1687019175539">
+        <mark key="&quot;" line="78" column="0" />
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="30" />
+        <mark key="^" line="75" column="30" />
+        <mark key="." line="75" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IGuiEventListener.cs" timestamp="1687018903901">
+        <mark key="&quot;" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Tweening/TweenExtension.cs" timestamp="1687018911881">
+        <mark key="&quot;" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" timestamp="1687090669898">
+        <mark key="&quot;" line="38" column="17" />
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" timestamp="1687090670460">
+        <mark key="&quot;" line="37" column="0" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="47" column="8" />
+        <mark key="^" line="47" column="8" />
+        <mark key="." line="47" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" timestamp="1687090704373">
+        <mark key="&quot;" line="36" column="8" />
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="38" column="29" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IPrimitiveUIComponent.cs" timestamp="1687020185878">
+        <mark key="&quot;" line="11" column="11" />
+        <mark key="'" line="7" column="40" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluZWNyYWZ0</text>
+        <text encoding="base64">X2NvbG9y</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">UmF5bGliCnVzaW5nIFJheWxpYl9jczsuZHJhd3ZlckRhd3JyYXdyYXc=</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">Y2F2ZQ==</text>
+        <text encoding="base64">YWN1ICBjdXJyX2N1cnJlbnRTdGFnZUluZGV4IC0tLTs7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZnLmRlb2JmKCdzb2Z0d2FyZS5iZXJuaWUuZ2Vja29saWI6Z2Vja29saWItZm9yZ2UtMS4xODozLjAuNTcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbG9yPyBfY29sb3I7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgSW1HdWlORVQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgSUdhbWVTdGFnZT8gTmV4dCgpCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBHYW1lU3RhZ2UoKTsKICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW8gPSBJbUd1aS5HZXRJTygpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBuZXcgTG9hZGluZ01vZHNTdGFnZSgpOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSYXlsaWIuRHJhdwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbUd1aS5TcGFjaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dw==</text>
@@ -265,8 +297,6 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">Y2F2ZQ==</last-search>
-      <last-pattern encoding="base64">Y2F2ZQ==</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

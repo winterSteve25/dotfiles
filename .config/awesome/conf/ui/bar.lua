@@ -144,8 +144,8 @@ return {
 		-- 	return
 		-- end
 
-		-- Add widgets to the wibox
-		create_bar(screen):setup {
+		screen.wibar = create_bar(screen)
+		screen.wibar:setup {
 			layout = wibox.layout.align.vertical,
 			wibox.container.margin(start_bar(screen), 0, 0, dpi(16), dpi(16)),
 			wibox.container.place(create_taglist(screen), 'center', 'center'),

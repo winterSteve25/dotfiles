@@ -150,7 +150,7 @@ return {
         "lukas-reineke/indent-blankline.nvim",
 
         opts = {
-            char = '┊',
+            char = '|',
             show_trailing_blankline_indent = false,
         },
     },
@@ -306,6 +306,13 @@ return {
 		config = function()
 			vim.cmd("colorscheme catppuccin")
 		end
+	},
+
+	{
+		"dasupradyumna/midnight.nvim",
+		-- config = function()
+		-- 	vim.cmd("colorscheme midnight")
+		-- end
 	},
 
 	-------------------------------------------

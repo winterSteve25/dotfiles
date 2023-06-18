@@ -298,7 +298,7 @@
       <i c="1" l="1683479203777" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="12" l="1685280721517" />
+      <i c="13" l="1686834533574" />
     </e>
     <e n="WelcomeScreen.RemoveSelected">
       <i c="9" l="1686745998761" />
@@ -358,7 +358,7 @@
       <i c="2" l="1683491132877" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="530" l="1685287108025" />
+      <i c="532" l="1686834557200" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="66" l="1684674733735" />
@@ -367,7 +367,7 @@
       <i c="3" l="1684007791477" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="38" l="1685287255803" />
+      <i c="39" l="1686916313906" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="6" l="1685280992051" />

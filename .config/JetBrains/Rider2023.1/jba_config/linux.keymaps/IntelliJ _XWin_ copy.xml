@@ -1,0 +1,18 @@
+<keymap version="1" name="IntelliJ (XWin) copy" parent="Default for XWin">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
+  <action id="Vcs.UpdateProject" />
+</keymap>

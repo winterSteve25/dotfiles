@@ -2,24 +2,9 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
-        <entry key="$USER_HOME$/Dev/ONI-Utils" value="true" />
-        <entry key="$USER_HOME$/Dev/ONIUtils" value="true" />
-        <entry key="$USER_HOME$/Dev/PartyBuilder" value="true" />
-        <entry key="$USER_HOME$/Dev/PartyBuilder/.idea/.idea.PartyBuilder.dir" value="true" />
-        <entry key="$USER_HOME$/Dev/RPGUtils" value="true" />
-        <entry key="$USER_HOME$/Dev/Tau" value="true" />
-        <entry key="$USER_HOME$/Dev/Tau-1.19" value="true" />
-        <entry key="$USER_HOME$/Dev/Tau/Forge-1.16" value="true" />
-        <entry key="$USER_HOME$/Dev/Tau/Forge-1.18" value="true" />
-        <entry key="$USER_HOME$/Dev/Tau/Forge-1.19" value="true" />
+        <entry key="$USER_HOME$/Dev/party-builder" value="true" />
+        <entry key="$USER_HOME$/Dev/party-builder/.idea/.idea.party-builder.dir" value="true" />
       </map>
-    </option>
-  </component>
-  <component name="Trusted.Paths.Settings">
-    <option name="TRUSTED_PATHS">
-      <list>
-        <option value="$USER_HOME$/Dev" />
-      </list>
     </option>
   </component>
 </application>

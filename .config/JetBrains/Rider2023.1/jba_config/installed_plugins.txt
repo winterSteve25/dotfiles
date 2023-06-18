@@ -1,0 +1,7 @@
+org.exbin.deltahex.intellij
+izhangzhihao.rainbow.brackets
+com.mallowigi
+com.chrisrm.idea.MaterialThemeUI
+IdeaVIM
+unreal-link
+com.tang

@@ -2,11 +2,11 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="ProjectViewState">
-        <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showExcludedFiles" value="false" />
-        <option name="showLibraryContents" value="true" />
-      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
     </defaultProject>
   </component>
 </application>

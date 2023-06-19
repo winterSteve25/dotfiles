@@ -46,12 +46,17 @@
       ],
       "v2": [
         {
+          "id": "Bookmarks",
+          "weight": 0.19994545,
+          "isSplit": true
+        },
+        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.19994545
+          "weight": 0.21522096
         },
         {
           "id": "Commit",
@@ -66,7 +71,12 @@
         {
           "id": "NuGet",
           "anchor": "BOTTOM",
-          "weight": 0.35197368
+          "weight": 0.4656955
+        },
+        {
+          "id": "Dynamic Program Analysis",
+          "anchor": "BOTTOM",
+          "weight": 0.4656955
         },
         {
           "id": "Version Control",
@@ -87,13 +97,13 @@
           "id": "Terminal",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.38768798
+          "weight": 0.4656955
         },
         {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.38768798
+          "weight": 0.40272558
         },
         {
           "id": "Services",
@@ -104,13 +114,13 @@
           "id": "Build",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.39332706
+          "weight": 0.40272558
         },
         {
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.39332706
+          "weight": 0.39675927
         },
         {
           "id": "Meet New UI",
@@ -159,8 +169,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.19994545,
-        "bottom": 0.39332706,
+        "left": 0.21522096,
+        "bottom": 0.40272558,
         "right": 0.32963765
       }
     }

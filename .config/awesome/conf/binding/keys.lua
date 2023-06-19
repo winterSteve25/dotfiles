@@ -33,13 +33,15 @@ local globalkeys = gears.table.join(
 
 	-- Volume for notifications
 	awful.key({}, "XF86AudioLowerVolume", function ()
-
+        awful.spawn.with_shell("pactl set-sink-volume @DEFAULT_SINK@ -5%")
 	end),
 
 	awful.key({}, "XF86AudioRaiseVolume", function ()
+        awful.spawn.with_shell("pactl set-sink-volume @DEFAULT_SINK@ +5%")
 	end),
 
 	awful.key({}, "XF86AudioMute", function ()
+        awful.spawn.with_shell("pactl set-sink-mute @DEFAULT_SINK@ toggle")
 	end)
 )
 
@@ -93,13 +95,19 @@ local clientkeys = gears.table.join(
 
 	-- Maximize window
 	awful.key({modkey}, "s", function (client)
-		client.maximized = not client.maximized
+		client.fullscreen = not client.fullscreen
+		client:raise()
 	end, {description="Toggle maximize focused window"}),
 
 	-- Float window
 	awful.key({modkey}, "v", function (client)
 		client.floating = not client.floating
 	end, {description="Toggle float on focused window"})
+
+	-- Resizing windows
+	-- awful.key({modkey}, "Left", function ()
+	-- 	
+	-- end)
 )
 
 return {

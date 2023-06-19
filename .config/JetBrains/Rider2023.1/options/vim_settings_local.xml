@@ -5,9 +5,9 @@
       <history-cmd>
         <entry encoding="base64">NTA=</entry>
         <entry encoding="base64">cQ==</entry>
-        <entry encoding="base64">V3E=</entry>
-        <entry encoding="base64" />
         <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">V3E=</entry>
         <entry encoding="base64">d3E=</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
@@ -16,281 +16,291 @@
     </history>
   </component>
   <component name="VimJumpsSettings">
-    <jump line="59" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="54" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="78" column="44" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="49" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="51" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="69" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="93" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="4" column="16" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="9" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="5" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" />
-    <jump line="108" column="15" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="8" column="16" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="10" column="22" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="83" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="70" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="25" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
-    <jump line="41" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
-    <jump line="55" column="12" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
-    <jump line="42" column="37" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
-    <jump line="45" column="23" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
-    <jump line="10" column="40" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
-    <jump line="0" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
-    <jump line="14" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
-    <jump line="6" column="13" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" />
-    <jump line="22" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" />
-    <jump line="7" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="16" column="27" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="40" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="32" column="7" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="22" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="5" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
-    <jump line="12" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="36" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="6" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" />
-    <jump line="36" column="32" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="38" column="17" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
-    <jump line="23" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="19" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="18" column="23" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="6" column="17" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="41" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="38" column="28" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="35" column="46" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="29" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="34" column="8" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="26" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="39" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" />
-    <jump line="25" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="86" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="99" column="45" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="98" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="8" column="41" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" />
-    <jump line="30" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" />
-    <jump line="37" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" />
-    <jump line="5" column="0" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="12" column="11" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" />
-    <jump line="26" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" />
-    <jump line="13" column="61" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
-    <jump line="23" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" />
+    <jump line="21" column="6" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="36" column="19" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="10" column="32" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="15" column="4" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="16" column="83" filename="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" />
+    <jump line="17" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="13" column="20" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="14" column="50" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="22" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="24" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="29" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
     <jump line="14" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
-    <jump line="62" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
-    <jump line="50" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
-    <jump line="41" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="43" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="44" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="46" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="47" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="52" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="53" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="57" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="58" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="61" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="87" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="88" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="89" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="78" column="40" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="50" column="53" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="20" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/StackedAxialSettings.cs" />
-    <jump line="22" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/StackedAxialSettings.cs" />
-    <jump line="52" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="82" column="51" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="81" column="3" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="8" column="41" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" />
-    <jump line="7" column="83" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" />
-    <jump line="6" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" />
-    <jump line="2" column="49" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" />
-    <jump line="9" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" />
-    <jump line="75" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="51" column="38" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" />
-    <jump line="21" column="77" filename="$USER_HOME$/Dev/party-builder/Src/UI/Layout/StackedAxialSettings.cs" />
-    <jump line="40" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="66" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="103" column="33" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="24" column="5" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="23" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="34" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="87" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="85" column="16" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="89" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
-    <jump line="92" column="10" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" />
+    <jump line="23" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="24" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="51" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="50" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="47" column="14" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="44" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="21" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="12" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="8" column="54" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIFPS.cs" />
+    <jump line="15" column="69" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="7" column="13" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="43" column="7" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="41" column="1" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="40" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="42" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="14" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="13" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="23" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="29" column="25" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="31" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" />
+    <jump line="9" column="29" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="13" column="91" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="26" column="84" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="27" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="33" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="38" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="42" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="48" column="73" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="52" column="94" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="53" column="67" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="59" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="68" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="45" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="15" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="27" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="29" column="42" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="34" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="41" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="55" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="77" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="79" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="72" column="24" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="11" column="11" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/IPrimitiveUIComponent.cs" />
+    <jump line="64" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIAlign.cs" />
+    <jump line="8" column="31" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIAlign.cs" />
+    <jump line="71" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="22" column="79" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIAlign.cs" />
+    <jump line="25" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="28" column="52" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="37" column="89" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="34" column="22" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="9" column="44" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" />
+    <jump line="27" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UICenter.cs" />
+    <jump line="17" column="175" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UICenter.cs" />
+    <jump line="71" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIClip.cs" />
+    <jump line="34" column="113" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIClip.cs" />
+    <jump line="20" column="27" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIFPS.cs" />
+    <jump line="10" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIFPS.cs" />
+    <jump line="37" column="42" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIRender.cs" />
+    <jump line="24" column="175" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIRender.cs" />
+    <jump line="5" column="15" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="35" column="94" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="19" column="176" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" />
+    <jump line="95" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIText.cs" />
+    <jump line="74" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIText.cs" />
+    <jump line="73" column="34" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIText.cs" />
+    <jump line="38" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIText.cs" />
+    <jump line="11" column="4" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="16" column="75" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="36" column="41" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="37" column="51" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="43" column="59" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="44" column="38" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="50" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="56" column="46" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="76" column="17" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="78" column="33" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="80" column="5" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="64" column="31" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="63" column="43" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="67" column="35" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="65" column="40" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="66" column="51" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" />
+    <jump line="9" column="39" filename="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" />
+    <jump line="14" column="50" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="9" column="36" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
+    <jump line="10" column="21" filename="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c962ef2c6bf14be39fe1c91b10c6800ca29600/d8/1e246af2/List`1.cs" timestamp="1687089514840">
-        <mark key="&quot;" line="208" column="16" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IUIComponent.cs" timestamp="1687177562181">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Immediate Window" timestamp="1687091973981">
+      <file name="/Immediate Window" timestamp="1687209132454">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" timestamp="1687091674263">
-        <mark key="&quot;" line="13" column="61" />
-        <mark key="'" line="13" column="55" />
-        <mark key="[" line="13" column="57" />
-        <mark key="]" line="13" column="82" />
-        <mark key="." line="13" column="57" />
-        <mark key="^" line="13" column="57" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIText.cs" timestamp="1687208278302">
+        <mark key="&quot;" line="87" column="8" />
+        <mark key="'" line="69" column="59" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Layout/StackedAxialSettings.cs" timestamp="1687091749070">
-        <mark key="&quot;" line="22" column="4" />
-        <mark key="[" line="21" column="72" />
-        <mark key="]" line="21" column="78" />
-        <mark key="." line="21" column="77" />
-        <mark key="^" line="21" column="78" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/GameStage.cs" timestamp="1687207739915">
+        <mark key="&quot;" line="13" column="22" />
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="83" />
+        <mark key="^" line="16" column="84" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutSettings.cs" timestamp="1687091751405">
-        <mark key="&quot;" line="9" column="0" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/ITheme.cs" timestamp="1687207071553">
+        <mark key="&quot;" line="6" column="55" />
+        <mark key="[" line="10" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/Center.cs" timestamp="1687091675533">
-        <mark key="&quot;" line="23" column="8" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="20" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIRender.cs" timestamp="1687208258571">
+        <mark key="&quot;" line="31" column="16" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="176" />
+        <mark key="." line="24" column="175" />
+        <mark key="^" line="24" column="176" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/ITheme.cs" timestamp="1687089918542">
-        <mark key="&quot;" line="16" column="9" />
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/Text.cs" timestamp="1687091881846">
-        <mark key="&quot;" line="87" column="21" />
-        <mark key="'" line="36" column="59" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Layout/LayoutManager.cs" timestamp="1687091750180">
-        <mark key="&quot;" line="51" column="38" />
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Interfaces/IRenderable.cs" timestamp="1687089606353">
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" timestamp="1687208442187">
         <mark key="&quot;" line="5" column="0" />
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/Button.cs" timestamp="1687020443846">
-        <mark key="&quot;" line="16" column="1" />
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="10" column="20" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" timestamp="1687208442367">
+        <mark key="&quot;" line="66" column="51" />
+        <mark key="[" line="63" column="42" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="65" column="31" />
+        <mark key="." line="65" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingModsStage.cs" timestamp="1687090515969">
-        <mark key="&quot;" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIAlign.cs" timestamp="1687208215983">
+        <mark key="&quot;" line="34" column="99" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="100" />
+        <mark key="." line="34" column="99" />
+        <mark key="^" line="34" column="100" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Mods/BuiltIn/init.lua" timestamp="1687090512408">
-        <mark key="&quot;" line="2" column="26" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UICenter.cs" timestamp="1687208235330">
+        <mark key="&quot;" line="22" column="100" />
+        <mark key="[" line="22" column="100" />
+        <mark key="]" line="22" column="100" />
+        <mark key="." line="22" column="100" />
+        <mark key="^" line="17" column="176" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/UIBuilder.cs" timestamp="1687091675067">
-        <mark key="&quot;" line="50" column="16" />
-        <mark key="[" line="91" column="31" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="36" />
-        <mark key="^" line="91" column="37" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIFPS.cs" timestamp="1687208252085">
+        <mark key="&quot;" line="23" column="23" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="176" />
+        <mark key="^" line="14" column="176" />
+        <mark key="." line="14" column="175" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" timestamp="1687090356959">
-        <mark key="&quot;" line="6" column="29" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="34" column="30" />
-        <mark key="^" line="34" column="30" />
-        <mark key="." line="34" column="29" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIButton.cs" timestamp="1687208226665">
+        <mark key="&quot;" line="16" column="18" />
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="58" column="64" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Stages/LoadingAssetsStage.cs" timestamp="1687090642204">
-        <mark key="&quot;" line="6" column="4" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Theme/DefaultTheme.cs" timestamp="1687207523120">
+        <mark key="&quot;" line="10" column="21" />
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" timestamp="1687090669898">
-        <mark key="&quot;" line="38" column="17" />
-        <mark key="'" line="41" column="28" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UIClip.cs" timestamp="1687208244944">
+        <mark key="&quot;" line="30" column="79" />
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="80" />
+        <mark key="." line="30" column="79" />
+        <mark key="^" line="30" column="80" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" timestamp="1687091674406">
-        <mark key="&quot;" line="37" column="0" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/DynamicUIComponent.cs" timestamp="1687208425946">
+        <mark key="&quot;" line="10" column="30" />
+        <mark key="[" line="43" column="58" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/UIRenderer.cs" timestamp="1687208216673">
+        <mark key="&quot;" line="31" column="21" />
+        <mark key="[" line="31" column="98" />
+        <mark key="]" line="31" column="98" />
+        <mark key="." line="31" column="98" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Utils/SoundHelper.cs" timestamp="1687177600224">
+        <mark key="&quot;" line="8" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="83" />
+      </file>
+      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Scene.cs" timestamp="1687207573624">
+        <mark key="&quot;" line="10" column="29" />
         <mark key="[" line="46" column="8" />
         <mark key="]" line="47" column="8" />
         <mark key="^" line="47" column="8" />
         <mark key="." line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/GameCore.cs" timestamp="1687091228722">
-        <mark key="&quot;" line="19" column="20" />
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="38" column="29" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="28" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Components/UISized.cs" timestamp="1687208268148">
+        <mark key="&quot;" line="24" column="26" />
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="19" column="176" />
+        <mark key="]" line="19" column="176" />
+        <mark key="^" line="35" column="19" />
+        <mark key="." line="19" column="176" />
       </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IPrimitiveUIComponent.cs" timestamp="1687020185878">
-        <mark key="&quot;" line="11" column="11" />
-        <mark key="'" line="7" column="40" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+      <file name="$USER_HOME$/Dev/party-builder/Src/UI/Base/IPrimitiveUIComponent.cs" timestamp="1687208203310">
+        <mark key="&quot;" line="8" column="176" />
+        <mark key="[" line="8" column="176" />
+        <mark key="]" line="8" column="176" />
+        <mark key="." line="8" column="176" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWxpYi5CZWdpblNjaXNzb3JNb2RlKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWxpYi5CZWdpblNjaXNzb3JNb2RlKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGFzdCgp</text>
+        <text encoding="base64">dG4gPT4ge1JheWxpYi5UcmFjZUxvZyhUcmFjZUxvZ0xldmVsLkxPR19JTkZPLCAkIlByZXNzZWQ6IHtidG59Iik7fQ==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">UmF0a3V2eWxpYi5zY2lzQmVnaW5TY2lzc29yTW9kZSgpOw==</text>
+        <text encoding="base64" />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQuUHVzaExheW91dFNldHRpbmcoQXhpcy5Ib3Jpem9udGFsLCBMYXlvdXRTZXR0aW5ncy5DZW50ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFJheWxpYi5Jc01vdXNlQnV0dG9uUmVsZWFzZWQoTW91c2VCdXR0b24uTU9VU0VfQlVUVE9OX1JJR0hUKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX29uUHJlc3M/Lkludm9rZShNb3VzZUJ1dHRvbi5NT1VTRV9CVVRUT05fUklHSFQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWxpYi5CZWdpblNjaXNzb3JNb2RlKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgUmF5bGliX2NzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJheWxpYi5DYW1lcmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aXRoT25QcmVzcyhiKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50TGlzdGVuZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSUdhbWVTdGFnZT8gTmV4dCgpCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBHYW1lU3RhZ2UoKTsKICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChjb21wb25lbnQuRXZlbnRMaXN0ZW5lcnMuU3RhcnRJbmRleCA+IEV2ZW50TGlzdGVuZXJzLkVuZEluZGV4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjb21wb25lbnQuRXZlbnRMaXN0ZW5lcnMuU3RhcnRJbmRleCArPSBldmVudExpc3RlbmVyc0NvdW50RGlmZjsKICAgICAgICAgICAgICAgIGNvbXBvbmVudC5FdmVudExpc3RlbmVycy5FbmRJbmRleCArPSBldmVudExpc3RlbmVyc0NvdW50RGlmZjsKICAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIElHYW1lU3RhZ2U/IE5leHQoKQogICAgewogICAgICAgIHJldHVybiBuZXcgTG9hZGluZ01vZHNTdGFnZSgpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudExpc3RlbmVycy5FbmRJbmRleCArPSBldmVudExpc3RlbmVyc0NvdW50RGlmZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZXZlbnRMaXN0ZW5lcnNDb3VudERpZmYgPSBFdmVudExpc3RlbmVycy5VcGRhdGUocmVwbGFjZW1lbnRFdmVudExpc3RlbmVycyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXBsYWNlbWVudEV2ZW50TGlzdGVuZXJzID0gbmV3IExpc3Q8SUd1aUV2ZW50TGlzdGVuZXI+KHJlcGxhY2VtZW50RXZlbnRMaXN0ZW5lcnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVwbGFjZW1lbnRFdmVudExpc3RlbmVycyA9IG5ldyBMaXN0PElHdWlFdmVudExpc3RlbmVyPigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dw==</text>

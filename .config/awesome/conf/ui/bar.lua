@@ -131,6 +131,7 @@ local function end_bar(screen)
 	layout.spacing = dpi(8)
 
 	layout:add(create_clock(screen))
+	layout:add()
 	layout:add(create_powerbtn())
 
 	return layout

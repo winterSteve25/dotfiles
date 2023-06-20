@@ -17,6 +17,8 @@ if status is-interactive
 	alias ls 'exa --icons --group-directories-first'
 	alias nuget 'mono /usr/local/bin/nuget.exe'
 
+	alias tree 'tree -C'
+
 	# environment vars
 	set -gx PATH "$HOME/.local/bin" $PATH
 	set -gx PATH "$HOME/Applications/flutter/bin" $PATH

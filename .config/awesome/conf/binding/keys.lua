@@ -91,23 +91,56 @@ local clientkeys = gears.table.join(
 	-- Quit window
 	awful.key({modkey}, "q", function (client)
 		client:kill()
-	end, {description="Quit focused window"}),
+	end, {description="Quit focused window", group="Windows"}),
 
 	-- Maximize window
 	awful.key({modkey}, "s", function (client)
 		client.fullscreen = not client.fullscreen
 		client:raise()
-	end, {description="Toggle maximize focused window"}),
+	end, {description="Toggle maximize on focused window", group="Windows"}),
 
 	-- Float window
 	awful.key({modkey}, "v", function (client)
 		client.floating = not client.floating
-	end, {description="Toggle float on focused window"})
+	end, {description="Toggle float on focused window", group="Windows"}),
+
+	-- Move focused window to other screen
+	awful.key({modkey, "Shift"}, "[", function (client)
+		client:move_to_screen(client.screen.index - 1)
+	end, {description="Move window to the last monitor", group="Windows"}),
+	awful.key({modkey, "Shift"}, "]", function (client)
+		client:move_to_screen(client.screen.index + 1)
+	end, {description="Move window to the next monitor", group="Windows"}),
 
 	-- Resizing windows
-	-- awful.key({modkey}, "Left", function ()
-	-- 	
-	-- end)
+	awful.key({modkey}, "Left", function (c)
+		if c.floating then
+			c:relative_move(0, 0, -20, 0)
+		else
+			awful.tag.incmwfact(-0.025)
+		end
+	end, { description="Resize Window", group="Windows" }),
+	awful.key({modkey}, "Right", function (c)
+		if c.floating then
+			c:relative_move(0, 0, 20, 0)
+		else
+			awful.tag.incmwfact(0.025)
+		end
+	end, { description="Resize Window", group="Windows" }),
+	awful.key({modkey}, "Down", function (c)
+		if c.floating then
+			c:relative_move(0, 0, 0, 20)
+		else
+			awful.client.incwfact(0.1)
+		end
+	end, { description="Resize Window", group="Windows" }),
+	awful.key({modkey}, "Up", function (c)
+		if c.floating then
+			c:relative_move(0, 0, 0, -20)
+		else
+			awful.client.incwfact(-0.1)
+		end
+	end, { description="Resize Window", group="Windows" })
 )
 
 return {

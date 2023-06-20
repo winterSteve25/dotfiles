@@ -30,6 +30,14 @@ return {
         opts = {},
     },
 
+	-- Folding
+	{
+		"kevinhwang91/nvim-ufo",
+		dependencies = {
+			"kevinhwang91/promise-async"
+		}
+	},
+
 	-- Neoformatter
 	{
 		"sbdchd/neoformat",
@@ -71,6 +79,7 @@ return {
         opts = {},
     },
 
+	-- Leap for searching
     {
         "ggandor/leap.nvim",
         dependencies = {
@@ -93,6 +102,15 @@ return {
         opts = {},
     },
 
+	-- Notifications
+	{
+		"rcarriga/nvim-notify",
+		lazy = false,
+		config = function ()
+			vim.notify = require("notify")
+		end
+	},
+
     -- TELESCOPE
     {
         "nvim-telescope/telescope.nvim",
@@ -104,7 +122,7 @@ return {
                 cond = function()
                   return vim.fn.executable 'make' == 1
                 end,
-            }
+				}
         },
         config = function()
             require("telescope").setup({})
@@ -112,6 +130,7 @@ return {
         end
     },
 
+	-- Telescope for code actions
     {
         'nvim-telescope/telescope-ui-select.nvim',
         config = function()

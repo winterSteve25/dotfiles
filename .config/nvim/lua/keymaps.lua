@@ -15,7 +15,10 @@ set_key("t", "<C-t>", toggle_term, { desc = "Toggle Terminal" })
 set_key("t", "<esc>", toggle_term, { desc = "Toggle Terminal" })
 
 set_key("n", "<leader>c", ":PickColor<CR>", { desc = "Pick color" })
-set_key("n", "<leader>fF", ":Neoformat<CR>", { desc = "Formats current buffer" })
+set_key("n", "<leader>FF", ":Neoformat<CR>", { desc = "Formats current buffer" })
 
 local gitignore = require("gitignore")
 set_key("n", "<leader>gi", gitignore.generate, { desc = "Generates a gitignore file" })
+
+set_key("n", "<C-->", ":foldclose<CR>", { desc = "Close fold" })
+set_key("n", "<C-=>", ":foldopen<CR>", { desc = "Open fold" })

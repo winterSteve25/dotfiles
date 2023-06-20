@@ -8,26 +8,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
+      <file>
         <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="312">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#23#70#0" expanded="true" />
+                <element signature="e#23#87#0" expanded="true" />
                 <element signature="n#style#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2389">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-              <folding>
-                <element signature="e#23#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,24 +43,24 @@
       <summary usageCount="4" lastUsed="1686743759897" />
     </fileType>
     <fileType name="Svelte">
-      <summary usageCount="47" lastUsed="1687088809850" />
+      <summary usageCount="49" lastUsed="1687262648965" />
     </fileType>
     <fileType name="TypeScript">
       <summary usageCount="11" lastUsed="1687021904324" />
     </fileType>
     <fileType name="WebPreview">
-      <summary usageCount="1" lastUsed="1687021623143" />
+      <summary usageCount="2" lastUsed="1687262654930" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/src/app.scss" />
-      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" />
       <option value="$PROJECT_DIR$/src/lib/comps/Toggle.svelte" />
       <option value="$PROJECT_DIR$/src/lib/ProjectDetails.svelte" />
       <option value="$PROJECT_DIR$/vite.config.ts" />
       <option value="$PROJECT_DIR$/src/lib/scripts/ScriptsTab.svelte" />
       <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -99,7 +87,7 @@
       <summary usageCount="4" lastUsage="1686743759897" />
     </language>
     <language id="SvelteHTML">
-      <summary usageCount="47" lastUsage="1687088809850" />
+      <summary usageCount="49" lastUsage="1687262648965" />
     </language>
     <language id="TEXT">
       <summary usageCount="1" lastUsage="1686743390144" />
@@ -152,7 +140,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8005000" />
+    <option name="totallyTimeSpent" value="8577000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -362,23 +350,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" preview="true">
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="910">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding>
-            <element signature="e#23#70#0" expanded="true" />
-            <element signature="n#style#0;n#!!top" />
+            <element signature="e#23#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte" preview="true">
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2389">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#23#56#0" expanded="true" />
+            <element signature="e#23#87#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
           </folding>
         </state>
       </provider>

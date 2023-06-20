@@ -24,16 +24,15 @@ local awesome_menu = {
 local ctx_menu = awful.menu({
     items = {
 		{
-			"Launcher",
-			beautiful.get().rofi_cmd,
-			beautiful.get().launcher_icon
-		},
-		{
 			"Terminal",
 			constants.terminal,
-			beautiful.get().terminal_icon
+			beautiful.get().terminal_icon,
 		},
-        { "Awesome", awesome_menu, beautiful.awesome_icon },
+        {
+			"Awesome",
+			awesome_menu,
+			beautiful.awesome_icon,
+		},
     }
 })
 

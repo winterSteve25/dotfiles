@@ -202,7 +202,7 @@
       <i c="2" l="1686425678353" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="54" l="1687022138582" />
+      <i c="55" l="1687262750468" />
     </e>
     <e n="ShowNavBar">
       <i c="1" l="1686777125626" />
@@ -271,7 +271,7 @@
       <i c="9016" l="1687022355981" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="201" l="1687021996451" />
+      <i c="203" l="1687262687879" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="5" l="1686425738902" />
@@ -283,7 +283,7 @@
       <i c="1" l="1686425669957" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="36" l="1687022499987" />
+      <i c="37" l="1687262690879" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="6" l="1686834503335" />
@@ -295,7 +295,7 @@
       <i c="4" l="1686743760945" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="32" l="1687088814463" />
+      <i c="33" l="1687262696813" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1687088813347" />

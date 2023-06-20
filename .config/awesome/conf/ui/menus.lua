@@ -17,7 +17,9 @@ local awesome_menu = {
 	},
     {
 		"Quit Awesome",
-		awesome.quit,
+		function ()
+			awesome.quit()
+		end,
 	},
 }
 

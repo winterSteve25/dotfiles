@@ -29,7 +29,7 @@ theme.border_normal = "#232323"
 theme.border_focus  = theme.fg_focus
 theme.border_marked = theme.fg_urgent
 
-theme.wallpaper = "~/Wallpapers/Chill_1.png"
+theme.wallpaper = "~/Wallpapers/WhiteFlowers_1.jpeg"
 
 -- There are other variable sets
 -- overriding the default one when

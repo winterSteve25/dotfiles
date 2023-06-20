@@ -63,7 +63,8 @@ local function run_if_not_running(program, arguments)
 	)
 end
 
-awful.spawn.once("xinput set-prop 'Glorious Model O Wireless' 'libinput Accel Speed' -0.65")
+awful.spawn.once("xinput set-prop 'Glorious Model O Wireless' 'libinput Accel Speed' -0.1")
+awful.spawn.once("xinput set-prop 'Glorious Model O Wireless' 'libinput Accel Profile Enabled' 0, 1")
 awful.spawn.once("picom -b")
 awful.spawn.once("xrandr --output DisplayPort-0 --mode 1920x1080 --rate 144")
 awful.spawn.once("discord")

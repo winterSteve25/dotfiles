@@ -2,7 +2,10 @@
   <component name="TrustedSolutionStore">
     <option name="trustedLocations">
       <set>
+        <option value="$USER_HOME$/Dev/NoiseVisualizer/.idea/.idea.NoiseVisualizer" />
         <option value="$USER_HOME$/Dev/party-builder/.idea/.idea.party-builder.dir" />
+        <option value="$USER_HOME$/Dev/visualizer/.idea/.idea.visualizer.dir" />
+        <option value="$USER_HOME$/RiderProjects/NoiseVisualizer/.idea/.idea.NoiseVisualizer" />
       </set>
     </option>
   </component>

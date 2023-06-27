@@ -2,9 +2,30 @@
   <component name="SolutionConfigurationStore">
     <option name="configurations">
       <map>
+        <entry key="$USER_HOME$/Dev/NoiseVisualizer/NoiseVisualizer.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj">
           <value>
             <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/visualizer/visualizer.csproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/NoiseVisualizer/NoiseVisualizer.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
           </value>
         </entry>
       </map>

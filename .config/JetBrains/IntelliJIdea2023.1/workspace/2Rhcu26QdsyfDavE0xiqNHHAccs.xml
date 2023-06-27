@@ -1,0 +1,727 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="oniutils" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registration/Registration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDensityFunction.java" preview="true">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/data/oniutils/worldgen/noise_settings/asteroid.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/core/RegistryAccess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="237" selection-start-line="237" selection-end-line="237" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="2" lastUsed="1687710100657" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="96" lastUsed="1687710220823" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1687710160877" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1687706606191" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NOISE</find>
+      <find>serialize</find>
+      <find>data</find>
+      <find>noise</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDensityFunctions.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONINoises.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/densityfunctions/MoonSurfaceSamplerDensityFunction.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/data/oniutils/worldgen/noise_settings/asteroid.json" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDensityFunction.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registration/Registration.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="96" lastUsage="1687710220823" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1687710160877" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1687706606192" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/registration}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data/oniutils}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data/oniutils}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/oniutils/src/main/resources/data/oniutils/worldgen}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oniutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.oniutils [runClient]" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3699000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37774122" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.5211466" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.5211466" />
+      <window_info anchor="bottom" id="Build" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="5" show_stripe_button="false" weight="0.5211466" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32978722" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.32978722" />
+      <unified_weights bottom="0.5211466" left="0.37774122" right="0.32978722" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2463175" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.5211466" />
+      <window_info anchor="bottom" id="Build" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="5" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32978722" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.32978722" />
+      <unified_weights bottom="0.5211466" left="0.2463175" right="0.32978722" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Hierarchy</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1687708630801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687708630801" />
+    <state width="1731" height="501" key="GridCell.Tab.0.bottom" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.0.center" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.0.left" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.0.right" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.1.bottom" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.1.center" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.1.left" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state width="1731" height="501" key="GridCell.Tab.1.right" timestamp="1687710246444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1731" height="501" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687710246444" />
+    <state x="391" y="102" key="SettingsEditor" timestamp="1687706034850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="391" y="102" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687706034850" />
+    <state x="574" y="0" width="840" height="1082" key="search.everywhere.popup" timestamp="1687708669323">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="0" width="840" height="1082" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687708669323" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Registry.DENSITY_FUNCTION_TYPE_REGISTRY</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIBiomes.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDensityFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONINoises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/4.1.27/cf91f64dcfa2eaefc3db2663192a3e146a91587a/datafixerupper-4.1.27-sources.jar!/com/mojang/serialization/Codec.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/item/ItemStack.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="285" column="6" selection-start-line="285" selection-start-column="6" selection-end-line="285" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/NoiseRouterData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/data/BuiltinRegistries.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/entity/Entity.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="191" column="36" selection-start-line="191" selection-start-column="32" selection-end-line="191" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/core/Registry.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="331" column="79" selection-start-line="331" selection-start-column="79" selection-end-line="331" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/blending/Blender.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+          <folding>
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/4.1.27/cf91f64dcfa2eaefc3db2663192a3e146a91587a/datafixerupper-4.1.27-sources.jar!/com/mojang/datafixers/kinds/Kind1.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/4.1.27/cf91f64dcfa2eaefc3db2663192a3e146a91587a/datafixerupper-4.1.27-sources.jar!/com/mojang/serialization/MapCodec.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#3600#3601#0" expanded="true" />
+            <element signature="e#3648#3649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NoiseUtils.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/NormalNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/PerlinNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="147" column="58" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
+          <folding>
+            <element signature="e#5961#5962#0" expanded="true" />
+            <element signature="e#6025#6026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/ImprovedNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#ImprovedNoise#0" />
+            <element signature="docComment;field#p#0;class#ImprovedNoise#0" />
+            <element signature="method#ImprovedNoise#0;class#ImprovedNoise#0" />
+            <element signature="e#924#963#1" />
+            <element signature="e#1000#1153#1" />
+            <element signature="docComment;method#noise#1;class#ImprovedNoise#0" />
+            <element signature="method#noise#1;class#ImprovedNoise#0" />
+            <element signature="e#1728#1951#1" />
+            <element signature="e#1792#1828#1" />
+            <element signature="e#1834#1867#1" />
+            <element signature="e#1957#1986#1" />
+            <element signature="method#noiseWithDerivative#0;class#ImprovedNoise#0" />
+            <element signature="method#gradDot#0;class#ImprovedNoise#0" />
+            <element signature="method#sampleAndLerp#0;class#ImprovedNoise#0" />
+            <element signature="method#sampleWithDerivative#0;class#ImprovedNoise#0" />
+            <element signature="method#parityConfigString#0;class#ImprovedNoise#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/BlendedNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="method#compute#0;class#BlendedNoise#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/carver/CanyonWorldCarver.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/carver/CarvingContext.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/RandomSource.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/WorldgenRandom.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/chunk/ChunkGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="373" column="74" selection-start-line="373" selection-start-column="74" selection-end-line="373" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/biome/Biome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="65" column="100" lean-forward="true" selection-start-line="65" selection-start-column="100" selection-end-line="65" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/PerlinSimplexNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/XoroshiroRandomSource.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/RandomSupport.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/synth/SimplexNoise.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/4.1.27/cf91f64dcfa2eaefc3db2663192a3e146a91587a/datafixerupper-4.1.27-sources.jar!/com/mojang/serialization/codecs/RecordCodecBuilder.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+          <folding>
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunctions.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#5638#5639#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+            <element signature="e#19283#19284#0" expanded="true" />
+            <element signature="e#19356#19357#0" expanded="true" />
+            <element signature="e#19738#19739#0" expanded="true" />
+            <element signature="e#19777#19778#0" expanded="true" />
+            <element signature="e#19811#19812#0" expanded="true" />
+            <element signature="e#19850#19851#0" expanded="true" />
+            <element signature="e#20303#20304#0" expanded="true" />
+            <element signature="e#20339#20340#0" expanded="true" />
+            <element signature="e#20520#20521#0" expanded="true" />
+            <element signature="e#20556#20557#0" expanded="true" />
+            <element signature="e#30778#30779#0" expanded="true" />
+            <element signature="e#30820#30821#0" expanded="true" />
+            <element signature="e#30854#30855#0" expanded="true" />
+            <element signature="e#30929#30930#0" expanded="true" />
+            <element signature="e#30986#30987#0" expanded="true" />
+            <element signature="e#31017#31018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/4.1.27/cf91f64dcfa2eaefc3db2663192a3e146a91587a/datafixerupper-4.1.27-sources.jar!/com/mojang/datafixers/util/Either.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
+          <folding>
+            <element signature="e#2512#2513#0" expanded="true" />
+            <element signature="e#2554#2555#0" expanded="true" />
+            <element signature="e#4970#4971#0" expanded="true" />
+            <element signature="e#5011#5012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/worldgen/densityfunctions/MoonSurfaceSamplerDensityFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/levelgen/DensityFunction.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#2814#2815#0" expanded="true" />
+            <element signature="e#2861#2862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIFeatures.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONICarvers.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDimensions.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/events/ONIServerEventsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/ONIUtils.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/client/gui/screens/worldselection/CreateWorldScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="200" column="14" selection-start-line="200" selection-start-column="14" selection-end-line="200" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/client/Minecraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="1950" column="16" selection-start-line="1950" selection-start-column="16" selection-end-line="1950" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-17-openjdk!/java.base/java/util/Optional.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/core/RegistryAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data/oniutils/worldgen/noise_settings/asteroid.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registration/Registration.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/oniutils/common/registries/worldgen/ONIDensityFunction.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

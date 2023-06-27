@@ -4,20 +4,21 @@
       <map>
         <entry key="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj">
           <value>
-            <RecentProjectMetaInfo displayName="PartyBuilder" frameTitle="party-builder – DefaultTheme.cs" opened="true" projectWorkspaceId="2RHnpqrmhychOqiKdtlZRXEbl1t">
-              <option name="activationTimestamp" value="1687208432415" />
+            <RecentProjectMetaInfo displayName="PartyBuilder" frameTitle="party-builder – Program.cs" projectWorkspaceId="2RHnpqrmhychOqiKdtlZRXEbl1t">
+              <option name="activationTimestamp" value="1687634625711" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-231.9011.39" />
-              <option name="buildTimestamp" value="1684318894732" />
-              <frame x="79" y="8" width="1833" height="1064" />
+              <option name="buildTimestamp" value="1684318917165" />
+              <frame x="79" y="8" width="913" height="1064" />
               <option name="metadata" value="party-builder|/home/cadenz/Dev/party-builder/PartyBuilder.csproj" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1687205939307" />
+              <option name="projectOpenTimestamp" value="1687634610557" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/visualizer/visualizer.csproj" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
   </component>
 </application>

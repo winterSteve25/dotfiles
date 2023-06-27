@@ -56,3 +56,5 @@ vim.o.foldenable = true
 -- vim.g.loaded_netrw = 1
 -- vim.g.loaded_netrwPlugin = 1
 
+-- Font for neovide
+vim.o.guifont = "SFMono Nerd Font Mono:h14"

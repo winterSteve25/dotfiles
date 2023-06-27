@@ -34,7 +34,7 @@ return {
 	{
 		"kevinhwang91/nvim-ufo",
 		dependencies = {
-			"kevinhwang91/promise-async"
+			"kevinhwang91/promise-async",
 		}
 	},
 
@@ -61,7 +61,6 @@ return {
             pcall(require('nvim-treesitter.install').update { with_sync = true })
         end
     },
-
 
     -- Auto save
     {
@@ -107,6 +106,9 @@ return {
 		"rcarriga/nvim-notify",
 		lazy = false,
 		config = function ()
+			require("notify").setup {
+				background_colour = "#000000",
+			}
 			vim.notify = require("notify")
 		end
 	},
@@ -167,11 +169,12 @@ return {
     -- Indentation display
     {
         "lukas-reineke/indent-blankline.nvim",
-
-        opts = {
-            char = '|',
-            show_trailing_blankline_indent = false,
-        },
+		config = function ()
+			require("indent_blankline").setup {
+				show_current_context = true,
+            	show_trailing_blankline_indent = true,
+			}
+		end,
     },
 
     -- TODOs
@@ -186,7 +189,7 @@ return {
     { 'numToStr/Comment.nvim', opts = {} },
 
     -- Toggle Term
-    { 'akinsho/toggleterm.nvim', opts = { direction = "float" } },
+    { 'akinsho/toggleterm.nvim', opts = {} },
 
     -- Wilder
     {
@@ -322,15 +325,22 @@ return {
 	{
 		"catppuccin/nvim",
 		name = "catppuccin",
-		config = function()
-			vim.cmd("colorscheme catppuccin")
+		config = function ()
+			vim.cmd.colorscheme("catppuccin")
 		end
 	},
 
 	{
 		"dasupradyumna/midnight.nvim",
-		-- config = function()
-		-- 	vim.cmd("colorscheme midnight")
+	},
+
+	{
+		"ellisonleao/gruvbox.nvim",
+		-- config = function ()
+		-- 	require("gruvbox").setup({
+		-- 		contrast = "hard"
+		-- 	})
+		-- 	vim.cmd.colorscheme("gruvbox")
 		-- end
 	},
 

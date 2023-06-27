@@ -20,19 +20,18 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "BuildView.Splitter.Proportion": "0.15933752",
+    "BuildView.Splitter.Proportion": "0.14442518",
     "CRATES_IO_INDEX_LAST_UPDATE": "1685284593750",
     "CWM_LOGGING_VERSION": "1",
     "InstalledPluginsSearchHistory": "rust\nrus\nru\nr",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-231.8770.65",
-    "MarketplacePluginsSearchHistory": "rust",
+    "MarketplacePluginsSearchHistory": "caret\nrust",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "NonModalCommitCustomization.IsApplied": "true",
-    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
     "TextEditorWithPreview.SplitterProportionKey": "0.744382",
-    "appcds.runOnSecondStart": "IU-231.9011.34-9687af924783dacffd8175dbef41780fe85abe6aea306900d6967a6608688153",
+    "appcds.runOnSecondStart": "IU-231.9011.34-0c627f618c8fdb7e678d767d9e6d04bea9094a8247b595db188ceacbe291b3ac",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -45,7 +44,7 @@
     "evlsprt3.231": "24",
     "experimental.ui.first.promotion.localdate": "2023-05-07",
     "experimental.ui.used.once": "true",
-    "file.gist.reindex.count": "23",
+    "file.gist.reindex.count": "43",
     "fileTypeChangedCounter": "14",
     "fontSizeToResetConsole": "15.0",
     "fontSizeToResetEditor": "15.0",
@@ -54,11 +53,11 @@
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "gotit.previous.run": "IU-231.9011.34",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1686834546487",
+    "ideavim.statistics.timestamp": "1687704295878",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/home/cadenz/Dev/ONI-Utils",
+    "last_opened_file_path": "/home/cadenz/Dev/oniutils/build.gradle",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
     "org.rust.external.linter.slow.run.do.not.show": "true",
@@ -72,6 +71,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/cadenz/Dev/oniutils/build.gradle",
       "/home/cadenz/Dev/ONI-Utils",
       "/home/cadenz/Dev/Echo/echo_api",
       "/home/cadenz/Dev/Echo/echo_api/Cargo.toml",
@@ -97,14 +97,16 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "CtrlW": 1685280888028,
-    "QuickJavaDoc": 1684676166529,
-    "SearchEverywhere": 1684000093513,
-    "RecentFiles": 1684153963491,
-    "VCS_general": 1684065370648,
-    "ShowUsages": 1686834548149
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CtrlW&quot;: 1687352462844,
+    &quot;find_usages&quot;: 1687617749378,
+    &quot;QuickJavaDoc&quot;: 1684676166529,
+    &quot;SearchEverywhere&quot;: 1687303622417,
+    &quot;RecentFiles&quot;: 1684153963491,
+    &quot;VCS_general&quot;: 1684065370648,
+    &quot;ShowUsages&quot;: 1686834548149,
+    &quot;VcsQuickList&quot;: 1687695857076
   }
-}]]></component>
+}</component>
 </application>

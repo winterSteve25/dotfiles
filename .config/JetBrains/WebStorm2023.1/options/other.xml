@@ -15,12 +15,12 @@
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
     "RunOnceActivity.svelte.init.key": "true",
-    "appcds.runOnSecondStart": "WS-231.9011.35-b2d8ef1d8f234afc4a72ff049337483c7fab80616ced161ae9968bac7a7ce68f",
+    "appcds.runOnSecondStart": "WS-231.9011.35-f72c8ccfa565cd8edb44e8949a471acbfc6ba0e63255bf76327be09ad88121d3",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "bundled.plugins.list.saved.version": "WS-231.9011.35",
     "evlsprt3.231": "23",
     "experimental.ui.used.once": "true",
-    "file.gist.reindex.count": "3",
+    "file.gist.reindex.count": "5",
     "fileTypeChangedCounter": "6",
     "fontSizeToResetConsole": "15.0",
     "fontSizeToResetEditor": "15.0",
@@ -29,7 +29,7 @@
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "gotit.previous.run": "WS-231.9011.35",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1687262752909",
+    "ideavim.statistics.timestamp": "1687882448398",
     "input.method.disabler.muted": "true",
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
@@ -55,10 +55,11 @@
 }]]></component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
-    "Rename": 1685360300894,
-    "CtrlW": 1686425651150,
     "SpeedSearch": 1686833989208,
+    "CtrlW": 1687882245632,
+    "Rename": 1685360300894,
     "SearchEverywhere": 1686743022153,
+    "SurroundWith": 1687445968225,
     "ShowUsages": 1687088815782,
     "SelectIn": 1687262654981,
     "FindInPath": 1687021622910

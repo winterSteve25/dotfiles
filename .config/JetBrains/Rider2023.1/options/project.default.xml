@@ -2,11 +2,21 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="1395" y="0" key="FileChooserDialogImpl" timestamp="1687631137929">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="1395" y="0" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1687631137929" />
+        <state x="595" y="290" key="Rider.ProjectTemplateDialog.Size" timestamp="1687631140114">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="595" y="290" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080/1920.0.1920.1080" timestamp="1687631140114" />
+      </component>
     </defaultProject>
   </component>
 </application>

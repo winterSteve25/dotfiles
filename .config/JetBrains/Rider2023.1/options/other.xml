@@ -3,21 +3,23 @@
     <option name="fontFace" value="Inter" />
     <option name="fontScale" value="1.0" />
     <option name="fontSize" value="14.0" />
-    <option name="ideScale" value="1.1" />
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "Debug.Allow.Typing": "true",
+    "InstalledPluginsSearchHistory": "explorer",
     "KEYMAP": "parameter\nclose tab\nclose window\nclose",
     "MarketplacePluginsSearchHistory": "materia\nmaterail\nmaet\nmaterial",
+    "PluginConfigurable.selectionTab": "1",
     "RD.Init.Cfg.2": "true",
     "RD.Init.DialogShown.Ide": "true",
     "Rider.Last.Started.IDE.Build": "RD-231.9011.39",
     "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "inlay hints\ninlay\nexplorer",
     "Tutorials.In.Recent.Projects.Disabled": "true",
-    "appcds.runOnSecondStart": "RD-231.9011.39-5d1fa57c725c9e0eed051952f5cc0cba6b5198a56ce78a4ec3a6d73e148dcb44",
+    "appcds.runOnSecondStart": "RD-231.9011.39-38eeb38919a4cba96ae289f0bc4b8a43445a7d76a13672e82b277b8751a4161b",
     "bundled.plugins.list.saved.version": "RD-231.9011.39",
     "debugger.immediate.window.in.watches.proportion.key": "0.81674206",
     "debugger.smart.chooser.counter": "3",
@@ -25,18 +27,19 @@
     "experimental.ui.first.promotion.localdate": "2023-06-16",
     "experimental.ui.used.once": "true",
     "experimentalFeature.editor.reader.mode": "false",
-    "file.gist.reindex.count": "31",
+    "file.gist.reindex.count": "40",
     "fileTypeChangedCounter": "3",
-    "fontSizeToResetConsole": "14.0",
-    "fontSizeToResetEditor": "14.0",
-    "ide.updates.old.dirs.scan.scheduled": "1687522976437",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
     "ide.widget.toolbar.first.inclusion": "2",
-    "ideavim.statistics.timestamp": "1687206089739",
+    "ideavim.statistics.timestamp": "1687631144617",
     "ignoreUltimateEdition": "true",
     "immediate.window.eval.count.until.watch.got.it.hidden": "10",
     "input.method.disabler.muted": "true",
-    "last_open_solution_path": "/home/cadenz/Dev/party-builder",
-    "last_opened_file_path": "/home/cadenz/Dev/party-builder",
+    "last_open_solution_path": "/home/cadenz/Dev/visualizer",
+    "last_opened_file_path": "/home/cadenz/Dev/visualizer",
+    "last_selected_template": "Console Application|.NET / .NET Core",
+    "last_selected_template_parameters": "TargetFrameworkOverride=net7.0;Language=C#;DockerSupport=Disabled;",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "RD-231.9011.39",
@@ -49,6 +52,9 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/cadenz/Dev/visualizer",
+      "/home/cadenz/Dev/NoiseVisualizer/NoiseVisualizer.sln",
+      "/home/cadenz/Dev",
       "/home/cadenz/Dev/party-builder"
     ],
     "fileTypeDetectors": [

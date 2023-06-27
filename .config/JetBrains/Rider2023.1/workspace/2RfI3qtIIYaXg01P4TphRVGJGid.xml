@@ -1,0 +1,213 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="visualizer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1687635055021" expanded="true" signature="60:1295" ph="{...}" />
+                <marker date="1687635055021" expanded="true" signature="239:1010" ph="{...}" />
+                <marker date="1687635055021" expanded="true" signature="1065:1111" ph="{...}" />
+                <marker date="1687635055021" expanded="true" signature="1160:1293" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="1" lastUsed="1687634514932" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.visualizer.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="1" lastUsage="1687634514932" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="visualizer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="visualizer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Program.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.visualizer" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="565000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" side_tool="true" weight="0.19994545" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.06901255" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.17250821" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" weight="0.40272558" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.40272558" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.40272558" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.40272558" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40272558" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.40272558" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.40272558" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" weight="0.32978722" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="Hierarchy" order="4" weight="0.32963765" />
+      <unified_weights bottom="0.40272558" left="0.06901255" right="0.32963765" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" side_tool="true" weight="0.19994545" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.06901255" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.17250821" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" weight="0.40272558" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.40272558" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.40272558" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.40272558" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40272558" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.40272558" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.40272558" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" weight="0.32978722" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="Hierarchy" order="4" weight="0.32963765" />
+      <unified_weights bottom="0.40272558" left="0.06901255" right="0.32963765" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>NuGet</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1751" height="386" key="GridCell.Tab.0.bottom" timestamp="1687635078872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1751" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687635078872" />
+    <state width="1751" height="386" key="GridCell.Tab.0.center" timestamp="1687635078871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1751" height="386" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687635078871" />
+    <state width="1751" height="386" key="GridCell.Tab.0.left" timestamp="1687635078871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1751" height="386" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687635078871" />
+    <state width="1751" height="386" key="GridCell.Tab.0.right" timestamp="1687635078871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1751" height="386" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687635078871" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1687635055021" expanded="true" signature="60:1295" ph="{...}" />
+            <marker date="1687635055021" expanded="true" signature="239:1010" ph="{...}" />
+            <marker date="1687635055021" expanded="true" signature="1065:1111" ph="{...}" />
+            <marker date="1687635055021" expanded="true" signature="1160:1293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -9,14 +9,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file>
-        <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte">
+        <entry file="file://$PROJECT_DIR$/src/lib/homepage/Home.svelte">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="546">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding>
-                <element signature="e#23#87#0" expanded="true" />
-                <element signature="n#style#0;n#!!top" />
+                <element signature="e#19#58#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -27,40 +35,49 @@
     <fileType name="GitIgnore file">
       <summary usageCount="1" lastUsed="1687021686267" />
     </fileType>
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1687906551672" />
+    </fileType>
     <fileType name="JSON">
-      <summary usageCount="5" lastUsed="1687021650070" />
+      <summary usageCount="9" lastUsed="1687906541498" />
     </fileType>
     <fileType name="JavaScript">
       <summary usageCount="1" lastUsed="1686834389962" />
     </fileType>
     <fileType name="Markdown">
-      <summary usageCount="1" lastUsed="1686743162775" />
+      <summary usageCount="2" lastUsed="1687906549142" />
     </fileType>
     <fileType name="PLAIN_TEXT">
       <summary usageCount="1" lastUsed="1686743390144" />
     </fileType>
     <fileType name="SCSS">
-      <summary usageCount="4" lastUsed="1686743759897" />
+      <summary usageCount="7" lastUsed="1687905693036" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="7" lastUsed="1687903983372" />
     </fileType>
     <fileType name="Svelte">
-      <summary usageCount="49" lastUsed="1687262648965" />
+      <summary usageCount="71" lastUsed="1687906472266" />
     </fileType>
     <fileType name="TypeScript">
-      <summary usageCount="11" lastUsed="1687021904324" />
+      <summary usageCount="13" lastUsed="1687906338677" />
     </fileType>
     <fileType name="WebPreview">
-      <summary usageCount="2" lastUsed="1687262654930" />
+      <summary usageCount="4" lastUsed="1687882245623" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/src/app.scss" />
       <option value="$PROJECT_DIR$/src/lib/comps/Toggle.svelte" />
       <option value="$PROJECT_DIR$/src/lib/ProjectDetails.svelte" />
       <option value="$PROJECT_DIR$/vite.config.ts" />
       <option value="$PROJECT_DIR$/src/lib/scripts/ScriptsTab.svelte" />
       <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte" />
       <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" />
+      <option value="$PROJECT_DIR$/src/app.scss" />
+      <option value="$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/homepage/Home.svelte" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -74,26 +91,32 @@
     <language id="GitIgnore">
       <summary usageCount="1" lastUsage="1687021686267" />
     </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1687906551672" />
+    </language>
     <language id="JSON">
-      <summary usageCount="5" lastUsage="1687021650070" />
+      <summary usageCount="9" lastUsage="1687906541498" />
     </language>
     <language id="JavaScript">
       <summary usageCount="1" lastUsage="1686834389962" />
     </language>
     <language id="Markdown">
-      <summary usageCount="1" lastUsage="1686743162776" />
+      <summary usageCount="2" lastUsage="1687906549142" />
     </language>
     <language id="SCSS">
-      <summary usageCount="4" lastUsage="1686743759897" />
+      <summary usageCount="7" lastUsage="1687905693036" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="7" lastUsage="1687903983372" />
     </language>
     <language id="SvelteHTML">
-      <summary usageCount="49" lastUsage="1687262648965" />
+      <summary usageCount="71" lastUsage="1687906472266" />
     </language>
     <language id="TEXT">
       <summary usageCount="1" lastUsage="1686743390144" />
     </language>
     <language id="TypeScript">
-      <summary usageCount="11" lastUsage="1687021904324" />
+      <summary usageCount="13" lastUsage="1687906338678" />
     </language>
   </component>
   <component name="ProjectView">
@@ -116,6 +139,13 @@
               <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="echo-v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/homepage}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,10 +170,11 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8577000" />
+    <option name="totallyTimeSpent" value="14795000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.17212221" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212221" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
@@ -163,7 +194,7 @@
       <unified_weights bottom="0.33035713" left="0.17212221" />
     </layoutV2>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212221" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17212221" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
       <window_info id="Structure" order="3" weight="0.25" />
@@ -183,6 +214,7 @@
     </layout-to-restore>
     <recentWindows>
       <value>Terminal</value>
+      <value>Bookmarks</value>
       <value>Project</value>
       <value>Run</value>
     </recentWindows>
@@ -196,39 +228,28 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="761" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686744618809" />
-    <state width="1731" height="298" key="GridCell.Tab.0.bottom" timestamp="1687022527102">
+    <state width="1731" height="298" key="GridCell.Tab.0.bottom" timestamp="1687906844758">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687022527102" />
-    <state width="1731" height="298" key="GridCell.Tab.0.center" timestamp="1687022527102">
+    <state width="1731" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
+    <state width="1731" height="298" key="GridCell.Tab.0.center" timestamp="1687906844758">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687022527102" />
-    <state width="1731" height="298" key="GridCell.Tab.0.left" timestamp="1687022527102">
+    <state width="1731" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
+    <state width="1731" height="298" key="GridCell.Tab.0.left" timestamp="1687906844758">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687022527102" />
-    <state width="1731" height="298" key="GridCell.Tab.0.right" timestamp="1687022527102">
+    <state width="1731" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
+    <state width="1731" height="298" key="GridCell.Tab.0.right" timestamp="1687906844758">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687022527102" />
+    <state width="1731" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
+    <state x="391" y="102" key="SettingsEditor" timestamp="1687905792276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="391" y="102" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687905792276" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.scss" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/wavesurfer.js/dist/plugins/minimap.d.ts" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -245,9 +266,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" preview="true">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/comps/TitleBar.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
@@ -291,13 +309,6 @@
     <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueProp.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCuesTab.svelte" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/svelte.config.js" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -310,28 +321,11 @@
         <state relative-caret-position="-1268" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/ProjectDetails.svelte" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json" preview="true">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vite-env.d.ts" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vite.config.ts" preview="true">
       <provider selected="true" editor-type-id="text-editor">
@@ -362,11 +356,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCueDetails.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="390">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding>
-            <element signature="e#23#87#0" expanded="true" />
             <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/purplewaves.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/wavesbg.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vite.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/WavesBg.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/PurpleWaves.svg" preview="true">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.scss" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/projects/ProjectsList.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/soundcues/SoundCuesTab.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/svelte-spa-router/Router.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="188" column="21" selection-start-line="188" selection-start-column="21" selection-end-line="188" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/svelte/types/runtime/transition/index.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ProjectDetails.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" preview="true">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" preview="true">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/homepage/Home.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#19#58#0" expanded="true" />
           </folding>
         </state>
       </provider>

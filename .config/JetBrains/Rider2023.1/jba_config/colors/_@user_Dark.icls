@@ -4,13 +4,22 @@
     <property name="created">2022-12-24T15:13:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-05-10T08:40:14</property>
+    <property name="modified">2023-06-24T14:29:23</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrainsMono Nerd Font Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="CaskaydiaCove Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
     <option name="ANNOTATIONS_COLOR" value="8d9199" />

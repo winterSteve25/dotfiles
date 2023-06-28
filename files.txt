@@ -8,6 +8,7 @@
 .config/rofi
 .config/picom.conf
 .config/starship.toml
+.config/lazygit
 
 .ideavimrc
 .gitconfig

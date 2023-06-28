@@ -23,7 +23,6 @@ require("lazy").setup("plugins")
 require("setups/lsp")
 require("setups/auto-cmp")
 require("setups/tree-sitter")
-require("setups/nvim-tree")
 
 -- setup keymap
 require("keymaps")

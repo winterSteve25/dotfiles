@@ -18,6 +18,7 @@ if status is-interactive
 	alias cat 'bat'
 	alias tree 'tree -C'
 	alias nuget 'mono /usr/local/bin/nuget.exe'
+	alias vim 'nvim'
 
 	# environment vars
 	set -gx PATH "$HOME/.local/bin" $PATH

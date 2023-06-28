@@ -13,4 +13,9 @@ with open("files.txt") as f:
             continue
 
         abs_path = os.path.join(home_dir, file)
-        shutil.move(abs_path, os.getcwd() + "/" + file)
+        new_path = os.getcwd() + "/" + file
+
+        if os.path.exists(new_path):
+            continue
+
+        shutil.move(abs_path, new_path)

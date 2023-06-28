@@ -22,3 +22,4 @@ set_key("n", "<leader>gi", gitignore.generate, { desc = "Generates a gitignore f
 
 set_key("n", "<C-->", ":foldclose<CR>", { desc = "Close fold" })
 set_key("n", "<C-=>", ":foldopen<CR>", { desc = "Open fold" })
+

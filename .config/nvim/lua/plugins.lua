@@ -1,17 +1,20 @@
 return {
     -- LSP Configuration & Plugins
     {
-
         'neovim/nvim-lspconfig',
         dependencies = {
             'williamboman/mason.nvim',
             'williamboman/mason-lspconfig.nvim',
-            { 'j-hui/fidget.nvim', opts = {} },
             'folke/neodev.nvim',
+            {
+				'j-hui/fidget.nvim',
+				tag = "legacy",
+				opts = {}
+			},
         },
     },
 
-    -- Autocompletion
+	-- Autocompletion
     {
         'hrsh7th/nvim-cmp',
         dependencies = {
@@ -36,6 +39,50 @@ return {
 		dependencies = {
 			"kevinhwang91/promise-async",
 		}
+	},
+
+	-- Startup menu
+	{
+		'goolord/alpha-nvim',
+		event = "VimEnter",
+		dependencies = {
+			'kyazdani42/nvim-web-devicons',
+
+			-- Session management
+			{
+				"Shatur/neovim-session-manager",
+				dependencies = { "plenary.nvim" },
+				config = function ()
+					local config = require("session_manager.config")
+					require("session_manager").setup({
+						autoload_mode = config.AutoloadMode.Disabled,
+					})
+				end
+			},
+		},
+		config = function()
+			local alpha = require'alpha'
+			local dashboard = require'alpha.themes.dashboard'
+			dashboard.section.header.val = {
+				[[                               __                ]],
+				[[  ___     ___    ___   __  __ /\_\    ___ ___    ]],
+				[[ / _ `\  / __`\ / __`\/\ \/\ \\/\ \  / __` __`\  ]],
+				[[/\ \/\ \/\  __//\ \_\ \ \ \_/ |\ \ \/\ \/\ \/\ \ ]],
+				[[\ \_\ \_\ \____\ \____/\ \___/  \ \_\ \_\ \_\ \_\]],
+				[[ \/_/\/_/\/____/\/___/  \/__/    \/_/\/_/\/_/\/_/]],
+			}
+
+			dashboard.section.buttons.val = {
+				dashboard.button("e", "  New file" , ":ene <BAR> startinsert <CR>"),
+				dashboard.button("d", "  Open Current Directory" , ":NvimTreeOpen<CR>"),
+				dashboard.button("l", "󰔠  Load Session", ":SessionManager load_session<CR>"),
+				dashboard.button("q", "  Quit NVIM" , ":qa<CR>"),
+			}
+
+			dashboard.config.opts.noautocmd = true
+			vim.cmd[[autocmd User AlphaReady echo 'ready']]
+			alpha.setup(dashboard.config)
+		end,
 	},
 
 	-- Neoformatter
@@ -189,7 +236,12 @@ return {
     { 'numToStr/Comment.nvim', opts = {} },
 
     -- Toggle Term
-    { 'akinsho/toggleterm.nvim', opts = {} },
+    {
+		'akinsho/toggleterm.nvim',
+		opts = {
+			direction = "float"
+		}
+	},
 
     -- Wilder
     {
@@ -332,6 +384,9 @@ return {
 
 	{
 		"dasupradyumna/midnight.nvim",
+		-- config = function ()
+		-- 	vim.cmd.colorscheme("midnight")
+		-- end
 	},
 
 	{
@@ -351,7 +406,6 @@ return {
     -- FLUTTER TOOLS
     {
         "akinsho/flutter-tools.nvim",
-        lazy = false,
         opts = {
             lsp = {
                 on_attach = require("on_attach_func")

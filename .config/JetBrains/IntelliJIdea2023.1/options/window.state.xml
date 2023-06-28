@@ -23,14 +23,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1143" y="660" width="692" height="299" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684183536973" />
-    <state width="1586" height="179" key="ShowUsagesActions.dimensionServiceKey" timestamp="1687709957821">
+    <state width="1586" height="1101" key="ShowUsagesActions.dimensionServiceKey" timestamp="1687981478307">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1586" height="179" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1687709957821" />
-    <state x="995" y="540" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1687706598144">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1586" height="1101" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1687981478307" />
+    <state x="2915" y="540" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1687981205072">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="995" y="540" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1687706598144" />
+    <state x="2915" y="540" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1687981205072" />
     <state width="375" height="659" key="manage.recent.projects.popup" timestamp="1684183596917">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

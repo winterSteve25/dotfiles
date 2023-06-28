@@ -4,12 +4,12 @@
     <property name="created">2022-12-24T15:13:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-06-25T11:13:55</property>
+    <property name="modified">2023-06-28T15:43:58</property>
     <property name="originalScheme">Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="JetBrainsMono NFM" />
+  <option name="EDITOR_FONT_NAME" value="JetBrainsMonoNL NFM" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />

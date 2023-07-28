@@ -1,0 +1,97 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="cwm://D:/Bek/school/ICS4U - sumeer school 2023/Python/FlagsGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+              <folding>
+                <marker date="0" expanded="true" signature="0:55" ph="import ..." />
+                <marker date="0" expanded="true" signature="969:1165" ph="..." />
+                <marker date="0" expanded="true" signature="1028:1073" ph="..." />
+                <marker date="0" expanded="true" signature="1083:1165" ph="..." />
+                <marker date="0" expanded="true" signature="1195:1284" ph="..." />
+                <marker date="0" expanded="true" signature="1316:1345" ph="..." />
+                <marker date="0" expanded="true" signature="1359:3470" ph="..." />
+                <marker date="0" expanded="true" signature="1396:2545" ph="..." />
+                <marker date="0" expanded="true" signature="1434:1483" ph="..." />
+                <marker date="0" expanded="true" signature="1532:1665" ph="..." />
+                <marker date="0" expanded="true" signature="1709:2545" ph="..." />
+                <marker date="0" expanded="true" signature="1740:2545" ph="..." />
+                <marker date="0" expanded="true" signature="1792:1886" ph="..." />
+                <marker date="0" expanded="true" signature="1937:2200" ph="..." />
+                <marker date="0" expanded="true" signature="2222:2545" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="ThinClientFileType">
+      <summary usageCount="1" lastUsed="1689819512067" />
+    </fileType>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ThinClientLanguage">
+      <summary usageCount="1" lastUsage="1689819512068" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25027382" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Code With Me" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="cwm://D:/Bek/school/ICS4U - sumeer school 2023/Python/FlagsGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+          <folding>
+            <marker date="0" expanded="true" signature="0:55" ph="import ..." />
+            <marker date="0" expanded="true" signature="969:1165" ph="..." />
+            <marker date="0" expanded="true" signature="1028:1073" ph="..." />
+            <marker date="0" expanded="true" signature="1083:1165" ph="..." />
+            <marker date="0" expanded="true" signature="1195:1284" ph="..." />
+            <marker date="0" expanded="true" signature="1316:1345" ph="..." />
+            <marker date="0" expanded="true" signature="1359:3470" ph="..." />
+            <marker date="0" expanded="true" signature="1396:2545" ph="..." />
+            <marker date="0" expanded="true" signature="1434:1483" ph="..." />
+            <marker date="0" expanded="true" signature="1532:1665" ph="..." />
+            <marker date="0" expanded="true" signature="1709:2545" ph="..." />
+            <marker date="0" expanded="true" signature="1740:2545" ph="..." />
+            <marker date="0" expanded="true" signature="1792:1886" ph="..." />
+            <marker date="0" expanded="true" signature="1937:2200" ph="..." />
+            <marker date="0" expanded="true" signature="2222:2545" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

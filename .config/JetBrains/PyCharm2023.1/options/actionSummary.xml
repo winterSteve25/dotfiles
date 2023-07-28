@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1689819604430" />
+    </e>
+    <e n="SettingsSyncOpenSettingsAction">
+      <i c="1" l="1689819540538" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1689819581612" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1689819463019" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1689819613921" />
+    </e>
+    <e n="WelcomeScreen.RevealIn">
+      <i c="1" l="1689819606266" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1689819600283" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1689819567288" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1689819599236" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1689819602764" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1689819531492" />
+    </e>
+  </component>
+</application>

@@ -20,32 +20,45 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "BuildView.Splitter.Proportion": "0.14442518",
+    "BuildView.Splitter.Proportion": "0.18544194",
     "CRATES_IO_INDEX_LAST_UPDATE": "1685284593750",
     "CWM_LOGGING_VERSION": "1",
     "InstalledPluginsSearchHistory": "rust\nrus\nru\nr",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-231.8770.65",
-    "MarketplacePluginsSearchHistory": "caret\nrust",
+    "MarketplacePluginsSearchHistory": "minecraft\nminecrarft\ncaret\nrust",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
+    "NewKotlinWizard.buildSystem.type": "GradleKotlinDsl",
+    "NewKotlinWizard.structure.groupId": "com.github.wintersteve25",
+    "NewProjectWizard.addSampleCodeState": "true",
+    "NewProjectWizard.gradleDslState": "KOTLIN",
+    "NewProjectWizard.groupIdState": "com.github.wintersteve25",
     "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SHELLCHECK.PATH": "/home/cadenz/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/231.9011.34.plugins/Shell Script/shellcheck",
     "TextEditorWithPreview.SplitterProportionKey": "0.744382",
-    "appcds.runOnSecondStart": "IU-231.9011.34-44d42a120dedf3cf522d10f872b92b5d847a2f4e24082e8279104e16a56eeeef",
+    "appcds.runOnSecondStart": "IU-231.9011.34-70f5c3460231d281ac1b39a2e97bf39d40460674a9a4e1063dca4a9919cb6a99",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IU-231.9011.34",
+    "com.demonwav.mcdev.creator.platformtype.ModPlatformStep.selectedStep": "Forge",
+    "com.demonwav.mcdev.creator.platformtype.PlatformTypeStep.selectedStep": "Mod",
+    "com.demonwav.mcdev.platform.forge.creator.ForgeBuildSystemStep.selectedStep": "Gradle",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
-    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Kotlin",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "debugger.smart.chooser.counter": "3",
     "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "evlsprt3.231": "24",
     "experimental.ui.first.promotion.localdate": "2023-05-07",
     "experimental.ui.used.once": "true",
-    "file.gist.reindex.count": "49",
-    "fileTypeChangedCounter": "14",
+    "file.gist.reindex.count": "88",
+    "fileTypeChangedCounter": "15",
     "fontSizeToResetConsole": "15.0",
     "fontSizeToResetEditor": "15.0",
     "got.it.tooltip.reader.mode.got.it": "1",
@@ -53,13 +66,18 @@
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "gotit.previous.run": "IU-231.9011.34",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1687962648923",
+    "ideavim.statistics.timestamp": "1690072974872",
     "input.method.disabler.muted": "true",
-    "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/home/cadenz/Dev/oniutils/build.gradle",
+    "installed.kotlin.plugin.version": "231-1.9.0-release-358-IJ8770.65",
+    "jdk.selected.JAVA_MODULE": "19",
+    "jdk.selected.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": "19",
+    "kotlin.lastUpdateCheck": "1690140024151",
+    "kotlin.plugin.releaseDate": "231-1.9.0-release-358-IJ8770.65:2023-07-06",
+    "kotlin.updates.whats.new.shown.for": "1.9.0",
+    "last_opened_file_path": "/home/cadenz/Dev/tau/1.16/build.gradle",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "Gradle",
     "org.rust.external.linter.slow.run.do.not.show": "true",
     "org.rust.lang.LAST_UPDATE": "1685280949256",
     "org.rust.lang.LAST_VERSION": "0.4.194.5382-231",
@@ -71,6 +89,9 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/cadenz/Dev/tau/1.16/build.gradle",
+      "/home/cadenz/Dev/tau/1.19/build.gradle",
+      "/home/cadenz/Dev/tau/1.18/build.gradle",
       "/home/cadenz/Dev/oniutils/build.gradle",
       "/home/cadenz/Dev/ONI-Utils",
       "/home/cadenz/Dev/Echo/echo_api",
@@ -91,23 +112,36 @@
       "ru.meanmail.fileTypes.RequirementsFileTypeDetector",
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.demonwav.mcdev.nbt.filetype.NbtFileTypeDetector",
       "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
       "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ],
+    "jdk.preference.com.intellij.ui.dsl.builder.impl.RowImpl.sdk": [
+      "19=/usr/lib/jvm/java-19-openjdk"
+    ],
+    "kotlin-gradle-user-dirs": [
+      "/home/cadenz/.gradle"
     ]
   }
 }]]></component>
-  <component name="ShownTips">{
-  &quot;shownTips&quot;: {
-    &quot;CtrlW&quot;: 1687352462844,
-    &quot;find_usages&quot;: 1687617749378,
-    &quot;QuickJavaDoc&quot;: 1684676166529,
-    &quot;SearchEverywhere&quot;: 1687303622417,
-    &quot;RecentFiles&quot;: 1684153963491,
-    &quot;VCS_general&quot;: 1684065370648,
-    &quot;SurroundWith&quot;: 1687962618841,
-    &quot;ShowUsages&quot;: 1686834548149,
-    &quot;VcsQuickList&quot;: 1687695857076
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "LiveTemplates": 1690072966802,
+    "CtrlW": 1689510987732,
+    "find_usages": 1687617749378,
+    "ClipboardStack": 1690132597704,
+    "GoToImplementation": 1689854242974,
+    "QuickJavaDoc": 1684676166529,
+    "SearchEverywhere": 1689432504749,
+    "RecentFiles": 1684153963491,
+    "NonSuspendingBreakpoints": 1689679620949,
+    "VCS_general": 1684065370648,
+    "QuickSwitchScheme": 1688140308591,
+    "SurroundWith": 1687962618841,
+    "ShowUsages": 1689629690129,
+    "VcsQuickList": 1687695857076,
+    "CompleteStatement": 1688222873094
   }
-}</component>
+}]]></component>
 </application>

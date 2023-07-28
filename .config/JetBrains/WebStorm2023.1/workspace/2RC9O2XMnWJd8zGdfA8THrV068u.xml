@@ -11,20 +11,11 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/lib/homepage/Home.svelte">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            <state relative-caret-position="214">
+              <caret line="49" column="100" selection-start-line="49" selection-start-column="100" selection-end-line="49" selection-end-column="100" />
               <folding>
                 <element signature="e#19#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -57,19 +48,18 @@
       <summary usageCount="7" lastUsed="1687903983372" />
     </fileType>
     <fileType name="Svelte">
-      <summary usageCount="71" lastUsed="1687906472266" />
+      <summary usageCount="89" lastUsed="1690131661924" />
     </fileType>
     <fileType name="TypeScript">
-      <summary usageCount="13" lastUsed="1687906338677" />
+      <summary usageCount="29" lastUsed="1690131662003" />
     </fileType>
     <fileType name="WebPreview">
-      <summary usageCount="4" lastUsed="1687882245623" />
+      <summary usageCount="6" lastUsed="1690131557560" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/src/lib/comps/Toggle.svelte" />
-      <option value="$PROJECT_DIR$/src/lib/ProjectDetails.svelte" />
       <option value="$PROJECT_DIR$/vite.config.ts" />
       <option value="$PROJECT_DIR$/src/lib/scripts/ScriptsTab.svelte" />
       <option value="$PROJECT_DIR$/src/lib/soundcues/SoundCueWaveform.svelte" />
@@ -77,6 +67,9 @@
       <option value="$PROJECT_DIR$/src/app.scss" />
       <option value="$PROJECT_DIR$/src/lib/projects/ProjectCard.svelte" />
       <option value="$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ProjectDetails.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/timeline/TimelineTab.svelte" />
+      <option value="$PROJECT_DIR$/src/lib/ts/api.ts" />
       <option value="$PROJECT_DIR$/src/lib/homepage/Home.svelte" />
     </changedPaths>
   </component>
@@ -110,13 +103,13 @@
       <summary usageCount="7" lastUsage="1687903983372" />
     </language>
     <language id="SvelteHTML">
-      <summary usageCount="71" lastUsage="1687906472266" />
+      <summary usageCount="89" lastUsage="1690131661924" />
     </language>
     <language id="TEXT">
       <summary usageCount="1" lastUsage="1686743390144" />
     </language>
     <language id="TypeScript">
-      <summary usageCount="13" lastUsage="1687906338678" />
+      <summary usageCount="29" lastUsage="1690131662003" />
     </language>
   </component>
   <component name="ProjectView">
@@ -145,7 +138,7 @@
               <item name="dir{file:///home/cadenz/Dev/echo-v3}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/cadenz/Dev/echo-v3/src}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/homepage}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/echo-v3/src/lib/ts}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,10 +163,30 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14795000" />
+    <option name="totallyTimeSpent" value="19675000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.17212221" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17212221" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33881578" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33881578" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.33881578" left="0.17212221" />
+    </layoutV2>
+    <layout-to-restore>
       <window_info id="Bookmarks" side_tool="true" weight="0.17212221" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17212221" />
       <window_info id="Commit" order="1" weight="0.25" />
@@ -182,8 +195,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33035713" />
-      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33035713" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33881578" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33881578" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="Database" order="1" weight="0.25" />
@@ -191,32 +204,13 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
       <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
-      <unified_weights bottom="0.33035713" left="0.17212221" />
-    </layoutV2>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17212221" />
-      <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="npm" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info id="Structure" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33035713" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.33035713" />
-      <window_info anchor="bottom" id="Services" order="5" />
-      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
-      <window_info anchor="right" id="Database" order="1" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
-      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
-      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
-      <unified_weights bottom="0.33035713" left="0.17212221" />
+      <unified_weights bottom="0.33881578" left="0.17212221" />
     </layout-to-restore>
     <recentWindows>
       <value>Terminal</value>
-      <value>Bookmarks</value>
-      <value>Project</value>
       <value>Run</value>
+      <value>Project</value>
+      <value>Bookmarks</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
@@ -228,42 +222,36 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="761" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1686744618809" />
-    <state width="1731" height="298" key="GridCell.Tab.0.bottom" timestamp="1687906844758">
+    <state width="1731" height="307" key="GridCell.Tab.0.bottom" timestamp="1690132575007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
-    <state width="1731" height="298" key="GridCell.Tab.0.center" timestamp="1687906844758">
+    <state width="1731" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1690132575007" />
+    <state width="1731" height="307" key="GridCell.Tab.0.center" timestamp="1690132575007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
-    <state width="1731" height="298" key="GridCell.Tab.0.left" timestamp="1687906844758">
+    <state width="1731" height="307" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1690132575007" />
+    <state width="1731" height="307" key="GridCell.Tab.0.left" timestamp="1690132575007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
-    <state width="1731" height="298" key="GridCell.Tab.0.right" timestamp="1687906844758">
+    <state width="1731" height="307" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1690132575007" />
+    <state width="1731" height="307" key="GridCell.Tab.0.right" timestamp="1690132575007">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1731" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687906844758" />
-    <state x="391" y="102" key="SettingsEditor" timestamp="1687905792276">
+    <state width="1731" height="307" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1690132575007" />
+    <state x="391" y="102" key="SettingsEditor" timestamp="1688242661116">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="391" y="102" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1687905792276" />
+    <state x="391" y="102" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1688242661116" />
+    <state x="574" y="0" width="840" height="1082" key="search.everywhere.popup" timestamp="1688248808665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="0" width="840" height="1082" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1688248808665" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/wavesurfer.js/dist/plugins/minimap.d.ts" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/ts/models.ts" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -364,21 +352,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/purplewaves.svg" preview="true">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/wavesbg.svg" preview="true">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/purplewaves.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/wavesbg.svg" preview="true" />
     <entry file="file://$PROJECT_DIR$/public/vite.svg" preview="true">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/WavesBg.svg" preview="true">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/PurpleWaves.svg" preview="true">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/WavesBg.svg" preview="true" />
+    <entry file="file://$PROJECT_DIR$/public/PurpleWaves.svg" preview="true" />
     <entry file="file://$PROJECT_DIR$/src/app.scss" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -414,24 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.svelte" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/svelte/types/runtime/transition/index.d.ts" preview="true">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/ProjectDetails.svelte" preview="true">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -458,17 +424,62 @@
     <entry file="file://$PROJECT_DIR$/index.html" preview="true">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte">
+    <entry file="file://$PROJECT_DIR$/src/lib/homepage/HomeNav.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="312">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/models.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="27782" column="38" selection-start-line="27782" selection-start-column="38" selection-end-line="27782" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ProjectDetails.svelte" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/ts/api.ts" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="81" column="69" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/timeline/TimelineTab.svelte">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lib/homepage/Home.svelte" preview="true">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="214">
+          <caret line="49" column="100" selection-start-line="49" selection-start-column="100" selection-end-line="49" selection-end-column="100" />
           <folding>
             <element signature="e#19#58#0" expanded="true" />
           </folding>

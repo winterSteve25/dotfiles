@@ -28,12 +28,7 @@ local function create_bar(screen)
 	return awful.wibar({
 		position = "left",
 		screen = screen,
-		width = dpi(55),
-		border_width = dpi(8),
-		border_color = "#00000000",
-		shape = function (cr, w, h)
-			gears.shape.rounded_rect(cr, w, h, 20)
-		end
+		width = dpi(60),
 	})
 end
 

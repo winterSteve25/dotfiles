@@ -1,7 +1,5 @@
 [user]
 	email = w1nter.ish3re@gmail.com
 	name = winterSteve25
-[credential]
-	helper = store
 [init]
 	defaultBranch = main

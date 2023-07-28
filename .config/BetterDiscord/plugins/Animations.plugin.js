@@ -1,8 +1,9 @@
 /**
  * @name Animations
  * @description This plugin is designed to animate different objects (lists, buttons, panels, etc.) with the ability to set delays, durations, types and sequences of these animations.
- * @version 1.3.11
+ * @version 1.3.12
  * @author Mops
+ * @authorLink https://github.com/Mopsgamer/
  * @authorId 538010208023347200
  * @website https://github.com/Mopsgamer/BetterDiscord-codes/blob/main/plugins/Animations
  * @source https://raw.githubusercontent.com/Mopsgamer/BetterDiscord-codes/main/plugins/Animations/Animations.plugin.js
@@ -18,16 +19,9 @@ const config = {
     /**@type {ChangelogStruct[]}*/
     changelog: [
         {
-            type: 'removed',
-            items: [
-                'The "Update" button and the "Server" button have been removed. Use the links from the plugin card.',
-                'The plugin no longer needs Zlibrary.',
-            ]
-        },
-        {
             type: 'fixed',
             items: [
-                'A few fixes after the major Discord update. Nothing new.',
+                'A few fixes.',
             ]
         },
     ],
@@ -41,18 +35,43 @@ const config = {
         ],
         invite: "PWtAHjBXtG",
         name: "Animations",
-        version: "1.3.11"
+        version: "1.3.12"
     },
 };
 
 let BdApi = window.BdApi;
 
-    /**@type {import("@types/react")}*/ const React = BdApi.React;
-    /**@type {import("@types/react-dom")}*/ const ReactDOM = BdApi.ReactDOM;
+/**@type {import("@types/react")}*/ const React = BdApi.React;
+/**@type {import("@types/react-dom")}*/ const ReactDOM = BdApi.ReactDOM;
 const { Patcher, Webpack, Data } = BdApi;
 const Utilities = {
     loadSettings: (pluginName, defaultSettings) => Data.load(pluginName, 'settings') ?? defaultSettings,
     saveSettings: (pluginName, data) => Data.save(pluginName, 'settings', data),
+    /**
+     * Deep merge two objects.
+     * @param target
+     * @param ...sources
+     */
+    mergeDeep(target, ...sources) {
+        function isObject(item) {
+            return (item && typeof item === 'object' && !Array.isArray(item));
+        }
+        if (!sources.length) return target;
+        const source = sources.shift();
+
+        if (isObject(target) && isObject(source)) {
+            for (const key in source) {
+                if (isObject(source[key])) {
+                    if (!target[key]) Object.assign(target, { [key]: {} });
+                    this.mergeDeep(target[key], source[key]);
+                } else {
+                    Object.assign(target, { [key]: source[key] });
+                }
+            }
+        }
+
+        return this.mergeDeep(target, ...sources);
+    }
 }
 const ModulesPack = {
     find: (comparefn) => BdApi.findModule(comparefn),
@@ -66,17 +85,17 @@ const Logger = class Logger {
         console.error(`%c[${module}]%c ${message}\n\n%c`, "color: #3a71c1; font-weight: 700;", "color: red; font-weight: 700;", "color: red;", error);
     }
 
-    static error(module, ...message) { Logger._log(module, message, "error"); }
+    static error(module, ...message) { Logger.fastlogfn(module, message, "error"); }
 
-    static warning(module, ...message) { Logger._log(module, message, "warn"); }
+    static warning(module, ...message) { Logger.fastlogfn(module, message, "warn"); }
 
-    static info(module, ...message) { Logger._log(module, message, "info"); }
+    static info(module, ...message) { Logger.fastlogfn(module, message, "info"); }
 
-    static debug(module, ...message) { Logger._log(module, message, "debug"); }
+    static debug(module, ...message) { Logger.fastlogfn(module, message, "debug"); }
 
-    static log(module, ...message) { Logger._log(module, message); }
+    static log(module, ...message) { Logger.fastlogfn(module, message); }
 
-    static _log(module, message, type = "log") {
+    static fastlogfn(module, message, type = "log") {
         if (!Array.isArray(message)) message = [message];
         console[type](`%c[${config.info.name}]%c %c[${module}]%c`, "color: #3a71c1; font-weight: 700;", "", "color: #3a71c1; font-weight: 500;", "", ...message);
     }
@@ -85,6 +104,7 @@ const Logger = class Logger {
 
 /**
 * @typedef { 'da' | 'de' | 'en-GB' | 'en-US' | 'es-ES' | 'fr' | 'hr' | 'it' | 'lt' | 'hu' | 'nl' | 'no' | 'pl' | 'pt-BR' | 'ro' | 'fi' | 'sv-SE' | 'vi' | 'tr' | 'cs' | 'el' | 'bg' | 'ru' | 'uk' | 'hi' | 'th' | 'zh-CN' | 'ja' | 'zh-TW' | 'ko' } locale
+* @typedef { 'brick-down' | 'brick-left' | 'brick-right' | 'brick-up' | 'circle' | 'in' | 'opacity' | 'out' | 'polygon' | 'skew-left' | 'skew-right' | 'slide-down' | 'slide-left' | 'slide-right' | 'slide-up' | 'slime' | 'wide-skew-left' | 'wide-skew-right' } name
 * @typedef { 'onsent' | 'disabled' } sendingPerformance
 */
 
@@ -154,6 +174,7 @@ module.exports = class AnimationsPlugin {
                 delay: 0.1,
                 duration: 0.3,
                 enabled: true,
+                /**@type {name}*/
                 name: 'brick-left',
                 page: 0,
                 selectors: '',
@@ -178,6 +199,7 @@ module.exports = class AnimationsPlugin {
                 delay: 0.055,
                 duration: 0.3,
                 enabled: true,
+                /**@type {name}*/
                 name: 'brick-up',
                 page: 0,
                 selectors: '',
@@ -203,6 +225,7 @@ module.exports = class AnimationsPlugin {
                 duration: 0.3,
                 enabled: true,
                 limit: 30,
+                /**@type {name}*/
                 name: 'brick-down',
                 page: 0,
                 sending: {
@@ -223,6 +246,7 @@ module.exports = class AnimationsPlugin {
 
                     /**@type {sendingPerformance}*/
                     enabled: 'onsent',
+                    /**@type {name}*/
                     name: 'brick-up',
                     page: 0
                 },
@@ -235,6 +259,7 @@ module.exports = class AnimationsPlugin {
 
         /**@type defaultSettings */
         this.settings = Utilities.loadSettings(config.info.name, this.defaultSettings);
+        this.settings = Utilities.mergeDeep(Object.assign({}, this.defaultSettings), this.settings)
     }
 
     static strings = {
@@ -320,7 +345,7 @@ module.exports = class AnimationsPlugin {
             "link_gh_issues": "Issues",
             "lists": "Lists",
             "messages": "Messages",
-            "messages_received": "Received",
+            "messages_received": "Receiving",
             "messages_sending": "Sending",
             "rebuild_animations": "Rebuild animations",
             "reset_all_settings": "Reset all",
@@ -444,7 +469,7 @@ module.exports = class AnimationsPlugin {
             }
         }
 
-        BdApi.UI.showConfirmationModal(
+        BdApi.UI.alert(
             [
                 config.info.name + ' - ' + trn.view.changelog,
                 React.createElement('div', { style: { color: 'var(--header-secondary)', fontSize: '12px', fontWeight: 'normal' } }, 'v' + config.info.version)
@@ -495,8 +520,10 @@ module.exports = class AnimationsPlugin {
                 var threadsForkElement = children.querySelector(`.${FoundModules.ContainerSpine} > svg`);
                 var threadsListElements = children.querySelectorAll(`.${FoundModules.ContainerDefault}`);
 
-                threadsForkElement.style.animationDelay = `${((i + threadsCount) * this.settings.lists.delay).toFixed(2)}s`;
-                threadsForkElement.style.animationName = 'slide-right';
+                if (threadsForkElement) {
+                    threadsForkElement.style.animationDelay = `${((i + threadsCount) * this.settings.lists.delay).toFixed(2)}s`;
+                    threadsForkElement.style.animationName = 'slide-right';
+                }
 
                 for (var j = 0; j < threadsListElements.length; j++) {
                     threadsCount += (j ? 1 : 0);
@@ -550,6 +577,16 @@ module.exports = class AnimationsPlugin {
                     this.isValidKeyframe(this.settings.lists.custom.frames[this.settings.lists.custom.page]?.anim)
                     : 0)
                 ? 'custom-lists' : this.settings.lists.name + (children.getAttribute('class').includes('offline') ? '_offline' : '');
+            let member_observer = new MutationObserver((mutations, observer) => {
+                if (!BdApi.Plugins.isEnabled(config.info.name)) observer.disconnect();
+                children.style.animationName = this.settings.lists.custom.enabled &&
+                (this.settings.lists.custom.page >= 0 ?
+                    this.settings.lists.custom.frames[this.settings.lists.custom.page]?.anim?.trim?.() != '' &&
+                    this.isValidKeyframe(this.settings.lists.custom.frames[this.settings.lists.custom.page]?.anim)
+                    : 0)
+                ? 'custom-lists' : this.settings.lists.name + (children.getAttribute('class').includes('offline') ? '_offline' : '');
+            })
+            member_observer.observe(children, { attributes: true })
         }
 
         setTimeout(() => BdApi.clearCSS(`${config.info.name}-memberslist`), ((count * this.settings.lists.delay) + this.settings.lists.duration) * 1000)
@@ -1116,7 +1153,7 @@ module.exports = class AnimationsPlugin {
         \n${countStyles()}
 
         /*Custom keyframes*/
-        
+
         @keyframes custom-lists {
             ${this.settings.lists.custom.page >= 0 ? this.settings.lists.custom.frames[this.settings.lists.custom.page]?.anim : ''}
         }
@@ -1132,13 +1169,6 @@ module.exports = class AnimationsPlugin {
         @keyframes custom-messages+sending {
             ${this.settings.messages.sending.custom.page >= 0 ? this.settings.messages.sending.custom.frames[this.settings.messages.sending.custom.page]?.anim : ''}
         }
-        
-        
-        svg[id*=help-timing-] {
-            cursor: pointer;
-            margin-right: 0;
-            margin-left: 4px;
-        }
         `;
 
         BdApi.clearCSS(`${config.info.name}-main`);
@@ -1150,7 +1180,7 @@ module.exports = class AnimationsPlugin {
     }
 
     closeSettings() {
-        let modalSettings = [...(document.getElementsByClassName('bd-addon-modal') ?? [])].find(modal => { let h4 = modal.querySelector('h4'); if (h4) return ['animations', 'settings'].every(s => h4.innerText.toLowerCase().includes(s)) })
+        let modalSettings = document.getElementById(config.info.name + ' ' + 'settings')?.closest?.('.bd-addon-modal')
         if(modalSettings) modalSettings.querySelector('.bd-addon-modal-footer > .bd-button')?.click?.()
     }
 
@@ -1343,6 +1373,7 @@ module.exports = class AnimationsPlugin {
          * @property {'right' | 'left'} [align]
          * @property {string} [width='16px']
          * @property {string} [height='16px']
+         * @property {string} [margin-right='16px']
          * @property {string} [viewBox='0 0 24 24']
          * @property {string[]} [paths=[]]
          */
@@ -1357,6 +1388,7 @@ module.exports = class AnimationsPlugin {
                     color: 'var(--header-primary)',
                     width: '16px',
                     height: '16px',
+                    'margin-right': 0,
                     align: undefined,
                     viewBox: '0 0 24 24',
                     ...svg
@@ -1377,7 +1409,7 @@ module.exports = class AnimationsPlugin {
                             position: (['right', 'left']).includes(this.state.align) ? 'absolute' : 'relative',
                             right: (this.state.align == 'right') ? '12px' : 'none',
                             left: (this.state.align == 'left') ? '12px' : 'none',
-                            'margin-right': '4px'
+                            'margin-right': this.state['margin-right'] ?? 0
                         }
                     },
                     this.state.paths.map(path => {
@@ -1438,7 +1470,7 @@ module.exports = class AnimationsPlugin {
                     }
                 },
                     [
-                        Array.isArray(button.svgs) ? button.svgs.map((svgTemp) => React.createElement(Svg, svgTemp)) : null,
+                        Array.isArray(button.svgs) ? button.svgs.map((svgTemp) => React.createElement(Svg, { ...svgTemp, 'margin-right': this.state.label ? '4px' : 0 })) : null,
                         React.createElement('span', {
                             style: {
                                 'max-width': 'none'
@@ -1538,7 +1570,7 @@ module.exports = class AnimationsPlugin {
          */
 
         /**
-         * @typedef {ElementsPanelOptions} 
+         * @typedef {ElementsPanelOptions}
          * @property {string} [widthAll] The width of each button, if the template does not specify a different width.
          * @property {string} [heightAll] The height of each button, if the template does not specify a different height.
          * @property {string} [align="flex-start"] `justify-content` css value for each button container.
@@ -2554,7 +2586,7 @@ module.exports = class AnimationsPlugin {
         }
 
         setTimeout(() => {
-            let mymodal = [...(document.getElementsByClassName('bd-addon-modal') ?? [])].find(modal => { let h4 = modal.querySelector('h4'); if (h4) return h4.innerText.toLowerCase() == 'animations settings' })
+            let mymodal = document.getElementById(config.info.name + ' ' + 'settings')
             if (!mymodal) return;
 
             mymodal.querySelectorAll('svg[id*=help-timing-]').forEach(
@@ -3681,12 +3713,19 @@ module.exports = class AnimationsPlugin {
             ).render
         ]
 
-        return settings_panel
+        return React.createElement(
+            'div',
+            {
+                id: config.info.name + ' ' + 'settings'
+            },
+            settings_panel
+        )
     }
 
     start() {
 
         if (Object.keys(WarnModules).length) Logger.warning("ModuleFinder", WarnModules)
+        this.settings = Utilities.mergeDeep(Object.assign({}, this.defaultSettings), this.settings)
 
         let Textcolors = {
             red: '#ed4245',
@@ -3754,7 +3793,6 @@ module.exports = class AnimationsPlugin {
                 color: var(--header-primary);
                 transition: 0.2s;
                 text-align: center;
-                font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
                 font-size: 14px;
             }
 
@@ -3766,7 +3804,7 @@ module.exports = class AnimationsPlugin {
                 box-shadow: inset 0 0 0 1px var(--brand-experiment);
             }
             .animTab.selected {
-                color: white;
+                color: var(--white-500);
                 background-color: var(--brand-experiment);
             }
 
@@ -3796,7 +3834,7 @@ module.exports = class AnimationsPlugin {
             .animPreviewsContainer, .animPreviewsPanel .animTextareasPanel {
                 display: flex;
                 flex-wrap: wrap;
-                justify-content: space-evenly; 
+                justify-content: space-evenly;
                 align-content: space-evenly;
                 height: 0;
                 margin: 0;
@@ -4161,6 +4199,10 @@ module.exports = class AnimationsPlugin {
                 opacity: 66.66%;
                 cursor: not-allowed;
             }
+
+            svg[id*=help-timing-] {
+                cursor: pointer;
+            }
             `
 
         BdApi.clearCSS(`${config.info.name}-comp`);
@@ -4208,9 +4250,8 @@ module.exports = class AnimationsPlugin {
             }
         )
 
-        let chatOl = document.querySelector("div[class*=sidebar] + div[class*=chat] > div[class*=content] main div[class*=rapper] ol");
-        chatOl = document.querySelector("div#app-mount");
-        if(chatOl) this.MessagesObserver.observe(chatOl, { "childList": true, subtree: true }); else Logger.warning("MessagesObserver", "Element not found.");
+        let appmount = document.querySelector("div#app-mount");
+        if(appmount) this.MessagesObserver.observe(appmount, { "childList": true, subtree: true }); else Logger.warning("MessagesObserver", "Element not found.");
         let bdThemes = document.getElementsByTagName("bd-themes")[0];
         if(bdThemes) this.ThemesObserver.observe(bdThemes, { "childList": true }); else Logger.warning("ThemesSwitchesObserver", "Element not found.");
 

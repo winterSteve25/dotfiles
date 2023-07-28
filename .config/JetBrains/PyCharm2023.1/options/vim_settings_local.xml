@@ -1,0 +1,19 @@
+<application>
+  <component name="VimJumpsSettings">
+    <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/pythonProject/main.py" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/PycharmProjects/pythonProject/main.py" timestamp="1689819600290">
+        <mark key="&quot;" line="5" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

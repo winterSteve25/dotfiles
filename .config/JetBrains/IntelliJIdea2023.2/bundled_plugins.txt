@@ -1,0 +1,168 @@
+AntSupport|Build Tools
+
+ByteCodeViewer|Other Tools
+
+Coverage|Code Coverage
+
+Git4Idea|Version Controls
+
+JUnit|Test Tools
+
+JavaScript|JavaScript Frameworks and Tools
+
+Remote Development Server|null
+
+com.intellij.CloudConfig|IDE Settings
+
+com.intellij.LineProfiler|null
+
+com.intellij.analysis.pwa.java|null
+
+com.intellij.analysis.pwa|null
+
+com.intellij.completion.ml.ranking|Other Tools
+
+com.intellij.configurationScript|null
+
+com.intellij.copyright|Other Tools
+
+com.intellij.css|Style Sheets
+
+com.intellij.cvp|Other Tools
+
+com.intellij.dev|null
+
+com.intellij.diagram|Other Tools
+
+com.intellij.dsm|Other Tools
+
+com.intellij.gradle|Build Tools
+
+com.intellij.java-i18n|Other Tools
+
+com.intellij.java.ide|null
+
+com.intellij.java|null
+
+com.intellij.jsonpath|JavaScript Frameworks and Tools
+
+com.intellij.platform.images|null
+
+com.intellij.properties|Languages
+
+com.intellij.searcheverywhere.ml.microservices|null
+
+com.intellij.searcheverywhere.ml|null
+
+com.intellij.settingsSync|IDE Settings
+
+com.intellij.tasks.timeTracking|Other Tools
+
+com.intellij.tasks|Other Tools
+
+com.intellij.tracing.ide|null
+
+com.intellij|null
+
+com.jetbrains.codeWithMe|null
+
+com.jetbrains.performancePlugin.async|Other Tools
+
+com.jetbrains.performancePlugin.dynamicPlugins|null
+
+com.jetbrains.performancePlugin|Other Tools
+
+com.jetbrains.projector.libs|null
+
+com.jetbrains.restClient|Microservices
+
+com.jetbrains.sh|Languages
+
+com.jetbrains.space|null
+
+com.jetbrains.warmup.performanceTesting|null
+
+gherkin|Languages
+
+intellij.caches.shared|null
+
+intellij.charts|null
+
+intellij.grid.core.impl|null
+
+intellij.grid.impl|null
+
+intellij.indexing.shared.core|null
+
+intellij.indexing.shared|null
+
+intellij.recommenders|Other Tools
+
+intellij.vitejs|JavaScript Frameworks and Tools
+
+intellij.webp|null
+
+org.editorconfig.editorconfigjetbrains|Other Tools
+
+org.intellij.groovy|Languages
+
+org.intellij.intelliLang|Other Tools
+
+org.intellij.plugins.markdown|Languages
+
+org.intellij.qodana|null
+
+org.jetbrains.android|Android
+
+org.jetbrains.debugger.streams|Other Tools
+
+org.jetbrains.idea.eclipse|Other Tools
+
+org.jetbrains.idea.gradle.dsl|null
+
+org.jetbrains.idea.gradle.ext|Build Tools
+
+org.jetbrains.idea.maven.ext|Build Tools
+
+org.jetbrains.idea.maven.model|null
+
+org.jetbrains.idea.maven.server.api|null
+
+org.jetbrains.idea.maven|Build Tools
+
+org.jetbrains.idea.reposearch|null
+
+org.jetbrains.java.decompiler|Other Tools
+
+org.jetbrains.kotlin|Languages
+
+org.jetbrains.plugins.emojipicker|Other Tools
+
+org.jetbrains.plugins.github|Version Controls
+
+org.jetbrains.plugins.gitlab|Version Controls
+
+org.jetbrains.plugins.gradle.analysis|null
+
+org.jetbrains.plugins.gradle.dependency.updater|null
+
+org.jetbrains.plugins.gradle.maven|Build Tools
+
+org.jetbrains.plugins.gradle|null
+
+org.jetbrains.plugins.sass|Style Sheets
+
+org.jetbrains.plugins.terminal|Other Tools
+
+org.jetbrains.plugins.textmate|Other Tools
+
+org.jetbrains.plugins.yaml|Languages
+
+org.jetbrains.security.package-checker|null
+
+org.toml.lang|Languages
+
+tanvd.grazi|null
+
+training|null
+

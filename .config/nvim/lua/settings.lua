@@ -57,4 +57,8 @@ vim.o.foldenable = true
 -- vim.g.loaded_netrwPlugin = 1
 
 -- Font for neovide
-vim.o.guifont = "SFMono Nerd Font Mono:h14"
+vim.o.guifont = "SFMono Nerd Font Mono:h15"
+
+-- Set leader key to space
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "

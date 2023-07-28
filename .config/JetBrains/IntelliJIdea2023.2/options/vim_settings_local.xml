@@ -1,0 +1,300 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Y2F2ZQ==</entry>
+        <entry encoding="base64">bGlicm9ja3NkYg==</entry>
+        <entry encoding="base64">c3RhdGU=</entry>
+        <entry encoding="base64">Y29uc3RhbnQ=</entry>
+        <entry encoding="base64">Y2FydmVy</entry>
+        <entry encoding="base64">bHVzaA==</entry>
+        <entry encoding="base64">Y2FwYWJpbGl0eQ==</entry>
+        <entry encoding="base64">Y2FwYQ==</entry>
+        <entry encoding="base64">YmxvY2s=</entry>
+        <entry encoding="base64">QkVEUk9DSw==</entry>
+        <entry encoding="base64">UmVnaXN0ZXJSZW5kZXJlcnM=</entry>
+        <entry encoding="base64">ZmlsbA==</entry>
+        <entry encoding="base64">Y2xlYXI=</entry>
+        <entry encoding="base64">cGxhbms=</entry>
+        <entry encoding="base64">d29vZA==</entry>
+        <entry encoding="base64">Ymx1ZXByaW50</entry>
+        <entry encoding="base64">cGFydHlsaWI=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">MA==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">Nw==</entry>
+        <entry encoding="base64">V3E=</entry>
+        <entry encoding="base64">dy4=</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">cQ==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="30" column="22" filename="$USER_HOME$/Dev/oniutils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/block/AbstractBannerBlock.java" />
+    <jump line="31" column="26" filename="$USER_HOME$/Dev/oniutils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/block/AbstractBannerBlock.java" />
+    <jump line="88" column="32" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="48" column="64" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="80" column="12" filename="$USER_HOME$/Dev/oniutils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/block/entity/BlockEntityType.java" />
+    <jump line="81" column="27" filename="$USER_HOME$/Dev/oniutils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/block/entity/BlockEntityType.java" />
+    <jump line="96" column="8" filename="$USER_HOME$/Dev/oniutils/build/fg_cache/net/minecraftforge/forge/1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2/forge-1.18.2-40.2.0_mapped_parchment_2022.11.06-1.18.2-sources.jar!/net/minecraft/world/level/block/entity/BlockEntityType.java" />
+    <jump line="43" column="54" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="57" column="18" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="65" column="53" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderTE.java" />
+    <jump line="42" column="112" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderTE.java" />
+    <jump line="56" column="12" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/items/gadgets/blueprint/ONIBlueprintItem.java" />
+    <jump line="15" column="13" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="35" column="0" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="63" column="129" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="71" column="39" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="68" column="26" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" />
+    <jump line="37" column="138" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="43" column="27" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="36" column="133" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="27" column="78" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/ONIBaseMachine.java" />
+    <jump line="148" column="36" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/ONIBaseMachine.java" />
+    <jump line="7" column="17" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/bounding/ONIIBoundingBlock.java" />
+    <jump line="65" column="92" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/blocks/power/coal/CoalGenTE.java" />
+    <jump line="227" column="32" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/blocks/power/coal/CoalGenTE.java" />
+    <jump line="226" column="37" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/blocks/power/coal/CoalGenTE.java" />
+    <jump line="198" column="18" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/blocks/power/coal/CoalGenTE.java" />
+    <jump line="113" column="39" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/ONIBaseBlock.java" />
+    <jump line="38" column="7" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="29" column="7" filename="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" />
+    <jump line="6" column="16" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="23" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="26" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="1" column="29" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="4" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="16" column="11" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/src/main/kotlin/Main.kt" />
+    <jump line="2" column="0" filename="$USER_HOME$/Dev/partylab/src/main/kotlin/Main.kt" />
+    <jump line="9" column="17" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="24" column="12" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="21" column="19" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="8" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle.kts" />
+    <jump line="1" column="26" filename="$USER_HOME$/Dev/partylab/src/main/kotlin/Main.kt" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/partylab/src/main/kotlin/Main.kt" />
+    <jump line="18" column="0" filename="$USER_HOME$/Dev/partylab/.editorconfig" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/.editorconfig" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/EntryPoint.kt" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/README.md" />
+    <jump line="44" column="24" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="45" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="18" column="18" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="17" column="2" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="43" column="0" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="8" column="71" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="12" column="42" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="25" column="27" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="22" column="13" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="23" column="13" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="24" column="12" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="26" column="2" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="31" column="19" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/core/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/server/build.gradle" />
+    <jump line="6" column="13" filename="$USER_HOME$/Dev/partylab/server/build.gradle" />
+    <jump line="7" column="0" filename="$USER_HOME$/Dev/partylab/server/build.gradle" />
+    <jump line="39" column="27" filename="$USER_HOME$/Dev/partylab/build.gradle" />
+    <jump line="33" column="0" filename="$USER_HOME$/Dev/partylab/server/build.gradle" />
+    <jump line="20" column="15" filename="$USER_HOME$/Dev/partylab/lwjgl3/build.gradle" />
+    <jump line="4" column="0" filename="$USER_HOME$/Dev/partylab/server/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/partylab/core/build.gradle" />
+    <jump line="7" column="43" filename="$USER_HOME$/Dev/partylab/core/build.gradle" />
+    <jump line="20" column="0" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="15" column="18" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="21" column="0" filename="$USER_HOME$/Dev/partylab/lwjgl3/build.gradle" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="4" column="7" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="7" column="0" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="15" column="66" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="34" column="6" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="2" column="47" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="66" column="12" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="45" column="62" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="24" column="0" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="20" column="18" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="13" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.2/aff949f8180d6d1e26a47c7a2bca8163f5b987fe/lwjgl-3.3.2-sources.jar!/org/lwjgl/system/macosx/LibC.java" />
+    <jump line="18" column="33" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" />
+    <jump line="11" column="27" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="12" column="11" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="14" column="28" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="13" column="27" filename="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" />
+    <jump line="13" column="6" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="17" column="27" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="25" column="0" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="29" column="12" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="28" column="10" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+    <jump line="3" column="46" filename="$USER_HOME$/Dev/partylab/core/build.gradle" />
+    <jump line="34" column="8" filename="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Dev/partylab/server/build.gradle" timestamp="1690421189199">
+        <mark key="&quot;" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.libktx/ktx-app/1.12.0-rc1/652cd4d67b56755823050b56a92701414401094e/ktx-app-1.12.0-rc1-sources.jar!/ktx/app/game.kt" timestamp="1690421230692">
+        <mark key="&quot;" line="24" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/gradle.properties" timestamp="1690140019578">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/EntryPoint.kt" timestamp="1690420898302">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/README.md" timestamp="1690421123331">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/core/src/main/kotlin/com/github/wintersteve25/partylab/PartyLab.kt" timestamp="1690421439538">
+        <mark key="&quot;" line="34" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/build.gradle.kts" timestamp="1690140678960">
+        <mark key="&quot;" line="10" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/lwjgl3/build.gradle" timestamp="1690421332181">
+        <mark key="&quot;" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/src/main/kotlin/Main.kt" timestamp="1690140837884">
+        <mark key="&quot;" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/core/build.gradle" timestamp="1690506958262">
+        <mark key="&quot;" line="3" column="46" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.2/aff949f8180d6d1e26a47c7a2bca8163f5b987fe/lwjgl-3.3.2-sources.jar!/org/lwjgl/system/macosx/LibC.java" timestamp="1690421406718">
+        <mark key="&quot;" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/ONIBaseMachine.java" timestamp="1690139539050">
+        <mark key="&quot;" line="148" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/ONIBaseBlock.java" timestamp="1690139538485">
+        <mark key="&quot;" line="113" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/modules/blocks/power/coal/CoalGenTE.java" timestamp="1690139536567">
+        <mark key="&quot;" line="197" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/StartupHelper.kt" timestamp="1690421408347">
+        <mark key="&quot;" line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBlock.java" timestamp="1690139537818">
+        <mark key="&quot;" line="68" column="26" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/oniutils/src/main/java/com/github/wintersteve25/oniutils/common/contents/base/blocks/placeholder/ONIPlaceHolderBER.java" timestamp="1690139543091">
+        <mark key="&quot;" line="29" column="7" />
+        <mark key="[" line="36" column="130" />
+        <mark key="]" line="36" column="134" />
+        <mark key="." line="36" column="133" />
+        <mark key="^" line="36" column="134" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/lwjgl3/src/main/kotlin/com/github/wintersteve25/partylab/lwjgl3/Lwjgl3Launcher.kt" timestamp="1690421415083">
+        <mark key="&quot;" line="13" column="27" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/build.gradle" timestamp="1690421190115">
+        <mark key="&quot;" line="39" column="27" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="71" />
+        <mark key="^" line="12" column="72" />
+      </file>
+      <file name="$USER_HOME$/Dev/partylab/.editorconfig" timestamp="1690420858236">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZHIK</text>
+      </register>
+      <register name="*" type="4">
+        <text encoding="base64">Tm9uZQ==</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZHIK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cGFydHlsYWI=</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">aXQuZHI=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">cGFydHlsaWI=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZWNpcGUgPSBCbHVlcHJpbnRSZWNpcGUuZ2V0UmVjaXBlV2l0aElkKGxldmVsLCBuZXcgUmVzb3VyY2VMb2NhdGlvbih0YWcuZ2V0U3RyaW5nKCJyZWNpcGUiKSkpLm9yRWxzZVRocm93KCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZHIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRXaW5kb3dlZE1vZGUoNjQwLCA0ODApCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZWNsaXBzZS5wcm9qZWN0Lm5hbWUgPSBhcHBOYW1lICsgJy1sd2pnbDMnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWNsaXBzZS5wcm9qZWN0Lm5hbWUgPSBhcHBOYW1lICsgJy1zZXJ2ZXInCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWNsaXBzZS5wcm9qZWN0Lm5hbWUgPSBhcHBOYW1lICsgJy1jb3JlJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZWNsaXBzZS5wcm9qZWN0Lm5hbWUgPSAncGFydHlsYWInICsgJy1wYXJlbnQnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhcHBseSBwbHVnaW46ICdlY2xpcHNlJwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">cQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">cGFydHlsaWI=</last-search>
+      <last-pattern encoding="base64">cGFydHlsaWI=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

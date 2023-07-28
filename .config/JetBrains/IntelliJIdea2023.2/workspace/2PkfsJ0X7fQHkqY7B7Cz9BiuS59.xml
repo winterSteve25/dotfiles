@@ -1,0 +1,285 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Forge-1.19" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Gradle">
+      <summary usageCount="4" lastUsed="1684081185682" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="6" lastUsed="1684080489304" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1684006206047" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1684084755160" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/tau/components/WidgetWrapper.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/github/wintersteve25/tau/theme/MinecraftTheme.java" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/.github/workflows/release.yml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="4" lastUsage="1684081185682" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="6" lastUsage="1684080489304" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1684006206047" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1684084755160" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/.github}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/.github}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/.github/workflows}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github/wintersteve25}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Forge-1.19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github/wintersteve25}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/cadenz/Dev/Tau/Forge-1.19/src/main/java/com/github/wintersteve25/tau}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <option name="allConfigurationsExpanded" value="true" />
+    <history>
+      <element setting="Gradle.Forge-1.19 [runClient]" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16376582" />
+      <window_info id="Commit" order="1" weight="0.16376582" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.43306693" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.43306693" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" show_stripe_button="false" weight="0.21180555" />
+      <window_info anchor="bottom" id="Dependencies" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.21180555" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.17431435" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.43306693" left="0.16376582" right="0.17431435" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16376582" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3298611" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3298611" />
+      <window_info anchor="bottom" id="Dependencies" order="7" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.17431435" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="CodeTogether" order="5" show_stripe_button="false" />
+      <unified_weights bottom="0.3298611" left="0.16376582" right="0.17431435" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="839" height="380" key="GridCell.Tab.0.bottom" timestamp="1684674072155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="380" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684674072155" />
+    <state width="839" height="380" key="GridCell.Tab.0.center" timestamp="1684674072155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="380" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684674072155" />
+    <state width="839" height="380" key="GridCell.Tab.0.left" timestamp="1684674072155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="380" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684674072155" />
+    <state width="839" height="380" key="GridCell.Tab.0.right" timestamp="1684674072155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="839" height="380" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684674072155" />
+    <state width="1794" height="160" key="GridCell.Tab.1.bottom" timestamp="1684081150007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="160" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684081150007" />
+    <state width="1794" height="160" key="GridCell.Tab.1.center" timestamp="1684081150007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="160" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684081150007" />
+    <state width="1794" height="160" key="GridCell.Tab.1.left" timestamp="1684081150007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="160" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684081150007" />
+    <state width="1794" height="160" key="GridCell.Tab.1.right" timestamp="1684081150007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="160" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684081150007" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/tmp/expandedArchives/forge-1.19.4-45.0.59-inject_src.jar_91dff503ab36aea7c335c3af3ab2e404/mcp/client/Start.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.4-45.0.59_mapped_parchment_2023.03.12-1.19.3/forge-1.19.4-45.0.59_mapped_parchment_2023.03.12-1.19.3-sources.jar!/net/minecraft/client/gui/components/AbstractWidget.java" preview="true" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/tau/components/WidgetWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/wintersteve25/tau/theme/MinecraftTheme.java" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="51" column="116" selection-start-line="51" selection-start-column="116" selection-end-line="51" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/release.yml" preview="true">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

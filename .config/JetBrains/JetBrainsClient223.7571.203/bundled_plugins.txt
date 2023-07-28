@@ -1,0 +1,8 @@
+com.intellij.dev|null
+
+com.intellij.jetbrains.client.terminal|null
+
+com.intellij|null
+
+org.jetbrains.plugins.terminal|Other Tools
+

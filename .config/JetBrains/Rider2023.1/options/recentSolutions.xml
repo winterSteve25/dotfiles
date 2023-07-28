@@ -16,9 +16,22 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Dev/PartyLab/PartyLab.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PartyLab – Bootstrap.cs" opened="true" projectWorkspaceId="2S6zahzdGr25CzV2UeomSRRWwmX">
+              <option name="activationTimestamp" value="1688482094598" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-231.9011.39" />
+              <option name="buildTimestamp" value="1684318897561" />
+              <frame x="79" y="8" width="1833" height="1064" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1688481885289" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/visualizer/visualizer.csproj" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/PartyLab/PartyLab.sln" />
     <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
   </component>
 </application>

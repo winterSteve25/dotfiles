@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "JBC-223.7571.203-53dae7366022f8a4662c7351fe229c66ad560a9e65a2a2dcfbe987a09fcb9467",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "JBC-223.7571.203",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "local.user.name": "cadenz",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "JBC-223.7571.203",
+    "thinClient.ws": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector"
+    ]
+  }
+}]]></component>
+</application>

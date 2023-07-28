@@ -19,7 +19,7 @@
     "RunOnceActivity.se.text.search": "true",
     "SettingsSearchHistory": "inlay hints\ninlay\nexplorer",
     "Tutorials.In.Recent.Projects.Disabled": "true",
-    "appcds.runOnSecondStart": "RD-231.9011.39-38eeb38919a4cba96ae289f0bc4b8a43445a7d76a13672e82b277b8751a4161b",
+    "appcds.runOnSecondStart": "RD-231.9011.39-6074bdc7f188bbda80194d59a7022a7ce1ba1cd2efd191390ff25783ff397919",
     "bundled.plugins.list.saved.version": "RD-231.9011.39",
     "debugger.immediate.window.in.watches.proportion.key": "0.81674206",
     "debugger.smart.chooser.counter": "3",
@@ -32,7 +32,7 @@
     "fontSizeToResetConsole": "15.0",
     "fontSizeToResetEditor": "15.0",
     "ide.widget.toolbar.first.inclusion": "2",
-    "ideavim.statistics.timestamp": "1687631144617",
+    "ideavim.statistics.timestamp": "1688481888978",
     "ignoreUltimateEdition": "true",
     "immediate.window.eval.count.until.watch.got.it.hidden": "10",
     "input.method.disabler.muted": "true",
@@ -48,7 +48,8 @@
     "tasks.pass.word.conversion.enforced": "true",
     "terminalCustomCommandExecutionTurnOff": "false",
     "toolwindow.stripes.buttons.info.shown": "true",
-    "ts.lib.d.ts.version": "4.8.4"
+    "ts.lib.d.ts.version": "4.8.4",
+    "unity.user.content.model.migrated--650a3565": "/home/cadenz/Dev/PartyLab/.idea/.idea.PartyLab/.idea"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [

@@ -1,0 +1,202 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="7" l="1690563265729" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1690411403631" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1690411187442" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1690412296979" />
+    </e>
+    <e n="ActivateVcpkgToolWindow">
+      <i c="3" l="1690553258796" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="6" l="1690557609413" />
+    </e>
+    <e n="CMake.OpenSettings">
+      <i c="4" l="1690563251219" />
+    </e>
+    <e n="CMake.ReloadCMakeProject">
+      <i c="7" l="1690563297025" />
+    </e>
+    <e n="CloseProject">
+      <i c="6" l="1690564191103" />
+    </e>
+    <e n="Debug">
+      <i c="3" l="1690411453449" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="67" l="1690563256236" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1690412290560" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1690411644593" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1690412175260" />
+    </e>
+    <e n="EditorEnter">
+      <i c="31" l="1690557722134" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="5" l="1690553195510" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1690553197636" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1690411646142" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1690553196966" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1690553142799" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="4" l="1690563187673" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1690557603738" />
+    </e>
+    <e n="ExternalSystem.HideProjectRefreshAction">
+      <i c="2" l="1690412275995" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="4" l="1690563203638" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1690410863600" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1690410779399" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1690411330368" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1690411329989" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1690412283575" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1690557689568" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="1" l="1690412025301" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="7" l="1690563236175" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1690563300890" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1690563202004" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1690411997611" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1690556483484" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="5" l="1690411312417" />
+    </e>
+    <e n="WelcomeScreen.OpenSelected">
+      <i c="1" l="1690564192271" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="4" l="1690553637881" />
+    </e>
+    <e n="WelcomeScreen.RevealIn">
+      <i c="4" l="1690553632141" />
+    </e>
+    <e n="com.intellij.execution.actions.ExecutionTargetComboBoxAction$SelectTargetAction">
+      <i c="2" l="1690411652501" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1690411304330" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="120" l="1690563201148" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="4" l="1690553272217" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="8" l="1690564188406" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1690410837358" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1690563266019" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1690411497820" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="27" l="1690563287885" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="12" l="1690564189296" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="5" l="1690556471132" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1690410809239" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="6" l="1690563205498" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="3" l="1690563224109" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1690411255346" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1690411312898" />
+    </e>
+    <e n="com.jetbrains.cidr.cpp.cmake.actions.OpenCMakeSettingsAction">
+      <i c="3" l="1690411465210" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.manager.toolwindow.components.PackageManagerContents$1">
+      <i c="2" l="1690411672188" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.manager.toolwindow.components.PackageManagerContents$removeAction$1">
+      <i c="1" l="1690553439910" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.vcpkg.action.InsertToVcpkgJsonAction">
+      <i c="2" l="1690412239059" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.vcpkg.components.VCPKGPackageManagerContent$getPackageManagerActionsComponent$updateAllAction$1">
+      <i c="1" l="1690412271543" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.vcpkg.type.VcpkgPackageManagerTypeActionsCreator$getMainPanelActions$1">
+      <i c="2" l="1690553262415" />
+    </e>
+    <e n="com.jetbrains.cidr.packagemanager.packagemanager.vcpkg.windows.CMakeHintsView$CMakeHintsViewAction">
+      <i c="3" l="1690412172969" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="2" l="1690412296715" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="4" l="1690563201984" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="2" l="1690411252160" />
+    </e>
+  </component>
+</application>

@@ -62,7 +62,9 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "weight": 0.06901255
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14702673
         },
         {
           "id": "Commit",
@@ -165,6 +167,12 @@
           "weight": 0.40272558
         },
         {
+          "id": "Unity",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Unit Tests Coverage",
           "anchor": "RIGHT",
           "isShowStripeButton": false
@@ -232,7 +240,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.06901255,
+        "left": 0.14702673,
         "bottom": 0.40272558,
         "right": 0.32963765
       }

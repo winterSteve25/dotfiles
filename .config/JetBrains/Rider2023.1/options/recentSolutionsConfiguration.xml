@@ -10,6 +10,14 @@
             </ConfigurationInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Dev/PartyLab/PartyLab.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Dev/party-builder/PartyBuilder.csproj">
           <value>
             <ConfigurationInfo />

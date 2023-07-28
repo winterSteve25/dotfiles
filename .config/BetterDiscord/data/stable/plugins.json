@@ -6,5 +6,8 @@
     "FreeEmojis": true,
     "PluginRepo": true,
     "ReadAllNotificationsButton": true,
-    "ThemeRepo": true
+    "ThemeRepo": true,
+    "NoReplyPing": false,
+    "PreviewMessage": false,
+    "Uncompressed Images": false
 }

@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="accesstransformer.cfg" type="Access Transformers" />
+      <mapping pattern="*.png.mcmeta" type="JSON" />
+      <mapping pattern="pack.mcmeta" type="JSON" />
+      <mapping pattern="mcmod.info" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="dialog" type="PLAIN_TEXT" />
+      <mapping ext="dialogue" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="lang" approved="true" type="MCLang" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

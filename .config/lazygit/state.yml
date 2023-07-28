@@ -1,7 +1,8 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/cadenz/.dotfiles
+- /home/cadenz/Dev/oniutils
 - /home/cadenz/Dev/echo-v3
+- /home/cadenz/.dotfiles
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false

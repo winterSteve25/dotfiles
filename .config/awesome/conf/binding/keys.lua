@@ -7,7 +7,7 @@ local modkey = constants.modkey
 
 local globalkeys = gears.table.join(
 	-- Show Rofi
-	awful.key({modkey}, "space", function ()
+	awful.key({modkey}, "Return", function ()
 		awful.spawn.with_shell(beautiful.get().rofi_cmd)
 	end, {description="Show Rofi", group="Utilities"}),
 

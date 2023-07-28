@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key=" /home/cadenz/Dev/graphthing" value="true" />
+        <entry key=" /home/cadenz/Dev/lolipop" value="true" />
+        <entry key="$USER_HOME$/Dev/stalactite" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

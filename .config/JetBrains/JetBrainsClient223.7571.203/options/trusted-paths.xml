@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.dotfiles/.config/JetBrains/JetBrainsClient223.7571.203/thinProject" value="true" />
+        <entry key="$USER_HOME$/.dotfiles/.config/JetBrains/JetBrainsClient223.7571.203/thinProject1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

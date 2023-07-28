@@ -1,0 +1,287 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">aW5mb2dyYXBoaWM=</entry>
+        <entry encoding="base64">aWZyYW1l</entry>
+        <entry encoding="base64">YXVkaWVuY2U=</entry>
+        <entry encoding="base64">bW9kdWxlLWNvbnRlbnQ=</entry>
+        <entry encoding="base64">dmlkZW8=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">Onc=</entry>
+        <entry encoding="base64">Inc=</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">cg==</entry>
+        <entry encoding="base64">d3c=</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">ZXc=</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="34" column="19" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" />
+    <jump line="7" column="17" filename="$USER_HOME$/Dev/echo-v3/src/App.svelte" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/projects/ProjectsList.svelte" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/projects/ProjectCard.svelte" />
+    <jump line="25" column="22" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="23" column="25" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="32" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="24" column="31" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="9" column="32" filename="$USER_HOME$/Dev/echo-v3/src/App.svelte" />
+    <jump line="6" column="12" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="26" column="23" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="16" column="27" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="27" column="39" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="4" column="30" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" />
+    <jump line="6" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/echo-v3/package-lock.json" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/echo-v3/index.html" />
+    <jump line="1" column="4" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" />
+    <jump line="13" column="19" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="15" column="34" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="17" column="42" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="18" column="29" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="12" column="6" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" />
+    <jump line="28" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="23" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="14" column="19" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="4" column="51" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="1673" column="11" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="27747" column="33" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="41" column="21" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="13402" column="15" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="57" column="10" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="54" column="23" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="65" column="32" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="43" column="53" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="55" column="32" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="52" column="14" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="6" column="80" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="51" column="12" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="49" column="44" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="1679" column="20" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="27782" column="35" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="27780" column="43" filename="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" />
+    <jump line="50" column="21" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="48" column="21" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="66" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="59" column="47" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="46" column="72" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="39" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="33" column="13" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="31" column="31" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="30" column="21" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="22" column="5" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="0" column="4" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="10" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="4" column="0" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="1" column="7" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="3" column="7" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="2" column="7" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="5" column="10" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="14" column="8" filename="$USER_HOME$/Dev/echo-v3/src/App.svelte" />
+    <jump line="16" column="0" filename="$USER_HOME$/Dev/echo-v3/src/App.svelte" />
+    <jump line="30" column="9" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="27" column="15" filename="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" />
+    <jump line="0" column="16" filename="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" />
+    <jump line="1" column="3" filename="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" />
+    <jump line="6" column="6" filename="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" />
+    <jump line="4" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" />
+    <jump line="56" column="10" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="46" column="40" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="8" column="8" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="28" column="4" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="41" column="50" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="5" column="3" filename="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" />
+    <jump line="50" column="68" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="64" column="13" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="43" column="21" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="57" column="27" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="44" column="23" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="45" column="27" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="168" column="4" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="53" column="31" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="9" column="11" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="32" column="33" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="61" column="64" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="71" column="10" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="70" column="19" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="63" column="105" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="59" column="83" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="65" column="33" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="52" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="49" column="100" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="25" column="34" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="24" column="44" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="38" column="17" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="51" column="74" filename="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" />
+    <jump line="45" column="26" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+    <jump line="53" column="34" filename="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/ProjectDetails.svelte" timestamp="1690131806578">
+        <mark key="&quot;" line="27" column="15" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/soundcues/SoundCuesTab.svelte" timestamp="1687905750527">
+        <mark key="&quot;" line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/App.svelte" timestamp="1689433044688">
+        <mark key="&quot;" line="12" column="0" />
+        <mark key="'" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/projects/ProjectCard.svelte" timestamp="1687905728690">
+        <mark key="&quot;" line="6" column="35" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/ts/models.ts" timestamp="1688248420156">
+        <mark key="&quot;" line="56" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1688251765321">
+        <mark key="&quot;" line="27782" column="38" />
+        <mark key="'" line="1679" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/index.html" timestamp="1687906564453">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/projects/ProjectsList.svelte" timestamp="1687905724501">
+        <mark key="&quot;" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/app.scss" timestamp="1687905693183">
+        <mark key="&quot;" line="20" column="18" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/homepage/HomeNav.svelte" timestamp="1688248313937">
+        <mark key="&quot;" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/node_modules/svelte-spa-router/Router.d.ts" timestamp="1687905859840">
+        <mark key="&quot;" line="188" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/README.md" timestamp="1687906550635">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1688242661112">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/package.json" timestamp="1687906541467">
+        <mark key="&quot;" line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/public/PurpleWaves.svg" timestamp="1687903983763">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/timeline/TimelineTab.svelte" timestamp="1690132132121">
+        <mark key="&quot;" line="5" column="3" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/homepage/Home.svelte" timestamp="1690132319760">
+        <mark key="&quot;" line="51" column="72" />
+        <mark key="'" line="63" column="68" />
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="34" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="65" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/src/lib/ts/api.ts" timestamp="1690132130380">
+        <mark key="&quot;" line="81" column="69" />
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="81" column="69" />
+        <mark key="]" line="81" column="70" />
+        <mark key="." line="81" column="69" />
+        <mark key="^" line="81" column="70" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/node_modules/svelte/types/runtime/transition/index.d.ts" timestamp="1687906342387">
+        <mark key="&quot;" line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dev/echo-v3/package-lock.json" timestamp="1687906547548">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGV4dA==</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tZm9yZWdyb3VuZC1jb2xvcik7Cg==</text>
+      </register>
+      <register name="+" type="4">
+        <text encoding="base64">dGV4dA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dGV4dA==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Ow==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">dmlkZW8=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">OiB7CiAgICAgICAgICAgICAgICAnQWNjZXB0JzogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICJhcHBsaWNhdGlvbi9qc29uIgogICAgICAgICAgICB9LA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IEF3YWl0QmxvY2sgZnJvbSAic3ZlbHRlL3R5cGVzL2NvbXBpbGVyL2NvbXBpbGUvbm9kZXMvQXdhaXRCbG9jayI7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRlbnQtVHlwZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAwCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGltZyB0cmFuc2l0aW9uOmZhZGUgaWQ9ImJnIiBzcmM9Ii93YXZlcy5zdmciIGFsdD0id2F2ZSI+CiAgICAgICAgPGRpdiBpZD0ibGFuZGluZyIgaW46ZmFkZSBvdXQ6Zmx5PXt7IHg6IDIwMCB9fT4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPgogICAgICAgICAgICAgICAgPGgyPk1hc3RlciBTdGFnZTxicj5Tb3VuZHMgd2l0aDwvaDI+CiAgICAgICAgICAgICAgICA8aDE+RWFzZTwvaDE+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJjdGEiIG9uOmNsaWNrPXsoKSA9PiBjdXJyUGFnZSA9IFBhZ2UuRmVhdHVyZXN9PkxlYXJuIE1vcmU8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxpbWcgaWQ9ImJnIiBzcmM9Ii93YXZlcy5zdmciIGFsdD0id2F2ZSI+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImxhbmRpbmciIHRyYW5zaXRpb246ZmFkZT4KICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+CiAgICAgICAgICAgIDxoMj5NYXN0ZXIgU3RhZ2U8YnI+U291bmRzIHdpdGg8L2gyPgogICAgICAgICAgICA8aDE+RWFzZTwvaDE+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iY3RhIj5MZWFybiBNb3JlPC9idXR0b24+CiAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">dmlkZW8=</last-search>
+      <last-pattern encoding="base64">dmlkZW8=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

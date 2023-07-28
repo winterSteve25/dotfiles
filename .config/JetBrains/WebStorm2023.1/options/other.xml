@@ -6,8 +6,10 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "ColorChooser.RecentColors": "54-92-72-255,,,98-156-125-255,,,62-139-54-255",
+    "FileTemplates.SelectedTemplate": "HTML File",
     "GeneralSettings.initiallyConfigured": "true",
     "InstalledPluginsSearchHistory": "rus\nrust\nr",
+    "KEYMAP": "close",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "NewWatcherDialog.advanced.open": "true",
@@ -15,7 +17,7 @@
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
     "RunOnceActivity.svelte.init.key": "true",
-    "appcds.runOnSecondStart": "WS-231.9011.35-f72c8ccfa565cd8edb44e8949a471acbfc6ba0e63255bf76327be09ad88121d3",
+    "appcds.runOnSecondStart": "WS-231.9011.35-b4ea5420938627c6065782b6c80a19552fb0cf29dff9662101a9d44137b832d3",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "bundled.plugins.list.saved.version": "WS-231.9011.35",
     "evlsprt3.231": "23",
@@ -29,7 +31,7 @@
     "got.it.tooltip.terminal.smart_command_execution": "1",
     "gotit.previous.run": "WS-231.9011.35",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1687882448398",
+    "ideavim.statistics.timestamp": "1690131643242",
     "input.method.disabler.muted": "true",
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
@@ -55,14 +57,14 @@
 }]]></component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
-    "SpeedSearch": 1686833989208,
+    "SpeedSearch": 1688427859430,
     "CtrlW": 1687882245632,
     "Rename": 1685360300894,
-    "SearchEverywhere": 1686743022153,
+    "SearchEverywhere": 1688242584756,
     "SurroundWith": 1687445968225,
-    "ShowUsages": 1687088815782,
+    "ShowUsages": 1690131557332,
     "SelectIn": 1687262654981,
-    "FindInPath": 1687021622910
+    "FindInPath": 1689428159765
   }
 }]]></component>
 </application>

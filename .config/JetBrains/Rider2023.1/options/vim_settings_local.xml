@@ -19,12 +19,6 @@
     </history>
   </component>
   <component name="VimJumpsSettings">
-    <jump line="36" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
-    <jump line="32" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
-    <jump line="59" column="19" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
-    <jump line="64" column="17" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
-    <jump line="67" column="22" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
-    <jump line="71" column="8" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
     <jump line="11" column="14" filename="$USER_HOME$/Dev/party-builder/Src/UI/Render/UIRenderer.cs" />
     <jump line="34" column="12" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
     <jump line="36" column="10" filename="$USER_HOME$/Dev/party-builder/Src/UI/Game/MainMenu.cs" />
@@ -119,6 +113,12 @@
     <jump line="18" column="0" filename="$USER_HOME$/Dev/visualizer/Program.cs" />
     <jump line="27" column="71" filename="$USER_HOME$/Dev/visualizer/Program.cs" />
     <jump line="24" column="12" filename="$USER_HOME$/Dev/visualizer/Program.cs" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
+    <jump line="5" column="0" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
+    <jump line="2" column="21" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
+    <jump line="6" column="4" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
+    <jump line="7" column="26" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
+    <jump line="3" column="0" filename="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -148,7 +148,7 @@
         <mark key="." line="14" column="97" />
         <mark key="^" line="14" column="98" />
       </file>
-      <file name="/" timestamp="1687631163629">
+      <file name="/" timestamp="1688481930073">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,6 +170,13 @@
         <mark key="]" line="77" column="28" />
         <mark key="^" line="77" column="28" />
         <mark key="." line="77" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/PartyLab/Assets/Scripts/Bootstrap.cs" timestamp="1688482077482">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/NoiseVisualizer/NoiseVisualizer/Scripting.cs" timestamp="1687631539834">
         <mark key="&quot;" line="4" column="3" />
@@ -201,9 +208,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a6fb1724c98442fbbc6b1e563bc80fc514e00/a3/022f9c62/Raylib.cs" timestamp="1687377730731">
         <mark key="&quot;" line="1747" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dev/party-builder/Src/Core/Interfaces/IRenderable.cs" timestamp="1687364035021">
-        <mark key="&quot;" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/NoiseVisualizer/NoiseVisualizer/Lua/temp.lua" timestamp="1687633057423">
         <mark key="&quot;" line="7" column="2" />
@@ -240,19 +244,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KyB5T2Zm</text>
+        <text encoding="base64">U3RlYW13b3Jrcw==</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">KyB5T2Zm</text>
+        <text encoding="base64">U3RlYW13b3Jrcw==</text>
       </register>
       <register name="k" type="4">
         <text encoding="base64" />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyB5T2Zm</text>
+        <text encoding="base64">U3RlYW13b3Jrcw==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64" />
+        <text encoding="base64">c3VzaW5nIFN0ZWFtd29rc3Jrczs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -261,31 +265,31 @@
         <text encoding="base64">ICAgICAgICBSYXlsaWIuU2V0Q29uZmlnRmxhZ3MoQ29uZmlnRmxhZ3MuRkxBR19NU0FBXzRYX0hJTlQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZsb2F0IEdldERlbnNpdHkoaW50IHgsIGludCB5KQogICAgewogICAgICAgIHJldHVybiB5IC8gMjU2ZjsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBDb2xvciBHZXRDb2xvcihpbnQgeCwgaW50IHkpCiAgICB7CiAgICAgICAgdmFyIGRlbnNpdHkgPSBDb252ZXJ0LlRvSW50MzIoR2V0RGVuc2l0eSh4LCB5KSAqIDI1NSk7CiAgICAgICAgcmV0dXJuIG5ldyBDb2xvcihkZW5zaXR5LCBkZW5zaXR5LCBkZW5zaXR5LCAyNTUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIFtSdW50aW1lSW5pdGlhbGl6ZU9uTG9hZE1ldGhvZF0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBCb290c3RyYXAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHZpc3VhbGl6ZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmxvYXQgR2V0RGVuc2l0eShpbnQgeCwgaW50IHkpCnsKICAgIHJldHVybiB5IC8gMjU2ZjsKfQoKQ29sb3IgR2V0Q29sb3IoaW50IHgsIGludCB5KQp7CiAgICB2YXIgZGVuc2l0eSA9IENvbnZlcnQuVG9JbnQzMihHZXREZW5zaXR5KHgsIHkpICogMjU1KTsKICAgIHJldHVybiBuZXcgQ29sb3IoZGVuc2l0eSwgZGVuc2l0eSwgZGVuc2l0eSwgMjU1KTsKfQoKY29uc3QgaW50IHdpZHRoID0gMjU2Owpjb25zdCBpbnQgaGVpZ2h0ID0gMjU2Owpjb25zdCBpbnQgY2VsbFdpZHRoID0gMjsKY29uc3QgaW50IGNlbGxIZWlnaHQgPSAyOwoKbmFtZXNwYWNlIHZpc3VhbGl6ZXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UmF5bGliLlNldENvbmZpZ0ZsYWdzKENvbmZpZ0ZsYWdzLkZMQUdfTVNBQV80WF9ISU5UKTsKUmF5bGliLlNldENvbmZpZ0ZsYWdzKENvbmZpZ0ZsYWdzLkZMQUdfV0lORE9XX1JFU0laQUJMRSk7ClJheWxpYi5Jbml0V2luZG93KDEyNzAsIDcyMCwgIlZpc3VhbGl6ZXIiKTsKCnZhciB4T2ZmID0gKFJheWxpYi5HZXRTY3JlZW5XaWR0aCgpIC0gd2lkdGggKiBjZWxsV2lkdGgpIC8gMjsKdmFyIHlPZmYgPSAoUmF5bGliLkdldFNjcmVlbkhlaWdodCgpIC0gaGVpZ2h0ICogY2VsbEhlaWdodCkgLyAyOwoKd2hpbGUgKCFSYXlsaWIuV2luZG93U2hvdWxkQ2xvc2UoKSkKewogICAgUmF5bGliLkJlZ2luRHJhd2luZygpOwoKICAgIGZvciAodmFyIHggPSAwOyB4IDwgd2lkdGg7IHgrKykKICAgIHsKICAgICAgICBmb3IgKHZhciB5ID0gMDsgeSA8IGhlaWdodDsgeSsrKQogICAgICAgIHsKICAgICAgICAgICAgUmF5bGliLkRyYXdSZWN0YW5nbGUoeCAqIGNlbGxXaWR0aCArIHhPZmYsIHkgKiBjZWxsSGVpZ2h0ICsgeU9mZiwgY2VsbFdpZHRoLCBjZWxsSGVpZ2h0LCBHZXRDb2xvcih4LCB5KSk7CiAgICAgICAgfQogICAgfQoKICAgIFJheWxpYi5FbmREcmF3aW5nKCk7Cn0KClJheWxpYi5DbG9zZVdpbmRvdygpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyIGdyaWQgPSBuZXcgQ29sb3Jbd2lkdGgsIGhlaWdodF07Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgVW5pdHlFbmdpbmUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZsb2F0IEdldERlbnNpdHkoaW50IHgsIGludCB5KQogICAgewogICAgICAgIHJldHVybiB5IC8gMjU2ZjsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBDb2xvciBHZXRDb2xvcihpbnQgeCwgaW50IHkpCiAgICB7CiAgICAgICAgdmFyIGRlbnNpdHkgPSBDb252ZXJ0LlRvSW50MzIoR2V0RGVuc2l0eSh4LCB5KSAqIDI1NSk7CiAgICAgICAgcmV0dXJuIG5ldyBDb2xvcihkZW5zaXR5LCBkZW5zaXR5LCBkZW5zaXR5LCAyNTUpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIHZpc3VhbGl6ZXI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmxvYXQgR2V0RGVuc2l0eShpbnQgeCwgaW50IHkpCnsKICAgIHJldHVybiB5IC8gMjU2ZjsKfQoKQ29sb3IgR2V0Q29sb3IoaW50IHgsIGludCB5KQp7CiAgICB2YXIgZGVuc2l0eSA9IENvbnZlcnQuVG9JbnQzMihHZXREZW5zaXR5KHgsIHkpICogMjU1KTsKICAgIHJldHVybiBuZXcgQ29sb3IoZGVuc2l0eSwgZGVuc2l0eSwgZGVuc2l0eSwgMjU1KTsKfQoKY29uc3QgaW50IHdpZHRoID0gMjU2Owpjb25zdCBpbnQgaGVpZ2h0ID0gMjU2Owpjb25zdCBpbnQgY2VsbFdpZHRoID0gMjsKY29uc3QgaW50IGNlbGxIZWlnaHQgPSAyOwoKbmFtZXNwYWNlIHZpc3VhbGl6ZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UmF5bGliLlNldENvbmZpZ0ZsYWdzKENvbmZpZ0ZsYWdzLkZMQUdfTVNBQV80WF9ISU5UKTsKUmF5bGliLlNldENvbmZpZ0ZsYWdzKENvbmZpZ0ZsYWdzLkZMQUdfV0lORE9XX1JFU0laQUJMRSk7ClJheWxpYi5Jbml0V2luZG93KDEyNzAsIDcyMCwgIlZpc3VhbGl6ZXIiKTsKCnZhciB4T2ZmID0gKFJheWxpYi5HZXRTY3JlZW5XaWR0aCgpIC0gd2lkdGggKiBjZWxsV2lkdGgpIC8gMjsKdmFyIHlPZmYgPSAoUmF5bGliLkdldFNjcmVlbkhlaWdodCgpIC0gaGVpZ2h0ICogY2VsbEhlaWdodCkgLyAyOwoKd2hpbGUgKCFSYXlsaWIuV2luZG93U2hvdWxkQ2xvc2UoKSkKewogICAgUmF5bGliLkJlZ2luRHJhd2luZygpOwoKICAgIGZvciAodmFyIHggPSAwOyB4IDwgd2lkdGg7IHgrKykKICAgIHsKICAgICAgICBmb3IgKHZhciB5ID0gMDsgeSA8IGhlaWdodDsgeSsrKQogICAgICAgIHsKICAgICAgICAgICAgUmF5bGliLkRyYXdSZWN0YW5nbGUoeCAqIGNlbGxXaWR0aCArIHhPZmYsIHkgKiBjZWxsSGVpZ2h0ICsgeU9mZiwgY2VsbFdpZHRoLCBjZWxsSGVpZ2h0LCBHZXRDb2xvcih4LCB5KSk7CiAgICAgICAgfQogICAgfQoKICAgIFJheWxpYi5FbmREcmF3aW5nKCk7Cn0KClJheWxpYi5DbG9zZVdpbmRvdygpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHZpc3VhbGl6ZXI7CgpwdWJsaWMgY2xhc3MgUHJvZ3JhbQp7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgTWFpbigpCiAgICB7Cg==</text>
+        <text encoding="base64">dmFyIGdyaWQgPSBuZXcgQ29sb3Jbd2lkdGgsIGhlaWdodF07Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dw==</text>

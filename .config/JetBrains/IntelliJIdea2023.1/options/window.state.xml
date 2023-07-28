@@ -1,43 +1,43 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080@120dpi" x="71" y="0" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1731" height="501" />
-    <size key="find.popup.0.0.1920.1080@120dpi" width="771" height="664" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1731" height="298" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1731" height="298" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1731" height="298" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1731" height="298" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="985" height="329" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="985" height="329" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="985" height="329" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="985" height="329" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="842" height="664" />
   </component>
   <component name="WindowManager">
     <frame x="79" y="8" width="1833" height="1064" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl" timestamp="1687705971747">
+    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl" timestamp="1689529790697">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1687705971747" />
-    <state x="1143" y="660" width="692" height="299" key="ProcessPopupWindow" timestamp="1684183536973">
+    <state x="748" y="340" width="530" height="568" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1689529790697" />
+    <state x="1139" y="656" width="700" height="307" key="ProcessPopupWindow" timestamp="1689530727075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1143" y="660" width="692" height="299" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1684183536973" />
-    <state width="1586" height="1101" key="ShowUsagesActions.dimensionServiceKey" timestamp="1687981478307">
+    <state x="1139" y="656" width="700" height="307" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1689530727075" />
+    <state width="1586" height="389" key="ShowUsagesActions.dimensionServiceKey" timestamp="1690139433804">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1586" height="1101" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1687981478307" />
-    <state x="2915" y="540" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1687981205072">
+    <state width="1586" height="389" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1690139433804" />
+    <state x="1332" y="537" width="1833" height="1064" key="WELCOME_SCREEN" timestamp="1690410560125">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2915" y="540" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1687981205072" />
+    <state x="1332" y="537" width="1833" height="1064" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1690410560125" />
     <state width="375" height="659" key="manage.recent.projects.popup" timestamp="1684183596917">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="375" height="659" key="manage.recent.projects.popup/0.0.1920.1080/1920.0.1920.1080" timestamp="1684183596917" />
-    <state x="560" y="97" width="800" height="934" key="new project wizard" timestamp="1683479205127">
+    <state x="480" y="0" width="1045" height="1080" key="new project wizard" timestamp="1689467524527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="97" width="800" height="934" key="new project wizard/0.0.1920.1080/1920.0.1920.1080" timestamp="1683479205127" />
+    <state x="480" y="0" width="1045" height="1080" key="new project wizard/0.0.1920.1080/1920.0.1920.1080" timestamp="1689467524527" />
   </component>
 </application>

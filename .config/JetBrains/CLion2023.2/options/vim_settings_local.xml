@@ -1,0 +1,171 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <jump line="9" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="2" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="6" column="32" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="3" column="25" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="2" column="0" filename="$USER_HOME$/Dev/stalactite/src/main.cpp" />
+    <jump line="5" column="4" filename="$USER_HOME$/Dev/stalactite/src/main.cpp" />
+    <jump line="0" column="0" filename="/usr/include/Imlib2.h" />
+    <jump line="8" column="53" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/stalactite/src/main.cpp" />
+    <jump line="3" column="2" filename="$USER_HOME$/Dev/stalactite/src/main.cpp" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/stalactite/src/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="6" column="0" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="2" column="11" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="7" column="11" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="10" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="13" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="14" column="58" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="5" column="0" filename="$USER_HOME$/Dev/stalactite/CMakeLists.txt" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/stalactite/vcpkg.json" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="4" column="12" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="3" column="4" filename="$USER_HOME$/Dev/stalactite/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/vcpkg.json" />
+    <jump line="4" column="12" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/main.cpp" />
+    <jump line="16" column="5" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/vcpkg.json" />
+    <jump line="3" column="13" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/CMakeLists.txt" />
+    <jump line="5" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/graphthing/CMakeLists.txt" />
+    <jump line="0" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="5" column="31" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="3" column="20" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/main.cpp" />
+    <jump line="3" column="25" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="8" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="6" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="7" column="18" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="2" column="43" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="9" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="4" column="35" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Dev/stalactite/main.cpp" timestamp="1690412331595">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/stalactite/vcpkg.json" timestamp="1690412331597">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" timestamp="1690564188412">
+        <mark key="&quot;" line="6" column="39" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="/expression.cmake" timestamp="1690411461280">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/CMakeLists.txt" timestamp="1690553630884">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/main.cpp" timestamp="1690553630887">
+        <mark key="&quot;" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/stalactite/src/main.cpp" timestamp="1690411609021">
+        <mark key="&quot;" line="6" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/lolipop/main.cpp" timestamp="1690557595797">
+        <mark key="&quot;" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dev/stalactite/CMakeLists.txt" timestamp="1690412283242">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="/usr/include/Imlib2.h" timestamp="1690411349825">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/vcpkg.json" timestamp="1690553446495">
+        <mark key="&quot;" line="13" column="5" />
+      </file>
+      <file name="/" timestamp="1690410904098">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Nw==</text>
+      </register>
+      <register name="+" type="4">
+        <text encoding="base64">Nw==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Nw==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Nw==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZmluZF9wYWNrYWdlKGltcGxvdCBDT05GSUcgUkVRVUlSRUQpCnRhcmdldF9saW5rX2xpYnJhcmllcyhtYWluIFBSSVZBVEUgaW1wbG90OjppbXBsb3QpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxNykK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDQUNIRSBTVFJJTkcgIlZjcGtnIHRvb2xjaGFpbiBmaWxlIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFICIke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vdmNwa2cvc2NyaXB0cy9idWlsZHN5c3RlbXMvdmNwa2cuY21ha2UiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEltR3VpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkltR3VpIgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

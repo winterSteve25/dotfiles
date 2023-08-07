@@ -1,28 +1,31 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Delete">
-      <i c="7" l="1690563265729" />
+      <i c="11" l="1690577692486" />
     </e>
     <e n="$SelectAll">
-      <i c="1" l="1690411403631" />
+      <i c="2" l="1690577604603" />
     </e>
     <e n="$Undo">
       <i c="1" l="1690411187442" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="1" l="1690412296979" />
+      <i c="4" l="1690577812396" />
     </e>
     <e n="ActivateVcpkgToolWindow">
-      <i c="3" l="1690553258796" />
+      <i c="4" l="1690577961758" />
     </e>
     <e n="AutoIndentLines">
-      <i c="6" l="1690557609413" />
+      <i c="8" l="1690577804616" />
     </e>
     <e n="CMake.OpenSettings">
       <i c="4" l="1690563251219" />
     </e>
     <e n="CMake.ReloadCMakeProject">
-      <i c="7" l="1690563297025" />
+      <i c="8" l="1690577205823" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1690577426363" />
     </e>
     <e n="CloseProject">
       <i c="6" l="1690564191103" />
@@ -31,19 +34,25 @@
       <i c="3" l="1690411453449" />
     </e>
     <e n="EditorBackSpace">
-      <i c="67" l="1690563256236" />
+      <i c="78" l="1690577913914" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="4" l="1690412290560" />
+      <i c="13" l="1690577914967" />
     </e>
     <e n="EditorCopy">
       <i c="2" l="1690411644593" />
     </e>
+    <e n="EditorCut">
+      <i c="1" l="1690577604952" />
+    </e>
     <e n="EditorDown">
-      <i c="1" l="1690412175260" />
+      <i c="14" l="1690577857823" />
     </e>
     <e n="EditorEnter">
-      <i c="31" l="1690557722134" />
+      <i c="39" l="1690577909579" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1690577880767" />
     </e>
     <e n="EditorNextWord">
       <i c="5" l="1690553195510" />
@@ -52,7 +61,7 @@
       <i c="1" l="1690553197636" />
     </e>
     <e n="EditorPaste">
-      <i c="4" l="1690411646142" />
+      <i c="7" l="1690577637916" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1690553196966" />
@@ -60,23 +69,35 @@
     <e n="EditorPreviousWordWithSelection">
       <i c="1" l="1690553142799" />
     </e>
+    <e n="EditorResetFontSize">
+      <i c="1" l="1690577487967" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1690577845260" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1690577498437" />
+    </e>
     <e n="EditorUnindentSelection">
       <i c="4" l="1690563187673" />
     </e>
     <e n="EditorUp">
-      <i c="5" l="1690557603738" />
+      <i c="6" l="1690577497694" />
     </e>
     <e n="ExternalSystem.HideProjectRefreshAction">
       <i c="2" l="1690412275995" />
     </e>
     <e n="ExternalSystem.ProjectRefreshAction">
-      <i c="4" l="1690563203638" />
+      <i c="5" l="1690577898362" />
     </e>
     <e n="FileChooser.NewFolder">
       <i c="1" l="1690410863600" />
     </e>
     <e n="Generate">
       <i c="1" l="1690410779399" />
+    </e>
+    <e n="GetJoinLinkAction">
+      <i c="1" l="1690577421507" />
     </e>
     <e n="GotoDeclaration">
       <i c="1" l="1690411330368" />
@@ -94,22 +115,37 @@
       <i c="1" l="1690412025301" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="7" l="1690563236175" />
+      <i c="9" l="1690577518717" />
     </e>
     <e n="Run">
       <i c="3" l="1690563300890" />
     </e>
     <e n="SaveAll">
-      <i c="4" l="1690563202004" />
+      <i c="6" l="1690577881962" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="13" l="1690577875952" />
+    </e>
+    <e n="SettingsSyncOpenSettingsAction">
+      <i c="1" l="1690577222962" />
     </e>
     <e n="ShowIntentionActions">
       <i c="2" l="1690411997611" />
     </e>
     <e n="ShowSettings">
-      <i c="3" l="1690556483484" />
+      <i c="7" l="1690577814577" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="5" l="1690411312417" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="2" l="1690577682867" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="2" l="1690577681999" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1690577128781" />
     </e>
     <e n="WelcomeScreen.OpenSelected">
       <i c="1" l="1690564192271" />
@@ -127,28 +163,28 @@
       <i c="3" l="1690411304330" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="120" l="1690563201148" />
+      <i c="148" l="1690577915165" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
-      <i c="4" l="1690553272217" />
+      <i c="9" l="1690577989602" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="8" l="1690564188406" />
+      <i c="12" l="1690577907433" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="1" l="1690410837358" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="6" l="1690563266019" />
+      <i c="9" l="1690577692789" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="1" l="1690411497820" />
+      <i c="3" l="1690577524850" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="27" l="1690563287885" />
+      <i c="34" l="1690577906365" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="12" l="1690564189296" />
+      <i c="14" l="1690577957706" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="5" l="1690556471132" />
@@ -157,10 +193,10 @@
       <i c="1" l="1690410809239" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="6" l="1690563205498" />
+      <i c="11" l="1690578060837" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
-      <i c="3" l="1690563224109" />
+      <i c="4" l="1690577200143" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
       <i c="1" l="1690411255346" />
@@ -169,10 +205,10 @@
       <i c="1" l="1690411312898" />
     </e>
     <e n="com.jetbrains.cidr.cpp.cmake.actions.OpenCMakeSettingsAction">
-      <i c="3" l="1690411465210" />
+      <i c="6" l="1690577586737" />
     </e>
     <e n="com.jetbrains.cidr.packagemanager.packagemanager.manager.toolwindow.components.PackageManagerContents$1">
-      <i c="2" l="1690411672188" />
+      <i c="4" l="1690577992135" />
     </e>
     <e n="com.jetbrains.cidr.packagemanager.packagemanager.manager.toolwindow.components.PackageManagerContents$removeAction$1">
       <i c="1" l="1690553439910" />
@@ -189,11 +225,14 @@
     <e n="com.jetbrains.cidr.packagemanager.packagemanager.vcpkg.windows.CMakeHintsView$CMakeHintsViewAction">
       <i c="3" l="1690412172969" />
     </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
+      <i c="1" l="1690577807587" />
+    </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
       <i c="2" l="1690412296715" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="4" l="1690563201984" />
+      <i c="6" l="1690577881934" />
     </e>
     <e n="editRunConfigurations">
       <i c="2" l="1690411252160" />

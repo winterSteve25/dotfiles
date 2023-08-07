@@ -4,17 +4,17 @@
       <map>
         <entry key="$USER_HOME$/Dev/echo-v3">
           <value>
-            <RecentProjectMetaInfo frameTitle="echo-v3 – api.ts" opened="true" projectWorkspaceId="2RC9O2XMnWJd8zGdfA8THrV068u">
-              <option name="activationTimestamp" value="1690413531749" />
+            <RecentProjectMetaInfo frameTitle="echo-v3 – Registration.svelte" opened="true" projectWorkspaceId="2TYnPJSEcYcPF7PpYkTIEdShNjj">
+              <option name="activationTimestamp" value="1691440871529" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-232.8660.143" />
-              <option name="buildTimestamp" value="1689922226286" />
+              <option name="buildTimestamp" value="1689922231721" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="79" y="8" width="1833" height="1064" />
+              <frame x="68" y="8" width="1844" height="1064" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1690413154841" />
+              <option name="projectOpenTimestamp" value="1691228856343" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

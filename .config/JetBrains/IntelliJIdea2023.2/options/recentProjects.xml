@@ -2,89 +2,25 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Dev/tau/1.16">
+        <entry key="$USER_HOME$/Dev/ONI-Utils">
           <value>
-            <RecentProjectMetaInfo frameTitle="1.16 – build.gradle [1.16]" projectWorkspaceId="2SfFaQSUtkQuhzHIjDhIWgr9gFn">
-              <option name="activationTimestamp" value="1689545554296" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-231.9011.34" />
-              <option name="buildTimestamp" value="1684213238783" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="79" y="8" width="1833" height="1064" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1689545554682" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Dev/tau/1.19">
-          <value>
-            <RecentProjectMetaInfo frameTitle="1.19 – build.gradle (1.19)" projectWorkspaceId="2SfFMglWMBn7pPRX7uOz6CBSSVT">
-              <option name="activationTimestamp" value="1690076049154" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-231.9011.34" />
-              <option name="buildTimestamp" value="1684213233016" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
-              </option>
-              <frame x="79" y="8" width="1833" height="1064" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1690075379566" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Dev/tau/1.18">
-          <value>
-            <RecentProjectMetaInfo frameTitle="1.18 – MinecraftTheme.java [1.18.main]" projectWorkspaceId="2SfF5R0SmS7x26zeFvVJ2XAjRQ8">
-              <option name="activationTimestamp" value="1690075731745" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-231.9011.34" />
-              <option name="buildTimestamp" value="1684213233016" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="79" y="8" width="959" height="1064" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1690075732141" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Dev/oniutils">
-          <value>
-            <RecentProjectMetaInfo frameTitle="oniutils – ONIPlaceHolderBER.java [oniutils.main]" projectWorkspaceId="2Rhcu26QdsyfDavE0xiqNHHAccs">
-              <option name="activationTimestamp" value="1690139577261" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-231.9011.34" />
-              <option name="buildTimestamp" value="1684213259952" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="79" y="8" width="1833" height="1064" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1690137129321" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Dev/partylab">
-          <value>
-            <RecentProjectMetaInfo frameTitle="partylab – PartyLab.kt [partylab.core.main]" opened="true" projectWorkspaceId="2T8OCl8c9mQEGApGxZHBXxXLo8i">
-              <option name="activationTimestamp" value="1690506990842" />
+            <RecentProjectMetaInfo frameTitle="ONI-Utils" opened="true" projectWorkspaceId="2TDSyrONdo2fcgJRekYhtKETPhP">
+              <option name="activationTimestamp" value="1691245202593" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-232.8660.185" />
-              <option name="buildTimestamp" value="1690347694897" />
+              <option name="buildTimestamp" value="1690347677933" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
+                <RecentProjectColorInfo />
               </option>
-              <frame x="79" y="8" width="1833" height="1064" />
+              <frame x="68" y="8" width="1844" height="1064" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1690506882724" />
+              <option name="projectOpenTimestamp" value="1691245161898" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Dev/partylab" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/ONI-Utils" />
     <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
   </component>
 </application>

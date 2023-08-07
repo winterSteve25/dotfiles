@@ -9,28 +9,30 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
-    "MarketplacePluginsSearchHistory": "con\ncona\nconan",
+    "InstalledPluginsSearchHistory": "atom",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "MarketplacePluginsSearchHistory": "atom\na\ncon\ncona\nconan",
     "NonModalCommitCustomization.IsApplied": "true",
     "RunConfigurable.dividerProportion": "0.24298161",
     "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
-    "appcds.runOnSecondStart": "CL-232.8660.186-8356293c183dc9b774f1f7f7357811daef0949e13f7605fa8d1f0955143aaada",
+    "SHELLCHECK.PATH": "I do mind",
+    "appcds.runOnSecondStart": "CL-232.8660.186-0215870ef81dc98c01c275cd569b5505bb8b993ace2c1e8dfb11e4d5e204ffb6",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "CL-232.8660.186",
     "clion.initialConfigPerformed": "true",
     "evlsprt3.232": "23",
     "experimental.ui.used.once": "true",
-    "file.gist.reindex.count": "31",
+    "file.gist.reindex.count": "35",
     "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "15.0",
     "fontSizeToResetEditor": "15.0",
     "got.it.tooltip.reader.mode.got.it": "1",
     "gotit.previous.run": "CL-232.8660.186",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1690553206465",
+    "ideavim.statistics.timestamp": "1690656756201",
     "input.method.disabler.muted": "true",
-    "last_opened_file_path": "/home/cadenz/Dev/stalactite",
+    "last_opened_file_path": "/home/cadenz/Dev/lolipop",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "CL-232.8660.186",
@@ -39,6 +41,8 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/cadenz/Dev/lolipop/vcpkg",
+      "/home/cadenz/Dev/lolipop",
       "/home/cadenz/Dev/stalactite"
     ],
     "fileTypeDetectors": [
@@ -48,15 +52,17 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips">{
-  &quot;shownTips&quot;: {
-    &quot;GoToDeclaration&quot;: 1690553206764,
-    &quot;FindReplaceToggle&quot;: 1690410848558
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1690656758063,
+    "GoToDeclaration": 1690553206764,
+    "FindReplaceToggle": 1690410848558
   },
-  &quot;proposedTips&quot;: {
-    &quot;GoToDeclaration&quot;: 1690553206647,
-    &quot;FindReplaceToggle&quot;: 1690410848255
+  "proposedTips": {
+    "SpeedSearch": 1690656757842,
+    "GoToDeclaration": 1690553206647,
+    "FindReplaceToggle": 1690410848255
   },
-  &quot;tipsOrderSeed&quot;: 1690410848245
-}</component>
+  "tipsOrderSeed": 1690410848245
+}]]></component>
 </application>

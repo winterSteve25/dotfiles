@@ -11,6 +11,7 @@
               <option value="com.demonwav.minecraft-dev" />
               <option value="com.github.tth05.minecraft-nbt-intellij-plugin" />
               <option value="dev.blachut.svelte.lang" />
+              <option value="org.jetbrains.plugins.docker.gateway" />
               <option value="org.rust.lang" />
             </list>
           </value>

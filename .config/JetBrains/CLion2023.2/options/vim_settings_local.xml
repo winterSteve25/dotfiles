@@ -53,19 +53,27 @@
     <jump line="2" column="43" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
     <jump line="9" column="0" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
     <jump line="4" column="35" filename="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/lolipop/make.sh" />
+    <jump line="4" column="0" filename="$USER_HOME$/Dev/lolipop/src/main.cpp" />
+    <jump line="1" column="20" filename="$USER_HOME$/Dev/lolipop/make.sh" />
+    <jump line="0" column="0" filename="$USER_HOME$/Dev/lolipop/build.sh" />
+    <jump line="9" column="0" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+    <jump line="2" column="11" filename="$USER_HOME$/.ideavimrc" />
+    <jump line="7" column="30" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="12" column="0" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="13" column="0" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="15" column="8" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="3" column="29" filename="$USER_HOME$/Dev/lolipop/CMakeLists.txt" />
+    <jump line="3" column="0" filename="$USER_HOME$/Dev/lolipop/src/main.cpp" />
+    <jump line="2" column="11" filename="$USER_HOME$/Dev/lolipop/src/main.cpp" />
+    <jump line="0" column="18" filename="$USER_HOME$/Dev/lolipop/src/main.cpp" />
+    <jump line="1" column="0" filename="$USER_HOME$/Dev/lolipop/src/main.cpp" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/Dev/stalactite/main.cpp" timestamp="1690412331595">
-        <mark key="&quot;" line="5" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/stalactite/vcpkg.json" timestamp="1690412331597">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ /home/cadenz/Dev/lolipop/CMakeLists.txt" timestamp="1690564188412">
         <mark key="&quot;" line="6" column="39" />
         <mark key="[" line="7" column="18" />
@@ -77,20 +85,28 @@
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/CMakeLists.txt" timestamp="1690553630884">
-        <mark key="&quot;" line="2" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/AIAssistantInput-d2412dcc-68ed-4f93-8425-cf18208f1543" timestamp="1690577459497">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1690577809482">
+        <mark key="&quot;" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/main.cpp" timestamp="1690553630887">
         <mark key="&quot;" line="3" column="13" />
+      </file>
+      <file name="/AIAssistantInput-b4444057-21da-4381-9775-e6b6539ca1a8" timestamp="1690577454265">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/stalactite/src/main.cpp" timestamp="1690411609021">
         <mark key="&quot;" line="6" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/lolipop/make.sh" timestamp="1690577687212">
+        <mark key="&quot;" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/ /home/cadenz/Dev/lolipop/main.cpp" timestamp="1690557595797">
         <mark key="&quot;" line="3" column="20" />
@@ -107,52 +123,85 @@
       <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/vcpkg.json" timestamp="1690553446495">
         <mark key="&quot;" line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/Dev/lolipop/run.sh" timestamp="1690577693198">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
       <file name="/" timestamp="1690410904098">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/stalactite/main.cpp" timestamp="1690412331595">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/lolipop/src/main.cpp" timestamp="1690577917313">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/stalactite/vcpkg.json" timestamp="1690412331597">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ /home/cadenz/Dev/graphthing/CMakeLists.txt" timestamp="1690553630884">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/lolipop/build.sh" timestamp="1690577691620">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/lolipop/CMakeLists.txt" timestamp="1690577907442">
+        <mark key="&quot;" line="3" column="29" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="39" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Nw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text encoding="base64">Nw==</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Nw==</text>
+        <text encoding="base64">bG9saXBvcA==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">Nw==</text>
+        <text encoding="base64">Zy9nbGZ3My5obGZ3My5o</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKGltcGxvdCBDT05GSUcgUkVRVUlSRUQpCnRhcmdldF9saW5rX2xpYnJhcmllcyhtYWluIFBSSVZBVEUgaW1wbG90OjppbXBsb3QpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHtQUk9KRUNUX05BTUV9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxNykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIkdMRlcvZ2xmdzMuaCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImltZ3VpLmgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDQUNIRSBTVFJJTkcgIlZjcGtnIHRvb2xjaGFpbiBmaWxlIikK</text>
+        <text encoding="base64">ICAgIEltR3VpOjpCZWdpbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFICIke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vdmNwa2cvc2NyaXB0cy9idWlsZHN5c3RlbXMvdmNwa2cuY21ha2UiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIEltR3VpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkltR3VpIgo=</text>
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9TVEFOREFSRCAxNykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

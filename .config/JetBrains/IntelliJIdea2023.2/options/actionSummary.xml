@@ -364,7 +364,7 @@
       <i c="1" l="1690420797230" />
     </e>
     <e n="SettingsSyncOpenSettingsAction">
-      <i c="1" l="1683474416018" />
+      <i c="3" l="1691245130984" />
     </e>
     <e n="ShowBookmarks">
       <i c="1" l="1689532648555" />
@@ -376,7 +376,7 @@
       <i c="3" l="1690413427847" />
     </e>
     <e n="ShowSettings">
-      <i c="22" l="1690420805669" />
+      <i c="25" l="1691245186146" />
     </e>
     <e n="StepInto">
       <i c="17" l="1690138475842" />
@@ -430,10 +430,10 @@
       <i c="3" l="1690412946877" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="20" l="1690421111926" />
+      <i c="21" l="1690576407747" />
     </e>
     <e n="WelcomeScreen.RemoveSelected">
-      <i c="13" l="1690420948775" />
+      <i c="18" l="1690576398177" />
     </e>
     <e n="WelcomeScreen.RevealIn">
       <i c="6" l="1690420942552" />
@@ -505,7 +505,7 @@
       <i c="1" l="1683922474728" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="5" l="1690506960310" />
+      <i c="6" l="1691245171859" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
       <i c="22026" l="1690421436534" />
@@ -517,10 +517,10 @@
       <i c="2" l="1683491132877" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1541" l="1690506890770" />
+      <i c="1542" l="1691243353727" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="165" l="1690139298165" />
+      <i c="166" l="1691245155933" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="3" l="1684007791477" />
@@ -532,10 +532,10 @@
       <i c="151" l="1690139577072" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="4" l="1690421224620" />
+      <i c="5" l="1690577430299" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="23" l="1690421223916" />
+      <i c="24" l="1690577243687" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
       <i c="1" l="1690420798685" />
@@ -547,7 +547,10 @@
       <i c="2" l="1684088906254" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="94" l="1690420939431" />
+      <i c="96" l="1691245127253" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1690576400399" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="249" l="1690506982721" />

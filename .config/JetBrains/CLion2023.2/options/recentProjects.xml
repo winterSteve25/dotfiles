@@ -2,25 +2,25 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key=" /home/cadenz/Dev/lolipop">
+        <entry key="$USER_HOME$/Dev/lolipop">
           <value>
-            <RecentProjectMetaInfo frameTitle="lolipop – CMakeLists.txt" opened="true" projectWorkspaceId="2TCoZ6Ptbh4riv5d8CP5SqsY803">
-              <option name="activationTimestamp" value="1690564192326" />
+            <RecentProjectMetaInfo frameTitle="lolipop – main.cpp" opened="true" projectWorkspaceId="2TDURU7fOgtWwau9U5TL47l5uDw">
+              <option name="activationTimestamp" value="1690656763068" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="CL-232.8660.186" />
-              <option name="buildTimestamp" value="1690353426720" />
+              <option name="buildTimestamp" value="1690353424484" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="5" />
+                <RecentProjectColorInfo />
               </option>
-              <frame x="79" y="8" width="1833" height="1064" />
+              <frame x="68" y="8" width="1844" height="1064" />
               <option name="productionCode" value="CL" />
-              <option name="projectOpenTimestamp" value="1690564192437" />
+              <option name="projectOpenTimestamp" value="1690577137024" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value=" /home/cadenz/Dev/lolipop" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/lolipop" />
     <option name="lastProjectLocation" value=" /home/cadenz/Dev" />
   </component>
 </application>

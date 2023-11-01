@@ -1,0 +1,23 @@
+{
+    "starship.toml": {
+		"preset": "CONFIG"
+	},
+    "fish": {
+		"preset": "CONFIG"
+	},
+    "hypr": {
+		"preset": "CONFIG"
+	},
+    "kitty": {
+		"preset": "CONFIG"
+	},
+    "nvim": {
+		"preset": "CONFIG"
+	},
+    "rofi": {
+		"preset": "CONFIG"
+	},
+	"eww": {
+		"preset": "CONFIG"
+	}
+}

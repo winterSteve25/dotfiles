@@ -14,9 +14,7 @@ if status is-interactive
 
 	alias clean-system 'yay -Scc && rm -rf ~/.cache/* && cargo cache -a && yay -Rns $(yay -Qtdq)'
 
-	alias ls 'exa --icons --group-directories-first'
 	alias cat 'bat'
-	alias tree 'tree -C'
 	alias nuget 'mono /usr/local/bin/nuget.exe'
 	alias vim 'nvim'
 

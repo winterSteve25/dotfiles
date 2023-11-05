@@ -17,7 +17,8 @@
     "rofi": {
 		"preset": "CONFIG"
 	},
-	"eww": {
-		"preset": "CONFIG"
+	"ideavim": {
+		"preset": "HOME",
+		"name": ".ideavimrc"
 	}
 }

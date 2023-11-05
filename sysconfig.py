@@ -6,22 +6,28 @@ import json
 
 class Preset(StrEnum):
     CONFIG = "CONFIG"
+    HOME = "HOME"
 
     def resolve(self, home_dir: str) -> Path:
         match self:
-            case CONFIG:
+            case Preset.CONFIG:
                 return Path(home_dir).joinpath(".config")
+            case Preset.HOME:
+                return Path(home_dir)
 
 class Settings: 
     def __init__(self, preset: Preset = Preset.CONFIG, path: str = ""):
         self.preset = preset
         self.path = path
+        self.name = ""
 
     def resolve(self, home_dir: str, file_name: str) -> Path:
-        if self.path:
-            return Path(self.path).joinpath(file_name)
+        fn = self.name if self.name else file_name
 
-        return self.preset.resolve(home_dir).joinpath(file_name)
+        if self.path:
+            return Path(self.path).joinpath(fn)
+
+        return self.preset.resolve(home_dir).joinpath(fn)
 
 def create_if_not_present(path: str):
     if not os.path.exists(path):
@@ -33,7 +39,7 @@ def delete_symlink_or_file(path: Path):
         os.unlink(path)
     elif os.path.isdir(path):
         shutil.rmtree(path)
-    else:
+    elif os.path.isfile(path):
         os.remove(path)
 
 def link_file(file: str, path: Path, lock: dict[str, str]):
@@ -73,6 +79,9 @@ with open(config_file_path, "r") as f:
             settings[file] = Settings(path=setting["path"])
         elif "preset" in setting:
             settings[file] = Settings(preset=Preset[setting["preset"]])
+
+        if "name" in setting:
+            settings[file].name =setting["name"]
 
 # load lock
 with open(lock_file_path, "r") as f:

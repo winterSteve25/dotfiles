@@ -20,5 +20,8 @@
 	"ideavim": {
 		"preset": "HOME",
 		"name": ".ideavimrc"
+	},
+	"eww": {
+		"preset": "CONFIG"
 	}
 }

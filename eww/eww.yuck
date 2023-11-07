@@ -1,0 +1,14 @@
+(include "./polls.yuck")
+
+(defwindow bar
+  :monitor 0
+  :stacking "fg"
+  :exclusive true
+  :geometry 
+  (geometry
+    :anchor "top center"
+    :width "98%"
+    :height "50px"
+    :x "0%"
+    :y "15px")
+  POLL_time)

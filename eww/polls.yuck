@@ -1,0 +1,3 @@
+(defpoll POLL_time
+  :interval "1s"
+  `date +%H:%M`)

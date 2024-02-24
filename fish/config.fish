@@ -13,6 +13,7 @@ if status is-interactive
 	alias yay-info 'yay -Qi'
 
 	alias clean-system 'yay -Scc && rm -rf ~/.cache/* && cargo cache -a && yay -Rns $(yay -Qtdq)'
+	alias set-pacman-mirrors 'sudo reflector --country 'America,' --latest 5 --age 2 --fastest 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlist'
 
 	alias cat 'bat'
 	alias nuget 'mono /usr/local/bin/nuget.exe'
@@ -21,12 +22,12 @@ if status is-interactive
 	# environment vars
 	set -gx PATH "$HOME/.local/bin" $PATH
 	set -gx PATH "$HOME/Applications/flutter/bin" $PATH
+
 	set -gx CHROME_EXECUTABLE "/usr/bin/google-chrome-stable"
 	set -gx VISUAL "nvim"
 	
-	# set theme
 	source $HOME/.config/fish/themes/everforest.fish
 
-	# start starship
 	starship init fish | source
+	zoxide init fish --cmd cd | source
 end

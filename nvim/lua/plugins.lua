@@ -352,7 +352,7 @@ return {
 
             local config = {
                 options = {
-                    theme = "gruvbox"
+                    theme = "catppuccin"
                 },
                 sections = {
                     lualine_x = {
@@ -377,9 +377,9 @@ return {
 	{
 		"catppuccin/nvim",
 		name = "catppuccin",
-		-- config = function ()
-		-- 	vim.cmd.colorscheme("catppuccin")
-		-- end
+		config = function ()
+			vim.cmd.colorscheme("catppuccin")
+		end
 	},
 
 	{
@@ -391,12 +391,12 @@ return {
 
 	{
 		"ellisonleao/gruvbox.nvim",
-		config = function ()
-			require("gruvbox").setup({
-				contrast = "hard"
-			})
-			vim.cmd.colorscheme("gruvbox")
-		end
+		-- config = function ()
+		-- 	require("gruvbox").setup({
+		-- 		contrast = "hard"
+		-- 	})
+		-- 	vim.cmd.colorscheme("gruvbox")
+		-- end
 	},
 
 	-------------------------------------------

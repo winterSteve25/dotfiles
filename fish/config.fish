@@ -21,6 +21,7 @@ if status is-interactive
 
 	# environment vars
 	set -gx PATH "$HOME/.local/bin" $PATH
+	set -gx PATH "$HOME/.cargo/bin" $PATH
 	set -gx PATH "$HOME/Applications/flutter/bin" $PATH
 
 	set -gx CHROME_EXECUTABLE "/usr/bin/google-chrome-stable"

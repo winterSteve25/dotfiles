@@ -27,6 +27,6 @@
     };
 
     wayland.windowManager.hyprland.plugins = [
-	# smwplugin.packages.${pkgs.system}.split-monitor-workspaces
+	inputs.split-monitor-workspaces.packages.${pkgs.system}.split-monitor-workspaces
     ];
 }

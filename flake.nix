@@ -2,7 +2,7 @@
     description = "Configuration";
 
     inputs = {
-	hyprland.url = "github:hyprwm/Hyprland";
+	hyprland.url = "git+https://github.com/hyprwm/Hyprland?submodules=1";
     	nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
 	home-manager = {
 	    url = "github:nix-community/home-manager/release-24.05";

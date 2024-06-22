@@ -4,6 +4,9 @@
   imports = [
       ./hyprland.nix
       ./programs.nix
+      ./neovim.nix
+      ./fuzzel.nix
+      ./kitty.nix
   ];
 
   nixpkgs.config.allowUnfree = true;

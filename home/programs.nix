@@ -2,7 +2,12 @@
 
 {
   home.packages = with pkgs; [
+    wl-clipboard
+    copyq
     google-chrome
-    discord
+    webcord-vencord
+    grim
+    slurp
+    kitty
   ];
 }

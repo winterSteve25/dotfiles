@@ -31,9 +31,6 @@
      vim
      yazi
      git
-     copyq
-     kitty
-     vesktop
   ];
 
   # Env Vars
@@ -53,7 +50,15 @@
   };
 
   xdg.portal.enable = true;
-  xdg.portal.extraPortals = [ pkgs.xdg-desktop-portal-gtk ];
+  xdg.portal.extraPortals = [ 
+    pkgs.xdg-desktop-portal-gtk 
+    pkgs.xdg-desktop-portal-hyprland
+  ];
+  
+  programs.hyprland = {
+    enable = true;
+    xwayland.enable = true;
+  };
 
   # This value determines the NixOS release from which the default
   # settings for stateful data, like file locations and database versions

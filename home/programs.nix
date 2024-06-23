@@ -10,12 +10,15 @@
 		fzf
 		unzip
 		swww
+		cmake
+		gnumake
 
 		# emacs
 		ripgrep
 		fd
 		coreutils
 		clang
+		libvterm
 		emacs
 
 		# programs

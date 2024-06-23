@@ -5,6 +5,6 @@
     programs.kitty.theme = "Atom";
     programs.kitty.font = {
     	name = "DejaVu Sans";
-	size = 18;
+		size = 18;
     };
 }

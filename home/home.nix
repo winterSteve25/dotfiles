@@ -7,6 +7,7 @@
       ./neovim.nix
       ./fuzzel.nix
       ./kitty.nix
+      ./fish.nix
   ];
 
   nixpkgs.config.allowUnfree = true;
@@ -14,7 +15,6 @@
   home.username = "cadenz";
   home.homeDirectory = "/home/cadenz";    
   home.packages = with pkgs; [
-    (pkgs.nerdfonts.override { fonts = [ "FantasqueSansMono" ]; })
   ];
 
   home.sessionVariables = {

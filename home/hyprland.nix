@@ -4,18 +4,17 @@
     wayland.windowManager.hyprland.enable = true;
     wayland.windowManager.hyprland.package = inputs.hyprland.packages.${pkgs.system}.hyprland;
     wayland.windowManager.hyprland.settings = {
-	"$mod" = "SUPER";
 	monitor = [
 	    "DP-1,1920x1080@144,0x0,1"
 	    "eDP-1,1920x1080,1920x0,1"
 	];
 	bind = [
-	    "$mod, T, exec, kitty"
-	    "$mod, RETURN, exec, fuzzel"
-	    "$mod, Q, killactive,"
-	    "$mod, V, togglefloating,"
-	    "$mod, S, fullscreen, 0"
-	    "$mod_SHIFT, Q, exit,"
+	    "SUPER, T, exec, kitty"
+	    "SUPER, RETURN, exec, fuzzel"
+	    "SUPER, Q, killactive,"
+	    "SUPER, V, togglefloating,"
+	    "SUPER, S, fullscreen, 0"
+	    "SUPER_SHIFT, Q, exit,"
 	    ", PRINT, exec, grim -g \"$(slurp -d)\" - | wl-copy -t image/png"
 	    ", XF86AudioRaiseVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%+"
 	    ", XF86AudioLowerVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%-"
@@ -56,6 +55,7 @@
 	];
 	exec-once = [
 	    "copyq --start-server"
+	    "webcord"
 	];
 	windowrulev2 = [
 	    "opacity 0.0 override,class:^(xwaylandvideobridge)$"
@@ -63,6 +63,7 @@
 	    "noinitialfocus,class:^(xwaylandvideobridge)$"
 	    "maxsize 1 1,class:^(xwaylandvideobridge)$"
 	    "noblur,class:^(xwaylandvideobridge)$"
+	    "workspace 11,class:(WebCord)"
 	];
 	input = {
 	    sensitivity = 0;

@@ -8,9 +8,10 @@
 		./neovim.nix
 		./fuzzel.nix
 		./kitty.nix
-		./fish.nix
+        ./fish.nix
 		./starship.nix
 		./emacs.nix
+		./pdfviewer.nix
   	];
 
   	nixpkgs.config.allowUnfree = true;

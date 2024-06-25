@@ -4,6 +4,8 @@
 	programs.fish.enable = true;
 	programs.fish.interactiveShellInit = ''
 		set -g fish_greeting
+		set -gx PATH "$HOME/.emacs.d/bin" $PATH
+
 		# Colors
 		set -l foreground d3c6aa
 		set -l selection 493840

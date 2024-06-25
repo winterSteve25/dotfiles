@@ -12,6 +12,7 @@
 		swww
 		cmake
 		gnumake
+		nodejs
 
 		# emacs
 		ripgrep

@@ -11,7 +11,7 @@
         ./fish.nix
 		./starship.nix
 		./emacs.nix
-		./pdfviewer.nix
+        ./ags.nix
   	];
 
   	nixpkgs.config.allowUnfree = true;
@@ -19,7 +19,7 @@
   	home.username = "cadenz";
   	home.homeDirectory = "/home/cadenz";    
   	home.sessionVariables = {
-   		EDITOR = "vim";
+   	EDITOR = "vim";
   	};
 
   	# This value determines the Home Manager release that your configuration is

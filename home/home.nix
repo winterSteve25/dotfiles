@@ -10,7 +10,6 @@
 		./kitty.nix
         ./fish.nix
 		./starship.nix
-		./emacs.nix
         ./ags.nix
   	];
 
@@ -19,7 +18,7 @@
   	home.username = "cadenz";
   	home.homeDirectory = "/home/cadenz";    
   	home.sessionVariables = {
-   	EDITOR = "vim";
+	   	EDITOR = "vim";
   	};
 
   	# This value determines the Home Manager release that your configuration is

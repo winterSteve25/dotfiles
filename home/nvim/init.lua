@@ -22,7 +22,6 @@ require("lazy").setup("plugins")
 -- setup
 require("setups/lsp")
 require("setups/auto-cmp")
-require("setups/tree-sitter")
 
 -- setup keymap
 require("keymaps")

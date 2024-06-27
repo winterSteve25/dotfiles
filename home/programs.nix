@@ -13,14 +13,8 @@
 		cmake
 		gnumake
 		nodejs
-
-		# emacs
 		ripgrep
-		fd
-		coreutils
 		clang
-		libvterm
-		emacs
 
 		# programs
 		google-chrome

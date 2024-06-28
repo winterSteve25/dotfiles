@@ -15,6 +15,7 @@
 		nodejs
 		ripgrep
 		clang
+		bun
 
 		# programs
 		google-chrome
@@ -22,5 +23,11 @@
 		grim
 		slurp
 		kitty
+
+		# ides
+		jetbrains.webstorm
+		jetbrains.idea-ultimate
 	];
+
+	home.file.".ideavimrc".source = ./ideavim;
 }

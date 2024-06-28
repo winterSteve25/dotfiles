@@ -11,6 +11,7 @@
         ./fish.nix
 		./starship.nix
         ./ags.nix
+		./theming/theme.nix
   	];
 
   	nixpkgs.config.allowUnfree = true;

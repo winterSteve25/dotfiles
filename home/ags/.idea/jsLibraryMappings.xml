@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="ags/types/@girs/dbusmenugtk3-0.4/node_modules" />
+    <excludedPredefinedLibrary name="ags/types/@girs/gtk-3.0/node_modules" />
+    <excludedPredefinedLibrary name="ags/types/@girs/nm-1.0/node_modules" />
+  </component>
+</project>

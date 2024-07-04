@@ -2,19 +2,37 @@
 
 {
 	imports = [
-    ./hardware-configuration.nix
-    ./services.nix
-    ./network.nix
-    ./programs.nix
+		./hardware-configuration.nix
+		./services.nix
+		./network.nix
+		./programs.nix
 	];
 
 	options = {};
-
-  config = {
+  	config = {
 		# Bootloader.
 		boot.loader.systemd-boot.enable = true;
 		boot.loader.systemd-boot.configurationLimit = 5;
 		boot.loader.efi.canTouchEfiVariables = true;
+		boot.kernelPackages = pkgs.linuxPackages_latest;
+
+		boot.initrd.kernelModules = [ "amdgpu" ];
+		hardware.opengl = {
+			enable = true;
+			driSupport = true;
+			driSupport32Bit = true;
+			extraPackages = with pkgs; [ mesa mesa.drivers ];
+			extraPackages32 = with pkgs; [ driversi686Linux.mesa ];
+		};
+
+		programs.nix-ld.enable = true;
+		programs.nix-ld.libraries = with pkgs; [
+			libpulseaudio
+			libGL
+			glfw
+			openal
+			stdenv.cc.cc.lib
+		];
 
 		# Set your time zone.
 		time.timeZone = "America/Toronto";
@@ -33,7 +51,7 @@
 		nix.gc = {
 			automatic = true;
 			dates = "weekly";
-			options = "--delete older-than 7d";
+			options = "--delete-older-than 7d";
 		};
 
 		environment.systemPackages = with pkgs; [
@@ -68,8 +86,6 @@
 			enable = true;
 			xwayland.enable = true;
 		};
-
-		hardware.opengl.enable = true;
 
 		# This value determines the NixOS release from which the default
 		# settings for stateful data, like file locations and database versions

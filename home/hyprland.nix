@@ -68,6 +68,7 @@ in
 			"SUPER, mouse:273, resizewindow"
 		];
 		exec-once = [
+			"ags"
 			"copyq --start-server"
 			"webcord"
 			"swww-daemon"

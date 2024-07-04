@@ -3,7 +3,8 @@
 {
     services.openssh.enable = true;
     services.xserver = {
- 	layout = "us";
-    	xkbVariant = "";
+ 		xkb.layout = "us";
+    	xkb.variant = "";
+		videoDrivers = [ "modesetting" ];
     };
 }

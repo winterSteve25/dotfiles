@@ -13,9 +13,13 @@
 	    	url = "github:Duckonaut/split-monitor-workspaces";
 	    	inputs.hyprland.follows = "hyprland";
 		};
+		nix-ld = {
+			url = "github:Mic92/nix-ld"; 
+			inputs.nixpkgs.follows = "nixpkgs";
+		};
     };
 
-    outputs = { self, nixpkgs, home-manager, ... }@inputs: 
+    outputs = { self, nixpkgs, home-manager, nix-ld, ... }@inputs: 
     let
 		system = "x86_64-linux";
 		pkgs = nixpkgs.legacyPackages.${system};
@@ -26,6 +30,7 @@
 				specialArgs = { inherit inputs; };
 				modules = [ 
 					./os/configuration.nix 
+					nix-ld.nixosModules.nix-ld
 				];
 			};
 		};
@@ -34,7 +39,8 @@
 				inherit pkgs;
 				extraSpecialArgs = { inherit inputs; };
 				modules = [ 
-					./home/home.nix ];
+					./home/home.nix 
+				];
 			};
 		};
     };

@@ -6,6 +6,9 @@
 		wl-clipboard
 		copyq
 
+		# sys libs
+		glfw
+
 		# utilities
 		fzf
 		unzip
@@ -16,6 +19,9 @@
 		ripgrep
 		clang
 		bun
+		btop
+		libnotify
+		rustup
 
 		# programs
 		google-chrome
@@ -27,6 +33,7 @@
 		# ides
 		jetbrains.webstorm
 		jetbrains.idea-ultimate
+		jetbrains.rust-rover
 	];
 
 	home.file.".ideavimrc".source = ./ideavim;

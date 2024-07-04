@@ -11,6 +11,7 @@
         ./fish.nix
 		./starship.nix
         ./ags.nix
+		./java.nix
 		./theming/theme.nix
   	];
 

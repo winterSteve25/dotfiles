@@ -19,8 +19,9 @@ in
     wayland.windowManager.hyprland.package = inputs.hyprland.packages.${pkgs.system}.hyprland;
     wayland.windowManager.hyprland.settings = {
 		monitor = [
-			"DP-1,1920x1080@144,0x0,1"
-			"eDP-1,1920x1080@60,1920x0,1"
+			# "DP-1,1920x1080@144,0x0,1"
+			# "eDP-1,1920x1080@60,1920x0,1"
+			"eDP-1,1536x1024@60,0x0,1"
 		];
 		bind = [
 			"SUPER, T, exec, kitty"
@@ -36,28 +37,26 @@ in
 			"SUPER, l, movefocus, r"
 			"SUPER, k, movefocus, u"
 			"SUPER, j, movefocus, d"
-			"SUPER, 1, split-workspace, 1"
-			"SUPER, 2, split-workspace, 2"
-			"SUPER, 3, split-workspace, 3"
-			"SUPER, 4, split-workspace, 4"
-			"SUPER, 5, split-workspace, 5"
-			"SUPER, 6, split-workspace, 6"
-			"SUPER, 7, split-workspace, 7"
-			"SUPER, 8, split-workspace, 8"
-			"SUPER, 9, split-workspace, 9"
-			"SUPER, 0, split-workspace, 10"
-			"SUPER_SHIFT, 1, split-movetoworkspace, 1"
-			"SUPER_SHIFT, 2, split-movetoworkspace, 2"
-			"SUPER_SHIFT, 3, split-movetoworkspace, 3"
-			"SUPER_SHIFT, 4, split-movetoworkspace, 4"
-			"SUPER_SHIFT, 5, split-movetoworkspace, 5"
-			"SUPER_SHIFT, 6, split-movetoworkspace, 6"
-			"SUPER_SHIFT, 7, split-movetoworkspace, 7"
-			"SUPER_SHIFT, 8, split-movetoworkspace, 8"
-			"SUPER_SHIFT, 9, split-movetoworkspace, 9"
-			"SUPER_SHIFT, 0, split-movetoworkspace, 10"
-			"SUPER_SHIFT, h, split-changemonitor, next"
-			"SUPER_SHIFT, l, split-changemonitor, prev"
+			"SUPER, 1, workspace, 1"
+			"SUPER, 2, workspace, 2"
+			"SUPER, 3, workspace, 3"
+			"SUPER, 4, workspace, 4"
+			"SUPER, 5, workspace, 5"
+			"SUPER, 6, workspace, 6"
+			"SUPER, 7, workspace, 7"
+			"SUPER, 8, workspace, 8"
+			"SUPER, 9, workspace, 9"
+			"SUPER, 0, workspace, 10"
+			"SUPER_SHIFT, 1, movetoworkspace, 1"
+			"SUPER_SHIFT, 2, movetoworkspace, 2"
+			"SUPER_SHIFT, 3, movetoworkspace, 3"
+			"SUPER_SHIFT, 4, movetoworkspace, 4"
+			"SUPER_SHIFT, 5, movetoworkspace, 5"
+			"SUPER_SHIFT, 6, movetoworkspace, 6"
+			"SUPER_SHIFT, 7, movetoworkspace, 7"
+			"SUPER_SHIFT, 8, movetoworkspace, 8"
+			"SUPER_SHIFT, 9, movetoworkspace, 9"
+			"SUPER_SHIFT, 0, movetoworkspace, 10"
 			"SUPER_CTRL, h, resizeactive, -40 0"
 			"SUPER_CTRL, l, resizeactive, 40 0"
 			"SUPER_CTRL, k, resizeactive, 0 -40"
@@ -70,9 +69,8 @@ in
 		exec-once = [
 			"ags"
 			"copyq --start-server"
-			"webcord"
 			"swww-daemon"
-			"swww img ${wallpapers}/a_small_town_with_many_houses.png"
+			"swww img ${wallpapers}/a_cartoon_of_a_person_with_headphones.png"
 		];
 		windowrulev2 = [
 			"opacity 0.0 override,class:^(xwaylandvideobridge)$"
@@ -88,8 +86,4 @@ in
 			accel_profile = "flat";
 		};
     };
-
-    wayland.windowManager.hyprland.plugins = [
-		inputs.split-monitor-workspaces.packages.${pkgs.system}.split-monitor-workspaces
-    ];
 }

@@ -16,13 +16,13 @@
 		boot.loader.efi.canTouchEfiVariables = true;
 		boot.kernelPackages = pkgs.linuxPackages_latest;
 
-		boot.initrd.kernelModules = [ "amdgpu" ];
+		# boot.initrd.kernelModules = [ "amdgpu" ];
 		hardware.opengl = {
 			enable = true;
 			driSupport = true;
 			driSupport32Bit = true;
-			extraPackages = with pkgs; [ mesa mesa.drivers ];
-			extraPackages32 = with pkgs; [ driversi686Linux.mesa ];
+	#		extraPackages = with pkgs; [ mesa mesa.drivers ];
+	#		extraPackages32 = with pkgs; [ driversi686Linux.mesa ];
 		};
 
 		programs.nix-ld.enable = true;
@@ -68,6 +68,8 @@
 
 	  	sound.enable = true;
 	  	security.rtkit.enable = true;
+
+		services.upower.enable = true;
 	  	services.pipewire = {
 			enable = true;
 			alsa.enable = true;

@@ -1,6 +1,6 @@
 label {
     color: @theme_text_color;
-    font-size: 20px;
+    font-size:20px;
     font-family: "Iosevka", monospace;
 }
 
@@ -38,7 +38,12 @@ label {
 }
 
 .battery-charging {
-    color: green;
+    color: @accent_color;
+	font-size: 2px;
+}
+
+.battery {
+	font-size: 2px;
 }
 
 .volume {

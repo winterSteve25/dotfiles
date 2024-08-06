@@ -15,13 +15,16 @@
 		swww
 		cmake
 		gnumake
+		clang
+		ninja
 		nodejs
 		ripgrep
-		clang
 		bun
 		btop
 		libnotify
 		rustup
+		python3
+		gimp
 
 		# programs
 		google-chrome
@@ -31,9 +34,8 @@
 		kitty
 
 		# ides
-		jetbrains.webstorm
 		jetbrains.idea-ultimate
-		jetbrains.rust-rover
+		jetbrains.clion
 	];
 
 	home.file.".ideavimrc".source = ./ideavim;

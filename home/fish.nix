@@ -4,6 +4,7 @@
 	programs.fish.enable = true;
 	programs.fish.interactiveShellInit = ''
 		set -g fish_greeting
+		set -g NIXPKGS_ALLOW_INSECURE 1
 
 		# Colors
 		set -l foreground d3c6aa

@@ -32,6 +32,7 @@
 			glfw
 			openal
 			stdenv.cc.cc.lib
+			flite
 		];
 
 		# Set your time zone.

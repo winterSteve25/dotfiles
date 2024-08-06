@@ -57,7 +57,6 @@
 
 		environment.systemPackages = with pkgs; [
 			vim
-			yazi
 			git
 		];
 

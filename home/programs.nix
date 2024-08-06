@@ -35,7 +35,6 @@
 
 		# ides
 		jetbrains.idea-ultimate
-		jetbrains.clion
 	];
 
 	home.file.".ideavimrc".source = ./ideavim;

@@ -25,6 +25,7 @@
 		rustup
 		python3
 		gimp
+		brightnessctl
 
 		# programs
 		google-chrome

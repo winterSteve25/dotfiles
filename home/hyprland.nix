@@ -31,8 +31,6 @@ in
 			"SUPER, S, fullscreen, 0"
 			"SUPER_SHIFT, Q, exit,"
 			", PRINT, exec, grim -g \"$(slurp -d)\" - | wl-copy -t image/png"
-			", XF86AudioRaiseVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%+"
-			", XF86AudioLowerVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%-"
 			"SUPER, h, movefocus, l"
 			"SUPER, l, movefocus, r"
 			"SUPER, k, movefocus, u"
@@ -61,6 +59,10 @@ in
 			"SUPER_CTRL, l, resizeactive, 40 0"
 			"SUPER_CTRL, k, resizeactive, 0 -40"
 			"SUPER_CTRL, j, resizeactive, 0 40"
+		];
+		bindel = [
+			", XF86AudioRaiseVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%+"
+			", XF86AudioLowerVolume, exec, wpctl set-volume -l 1.4 @DEFAULT_AUDIO_SINK@ 5%-"
 		];
 		bindm = [
 			"SUPER, mouse:272, movewindow"

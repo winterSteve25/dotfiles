@@ -23,6 +23,11 @@ function NotificationIcon({app_entry, app_icon, image}) {
 }
 
 function Notification(n) {
+	Utils.timeout(8000, () => {
+        self.class_names = ["invis", ...self.class_names];
+        Utils.timeout(200, n.dismiss);
+	});
+
     const icon = Widget.Box({
         vpack: "start",
         class_name: "icon",

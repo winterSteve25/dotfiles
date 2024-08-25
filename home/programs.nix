@@ -26,6 +26,8 @@
 		python3
 		gimp
 		brightnessctl
+		pavucontrol
+		nm-tray
 
 		# programs
 		google-chrome

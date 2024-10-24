@@ -36,7 +36,7 @@
 		];
 
 		# Set your time zone.
-		time.timeZone = "America/Toronto";
+		time.timeZone = "America/Vancouver";
 		i18n.defaultLocale = "en_CA.UTF-8";
 
 		# Define a user account. Don't forget to set a password with ‘passwd’.

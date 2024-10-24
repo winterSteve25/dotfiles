@@ -27,7 +27,7 @@
 		gimp
 		brightnessctl
 		pavucontrol
-		nm-tray
+		networkmanagerapplet
 
 		# programs
 		google-chrome
@@ -35,6 +35,8 @@
 		grim
 		slurp
 		kitty
+
+		racket
 
 		# ides
 		jetbrains.idea-ultimate

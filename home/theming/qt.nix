@@ -1,9 +1,11 @@
-{ config, pkgs, ... }:
-
 {
-	qt.enable = true;
-	qt.platformTheme.name = "gtk";
+  config,
+  pkgs,
+  ...
+}: {
+  qt.enable = true;
+  qt.platformTheme.name = "gtk";
 
-	qt.style.package = pkgs.adwaita-qt;
-	qt.style.name = "adwaita-dark";
+  qt.style.package = pkgs.adwaita-qt;
+  qt.style.name = "adwaita-dark";
 }

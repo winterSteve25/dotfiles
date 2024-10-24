@@ -38,7 +38,12 @@ label {
 }
 
 .battery-charging {
-    color: green;
+    color: @accent_color;
+	font-size: 2px;
+}
+
+.battery {
+	font-size: 2px;
 }
 
 .volume {

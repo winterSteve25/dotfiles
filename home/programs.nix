@@ -27,9 +27,9 @@
     rustup
     python3
     gimp
-	
+
     networkmanagerapplet
-	pavucontrol
+    pavucontrol
 
     # programs
     google-chrome

@@ -1,6 +1,7 @@
 {
   config,
   pkgs,
+  inputs,
   ...
 }: {
   imports = [
@@ -26,8 +27,7 @@
       extraPackages32 = with pkgs; [driversi686Linux.mesa];
     };
 
-    programs.nix-ld.enable = true;
-    programs.nix-ld.libraries = with pkgs; [
+    programs.nix-ld.dev.libraries = with pkgs; [
       libpulseaudio
       libGL
       glfw
@@ -56,12 +56,12 @@
       options = "--delete-older-than 7d";
     };
 
-programs.steam = {
-		  	enable = true;
-		  	remotePlay.openFirewall = true; # Open ports in the firewall for Steam Remote Play
-		  	dedicatedServer.openFirewall = true; # Open ports in the firewall for Source Dedicated Server
-		 	localNetworkGameTransfers.openFirewall = true; # Open ports in the firewall for Steam Local Network Game Transfers
-		};
+    programs.steam = {
+      enable = true;
+      remotePlay.openFirewall = true; # Open ports in the firewall for Steam Remote Play
+      dedicatedServer.openFirewall = true; # Open ports in the firewall for Source Dedicated Server
+      localNetworkGameTransfers.openFirewall = true; # Open ports in the firewall for Steam Local Network Game Transfers
+    };
 
     environment.systemPackages = with pkgs; [
       vim
@@ -88,12 +88,15 @@ programs.steam = {
     xdg.portal.enable = true;
     xdg.portal.extraPortals = [
       pkgs.xdg-desktop-portal-gtk
-      pkgs.xdg-desktop-portal-hyprland
     ];
 
     programs.hyprland = {
       enable = true;
       xwayland.enable = true;
+      package = inputs.hyprland.packages.${pkgs.system}.hyprland.override {
+        legacyRenderer = true;
+        mesa = pkgs.mesa;
+      };
     };
 
     # This value determines the NixOS release from which the default

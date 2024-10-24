@@ -12,6 +12,14 @@
     ../../home/hyprland/window_rules.nix
   ];
 
+  nixpkgs.overlays = [
+    (final: prev: {
+      hyprland = final.hyprland.override {
+        hyprland-legacy-renderer = true;
+      };
+    })
+  ];
+
   wayland.windowManager.hyprland.settings = {
     monitor = [
       "DP-1,1920x1080@144,0x0,1"
@@ -38,5 +46,8 @@
       "SUPER_SHIFT, 9, movetoworkspace, 9"
       "SUPER_SHIFT, 0, movetoworkspace, 10"
     ];
+    debug = {
+      disable_logs = false;
+    };
   };
 }

@@ -1,4 +1,8 @@
-{config, pkgs, ...}: let
+{
+  config,
+  pkgs,
+  ...
+}: let
   wallpapers = ../wallpapers;
   changebg = pkgs.writeShellScript "bgchanger" ''
     count=$(find ${wallpapers} | wc -l)
@@ -14,7 +18,7 @@
 in {
   wayland.windowManager.hyprland.settings.exec-once = [
     "ags"
-	"copyq --start-server"
+    "copyq --start-server"
     "webcord"
     "swww-daemon"
     "swww img ${wallpapers}/a_small_town_with_many_houses.png"

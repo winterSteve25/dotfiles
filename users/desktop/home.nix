@@ -4,7 +4,7 @@
   ...
 }: {
   imports = [
-  	../../home/home.nix
+    ../../home/home.nix
     ./hyprland.nix
     ../../home/programs.nix
     ../../home/fonts.nix

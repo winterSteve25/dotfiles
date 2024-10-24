@@ -35,6 +35,7 @@
         specialArgs = {inherit inputs;};
         modules = [
           ./os/configuration.nix
+          nix-ld.nixosModules.nix-ld
         ];
       };
     };

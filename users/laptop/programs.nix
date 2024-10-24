@@ -5,10 +5,9 @@
 }: {
   imports = [
     ../../home/programs.nix
- ];
- 
+  ];
 
   home.packages = with pkgs; [
-  	brightnessctl
+    brightnessctl
   ];
 }

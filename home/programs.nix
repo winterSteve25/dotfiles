@@ -40,7 +40,6 @@
 
     # ides
     jetbrains.idea-ultimate
-	zed-editor
   ];
 
   home.file.".ideavimrc".source = ./ideavim;

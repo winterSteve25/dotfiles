@@ -18,7 +18,6 @@
   '';
 in {
   wayland.windowManager.hyprland.settings.exec-once = [
-    "waybar"
     "copyq --start-server"
     "webcord"
     "swww-daemon"

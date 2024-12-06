@@ -12,13 +12,13 @@
     ../../home/hyprland/window_rules.nix
   ];
 
-  nixpkgs.overlays = [
-    (final: prev: {
-      hyprland = final.hyprland.override {
-        hyprland-legacy-renderer = true;
-      };
-    })
-  ];
+  # nixpkgs.overlays = [
+  #   (final: prev: {
+  #     hyprland = final.hyprland.override {
+  #       hyprland-legacy-renderer = true;
+  #     };
+  #   })
+  # ];
 
   wayland.windowManager.hyprland.settings = {
     monitor = [

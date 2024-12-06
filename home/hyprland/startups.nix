@@ -1,6 +1,7 @@
 {
   config,
   pkgs,
+  inputs,
   ...
 }: let
   wallpapers = ../wallpapers;
@@ -17,7 +18,7 @@
   '';
 in {
   wayland.windowManager.hyprland.settings.exec-once = [
-    "ags"
+    "waybar"
     "copyq --start-server"
     "webcord"
     "swww-daemon"

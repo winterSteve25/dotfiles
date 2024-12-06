@@ -5,6 +5,7 @@
 }: {
   imports = [
     ../../home/home.nix
+    ../../home/bar.nix
     ./hyprland.nix
     ./programs.nix
     ../../home/fonts.nix
@@ -13,7 +14,6 @@
     ../../home/kitty.nix
     ../../home/fish.nix
     ../../home/starship.nix
-    ../../home/ags.nix
     ../../home/java.nix
     ../../home/theming/theme.nix
   ];

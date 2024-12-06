@@ -19,10 +19,9 @@
     boot.kernelPackages = pkgs.linuxPackages_latest;
 
     boot.initrd.kernelModules = ["amdgpu"];
-    hardware.opengl = {
+    hardware.graphics = {
       enable = true;
-      driSupport = true;
-      driSupport32Bit = true;
+      enable32Bit = true;
       extraPackages = with pkgs; [mesa mesa.drivers];
       extraPackages32 = with pkgs; [driversi686Linux.mesa];
     };
@@ -75,7 +74,6 @@
       NIXOS_OZONE_WL = "1";
     };
 
-    sound.enable = true;
     security.rtkit.enable = true;
     services.pipewire = {
       enable = true;

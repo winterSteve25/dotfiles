@@ -5,7 +5,7 @@
 }: {
   # do `fc-cache -f` once finished
   home.packages = with pkgs; [
-    fira-code-nerdfont
+    nerd-fonts.fira-code
     iosevka
   ];
 }
